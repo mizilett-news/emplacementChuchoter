@@ -699,16 +699,10 @@ if(age>60*60*5*0):
 '''
 inqRandomNews()
 
-'''
-##TODO decomment
-keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/gensChuchoter/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'fr', 9)
-keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIsComing/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'fr', 9)
-keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'fr', 9)
-'''
-keywordsDF = addNewLocations('https://raw.githubusercontent.com/pg-ufr-news/emplacementChuchoter/main/csv/sentiments_new_locations.csv', keywordsDF, 0.5, 'fr', 9)
+keywordsDF = addNewLocations('https://raw.githubusercontent.com/mizilett-news/emplacementChuchoter/main/csv/sentiments_new_locations.csv', keywordsDF, 0.5, 'fr', 9)
 
 keywordsDF['geonames'] = keywordsDF['geonames'].astype(int)
-keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
+keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.08)]
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew','keyword'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False, float_format='%.12f')  
