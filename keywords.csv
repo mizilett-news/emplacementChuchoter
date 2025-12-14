@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'New York',fr,United States,#8aee6c,#8aee6c,3,0.413464836965,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,2,0.410286769082,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Stanley Falkland',fr,Falkland Islands,#0d7c11,#0d7c11,1,0.408364846658,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
-'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.404038269422,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Koweit',fr,Kuwait,#5574ec,#5574ec,1,0.402377564026,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
 'Ville de Cockburn',fr,Turks and Caicos Islands,#81434C,#81434C,1,0.399926572182,CENTRAL-AMERICA,4285170-1,3576916,21.733330000000,-71.583330000000,A,Turks and Caicos Islands,CAR
 'Noursoultan',fr,Kazakhstan,#BBD1D4,#BBD1D4,1,0.399926572182,ASIA,1009150-6,1522867,48.000000000000,68.000000000000,A,Kazakhstan,WSB
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Territoire britannique de l'océan Indien',fr,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.350924814434,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Territoire britannique de l'océan Indien,EIO
 'Diego García',fr,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Territoire britannique de l'océan Indien,EIO
 'Guatemala-ville',fr,Guatemala,#74C8D9,#74C8D9,1,0.346624111870,CENTRAL-AMERICA,4022428-4,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
+'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.343432529009,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Ukraine',fr,Ukraine,#7db3f0,#7db3f0,3,0.302171072113,EUROPE,4061496-7,690791,49.000000000000,32.000000000000,A,Ukraine,WCE
 'Israël',fr,Israel,#5997ec,#5997ec,2,0.292393555691,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'France',fr,France,#77ebef,#77ebef,2,0.258749486741,EUROPE,4018145-5,3017382,46.000000000000,2.000000000000,A,France,WCE
