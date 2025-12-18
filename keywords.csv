@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Cisjordanie',fr,Palestinian Territory,#5b97ec,#5b97ec,3,0.492158376650,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Genève',fr,Switzerland,#77e3ef,#77e3ef,3,0.465073009957,EUROPE,4020137-5,2660646,46.202220000000,6.145690000000,P,Switzerland,WCE
 'Kiev',fr,Ukraine,#80b7f0,#80b7f0,3,0.464912776174,EUROPE,4030522-3,703448,50.454660000000,30.523800000000,P,Ukraine,WCE
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.459891889992,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Île Christmas',fr,Christmas Island,#a317d0,#a317d0,1,0.429860500094,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Îles Vierges américaines',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.429731121303,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
 'Îles Turques et Caïques',fr,Turks and Caicos Islands,#65ea45,#65ea45,1,0.428641896141,CENTRAL-AMERICA,4285170-1,3576916,21.733330000000,-71.583330000000,A,Turks and Caicos Islands,CAR
+'Cisjordanie',fr,Palestinian Territory,#5b97ec,#5b97ec,3,0.427832459698,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.425788467273,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'New York',fr,United States,#8aee6c,#8aee6c,3,0.413464836965,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,2,0.410286769082,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Diego García',fr,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Territoire britannique de l'océan Indien,EIO
 'Guatemala-ville',fr,Guatemala,#74C8D9,#74C8D9,1,0.346624111870,CENTRAL-AMERICA,4022428-4,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.345303784921,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
-'Israël',fr,Israel,#5997ec,#5997ec,2,0.313516453664,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
+'Israël',fr,Israel,#5997ec,#5997ec,2,0.314504244471,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Ukraine',fr,Ukraine,#7db3f0,#7db3f0,3,0.304182382871,EUROPE,4061496-7,690791,49.000000000000,32.000000000000,A,Ukraine,WCE
 'France',fr,France,#77ebef,#77ebef,2,0.275735793150,EUROPE,4018145-5,3017382,46.000000000000,2.000000000000,A,France,WCE
 'Moscou',fr,Russia,#8bb1f2,#8bb1f2,3,0.250288949168,EUROPE,4074987-3,524901,55.752220000000,37.615560000000,P,Russia,WCE
