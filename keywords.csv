@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,2,0.512885725958,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Genève',fr,Switzerland,#77e3ef,#77e3ef,3,0.462077945394,EUROPE,4020137-5,2660646,46.202220000000,6.145690000000,P,Switzerland,WCE
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.459891889992,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Palestine',fr,Palestinian Territory,#5a97ec,#5a97ec,3,0.458705216472,EUROPE-AFRICA,4044381-4,6254930,31.921570000000,35.203290000000,A,Palestinian Territory,MED
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Gaza',fr,Palestinian Territory,#5998ec,#5998ec,3,0.438606313195,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Caraïbes',fr,Guadeloupe,#3ee93a,#3ee93a,3,0.438530279389,CENTRAL-AMERICA,4073241-1,11571757,16.241160000000,-61.319000000000,L,Guadeloupe,CAR
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,1,0.436917908248,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
+'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,2,0.436252897064,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Arabie saoudite',fr,Saudi Arabia,#4c74eb,#4c74eb,3,0.432316714387,ASIA,4051788-3,102358,25.000000000000,45.000000000000,A,Saudi Arabia,ARP
 'Ukraine',fr,Ukraine,#7db3f0,#7db3f0,3,0.430262633992,EUROPE,4061496-7,690791,49.000000000000,32.000000000000,A,Ukraine,WCE
 'Îles Vierges américaines',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.429731121303,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
