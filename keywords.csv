@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
 'Palestine',fr,Palestinian Territory,#5a97ec,#5a97ec,3,0.474363115041,EUROPE-AFRICA,4044381-4,6254930,31.921570000000,35.203290000000,A,Palestinian Territory,MED
 'Gaza',fr,Palestinian Territory,#5998ec,#5998ec,3,0.453484450961,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
-'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.452796044595,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Arabie saoudite',fr,Saudi Arabia,#4c74eb,#4c74eb,3,0.450720720527,ASIA,4051788-3,102358,25.000000000000,45.000000000000,A,Saudi Arabia,ARP
 'Ukraine',fr,Ukraine,#7db3f0,#7db3f0,3,0.448431507931,EUROPE,4061496-7,690791,49.000000000000,32.000000000000,A,Ukraine,WCE
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,2,0.447469555133,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'France',fr,France,#77ebef,#77ebef,2,0.397436643324,EUROPE,4018145-5,3017382,46.000000000000,2.000000000000,A,France,WCE
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,1,0.391516737847,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,1,0.387313796746,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
+'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.384876652906,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,1,0.376255625504,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
 'Île Christmas',fr,Christmas Island,#a317d0,#a317d0,2,0.375439211316,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.371696797670,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
