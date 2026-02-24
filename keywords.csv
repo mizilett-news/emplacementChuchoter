@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,2,0.448949042548,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Caraïbes',fr,Guadeloupe,#3ee93a,#3ee93a,3,0.441553574249,CENTRAL-AMERICA,4073241-1,11571757,16.241160000000,-61.319000000000,L,Guadeloupe,CAR
 'Kiev',fr,Ukraine,#80b7f0,#80b7f0,3,0.438454647277,EUROPE,4030522-3,703448,50.454660000000,30.523800000000,P,Ukraine,WCE
-'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,2,0.437776434874,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Cisjordanie',fr,Palestinian Territory,#5b97ec,#5b97ec,3,0.434788670170,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Russie',fr,Russia,#d393f3,#d393f3,3,0.432463648863,ASIA,4076899-5,2017370,60.000000000000,100.000000000000,A,Russia,ESB
 'Genève',fr,Switzerland,#77e3ef,#77e3ef,3,0.423923802957,EUROPE,4020137-5,2660646,46.202220000000,6.145690000000,P,Switzerland,WCE
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.384876652906,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.384809005551,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Alofi',fr,Niue,#be3115,#be3115,1,0.380200110818,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
+'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.372110014643,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Israël',fr,Israel,#5997ec,#5997ec,2,0.366289538827,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Îles Turques et Caïques',fr,Turks and Caicos Islands,#65ea45,#65ea45,1,0.364345611720,CENTRAL-AMERICA,4285170-1,3576916,21.733330000000,-71.583330000000,A,Turks and Caicos Islands,CAR
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,1,0.363900195567,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
