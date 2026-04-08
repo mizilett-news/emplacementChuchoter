@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.413883833187,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'L'Iran',fr,Iran,#5a6bec,#5a6bec,3,0.404458372993,ASIA,4027653-3,130758,32.000000000000,53.000000000000,A,Iran,WCA
 'New York',fr,United States,#8aee6c,#8aee6c,3,0.404076581204,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
-'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.373877902866,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Moscou',fr,Russia,#8bb1f2,#8bb1f2,3,0.369941378826,EUROPE,4074987-3,524901,55.752220000000,37.615560000000,P,Russia,WCE
 'Etats Micronesia',fr,Micronesia,#e7276d,#e7276d,1,0.367734714578,PACIFIC,4274661-9,2081918,6.924000000000,158.162000000000,A,Micronesia,EPO
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.366476183596,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,1,0.320717371678,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
 'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.320577088281,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Nigeria',fr,Nigeria,#2dcee7,#2dcee7,3,0.320097469141,AFRICA,4042300-1,2328926,10.000000000000,8.000000000000,A,Nigeria,WAF
+'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.317946232436,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Thaïlande',fr,Thailand,#b139e9,#b139e9,3,0.317222047975,ASIA,4078228-1,1605651,15.500000000000,101.000000000000,A,Thailand,SEA
 'Montserrat',fr,Montserrat,#42e93b,#42e93b,2,0.305796546086,CENTRAL-AMERICA,4274693-0,3578097,16.750000000000,-62.200000000000,A,Montserrat,CAR
 'Territoire britannique de l'océan Indien',fr,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.300309989981,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Territoire britannique de l'océan Indien,EIO
