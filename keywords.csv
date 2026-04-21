@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,1,0.325430400384,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Belgique',fr,Belgium,#81e8f1,#81e8f1,3,0.321228030928,EUROPE,4005406-8,2802361,50.750000000000,4.500000000000,A,Belgium,WCE
 'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,1,0.320717371678,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
-'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.320577088281,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.317946232436,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Thaïlande',fr,Thailand,#b139e9,#b139e9,3,0.317222047975,ASIA,4078228-1,1605651,15.500000000000,101.000000000000,A,Thailand,SEA
 'Séoul',fr,South Korea,#ee66de,#ee66de,3,0.312083325280,ASIA,110416-0,1835848,37.566000000000,126.978400000000,P,South Korea,EAS
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Bruxelles',fr,Belgium,#81e8f1,#81e8f1,3,0.280646512876,EUROPE,4008460-7,2800866,50.850450000000,4.348780000000,P,Belgium,WCE
 'Îles Cocos',fr,Cocos Islands,#8616cc,#8616cc,1,0.279988609824,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Îles Cocos,SIO
 'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#250d79,#250d79,1,0.276567215799,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
+'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.272490525039,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Bamako',fr,Mali,#33e8d0,#33e8d0,3,0.271401132972,AFRICA,4086612-9,2460596,12.609150000000,-7.975220000000,P,Mali,WAF
 'Brésil',fr,Brazil,#17d126,#17d126,3,0.269676849107,SOUTH-AMERICA,4008003-1,3469034,-10.000000000000,-55.000000000000,A,Brazil,SAM
 'Malaisie',fr,Malaysia,#cd1ee6,#cd1ee6,3,0.263814987301,ASIA,4037203-0,1733045,2.500000000000,112.500000000000,A,Malaysia,SEA
