@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,3,0.425715753118,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
 'Caraïbes',fr,Guadeloupe,#3ee93a,#3ee93a,3,0.422408412821,CENTRAL-AMERICA,4073241-1,11571757,16.241160000000,-61.319000000000,L,Guadeloupe,CAR
 'New York',fr,United States,#8aee6c,#8aee6c,3,0.389622813551,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
-'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.380601884126,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Moscou',fr,Russia,#8bb1f2,#8bb1f2,3,0.380498854247,EUROPE,4074987-3,524901,55.752220000000,37.615560000000,P,Russia,WCE
 'Etats Micronesia',fr,Micronesia,#e7276d,#e7276d,1,0.373066939242,PACIFIC,4274661-9,2081918,6.924000000000,158.162000000000,A,Micronesia,EPO
 'Washington',fr,United States,#8eee68,#8eee68,3,0.367901869712,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Alofi',fr,Niue,#be3115,#be3115,1,0.325616395233,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,1,0.325430400384,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Belgique',fr,Belgium,#81e8f1,#81e8f1,3,0.324147581531,EUROPE,4005406-8,2802361,50.750000000000,4.500000000000,A,Belgium,WCE
+'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.323511601507,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.317946232436,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Thaïlande',fr,Thailand,#b139e9,#b139e9,3,0.317222047975,ASIA,4078228-1,1605651,15.500000000000,101.000000000000,A,Thailand,SEA
 'Séoul',fr,South Korea,#ee66de,#ee66de,3,0.312083325280,ASIA,110416-0,1835848,37.566000000000,126.978400000000,P,South Korea,EAS
