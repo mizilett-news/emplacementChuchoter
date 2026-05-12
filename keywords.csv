@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Alofi',fr,Niue,#be3115,#be3115,1,0.325616395233,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Îles Falkland',fr,Falkland Islands,#0d7b0f,#0d7b0f,1,0.325430400384,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Thaïlande',fr,Thailand,#b139e9,#b139e9,3,0.318203638693,ASIA,4078228-1,1605651,15.500000000000,101.000000000000,A,Thailand,SEA
-'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.317946232436,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Séoul',fr,South Korea,#ee66de,#ee66de,3,0.312083325280,ASIA,110416-0,1835848,37.566000000000,126.978400000000,P,South Korea,EAS
 'Territoire britannique de l'océan Indien',fr,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.300309989981,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Territoire britannique de l'océan Indien,EIO
 'Virgin Islands',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,1,0.298499923552,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Brésil',fr,Brazil,#17d126,#17d126,3,0.274947520797,SOUTH-AMERICA,4008003-1,3469034,-10.000000000000,-55.000000000000,A,Brazil,SAM
 'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,1,0.273359840926,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
 'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.272490525039,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
+'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.270254297571,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Afrique du Sud',fr,South Africa,#126daa,#126daa,3,0.268124712919,AFRICA,4078012-0,953987,-29.000000000000,24.000000000000,A,South Africa,WSAF
 'Liban',fr,Lebanon,#5e97ed,#5e97ed,2,0.264213641346,EUROPE-AFRICA,4035567-6,272103,33.833330000000,35.833330000000,A,Lebanon,MED
 'Malaisie',fr,Malaysia,#cd1ee6,#cd1ee6,3,0.263814987301,ASIA,4037203-0,1733045,2.500000000000,112.500000000000,A,Malaysia,SEA
