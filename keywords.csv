@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'RDC',fr,Democratic Republic of the Congo,#1892e0,#1892e0,3,0.558329520418,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
 'Washington',fr,United States,#8eee68,#8eee68,3,0.482511584906,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
+'RDC',fr,Democratic Republic of the Congo,#1892e0,#1892e0,3,0.479534637355,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
 'Arabie saoudite',fr,Saudi Arabia,#4c74eb,#4c74eb,3,0.479368577813,ASIA,4051788-3,102358,25.000000000000,45.000000000000,A,Saudi Arabia,ARP
 'Paris',fr,France,#7decf0,#7decf0,3,0.479269030555,EUROPE,4044660-8,2988507,48.853410000000,2.348800000000,P,France,WCE
 'Genève',fr,Switzerland,#77e3ef,#77e3ef,3,0.477888335648,EUROPE,4020137-5,2660646,46.202220000000,6.145690000000,P,Switzerland,WCE
