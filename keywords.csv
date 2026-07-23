@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Angleterre',fr,United Kingdom,#82f1f0,#82f1f0,3,0.512550611604,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'France',fr,France,#77ebef,#77ebef,3,0.510373075866,EUROPE,4018145-5,3017382,46.000000000000,2.000000000000,A,France,WCE
 'Paris',fr,France,#7decf0,#7decf0,3,0.489089048371,EUROPE,4044660-8,2988507,48.853410000000,2.348800000000,P,France,WCE
 'Savoie',fr,France,#76e2ef,#76e2ef,3,0.487707345184,EUROPE,117150-1,2975517,45.468050000000,6.485470000000,A,France,WCE
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Arabie saoudite',fr,Saudi Arabia,#4c74eb,#4c74eb,3,0.448017676007,ASIA,4051788-3,102358,25.000000000000,45.000000000000,A,Saudi Arabia,ARP
 'Évian-les-Bains',fr,France,#78e2f0,#78e2f0,2,0.447456571803,EUROPE,4091975-4,3019280,46.401110000000,6.587930000000,P,France,WCE
 'Dubaï',fr,United Arab Emirates,#4c59eb,#4c59eb,3,0.447225674737,ASIA,4204044-9,292223,25.077250000000,55.309270000000,P,United Arab Emirates,ARP
+'Angleterre',fr,United Kingdom,#82f1f0,#82f1f0,3,0.440630094863,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'Belge',fr,Democratic Republic of the Congo,#1892e0,#1892e0,3,0.436935638056,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
 'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.429043443032,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.427919409863,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
