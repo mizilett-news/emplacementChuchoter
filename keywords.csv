@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'RDC',fr,Democratic Republic of the Congo,#1892e0,#1892e0,3,0.493232255909,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
 'Ain',fr,United Arab Emirates,#4a56ea,#4a56ea,3,0.491495859536,ASIA,4079657-7,292913,24.191670000000,55.760560000000,P,United Arab Emirates,ARP
 'Gaza',fr,Palestinian Territory,#5998ec,#5998ec,3,0.489904157719,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Washington',fr,United States,#8eee68,#8eee68,3,0.489417188513,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Jura',fr,Switzerland,#7ae2f0,#7ae2f0,3,0.440422644098,EUROPE,4029043-8,2660207,47.372660000000,7.168020000000,A,Switzerland,WCE
 'Lacanau',fr,France,#75efed,#75efed,2,0.440238592584,EUROPE-AFRICA,4569976-8,3010626,44.979140000000,-1.079570000000,P,France,MED
 'Bollène',fr,France,#73e5ef,#73e5ef,1,0.438680232792,EUROPE-AFRICA,4238009-1,3031868,44.281240000000,4.748910000000,P,France,MED
+'RDC',fr,Democratic Republic of the Congo,#1892e0,#1892e0,3,0.437888856207,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
 'Palestine',fr,Palestinian Territory,#5a97ec,#5a97ec,3,0.437727280937,EUROPE-AFRICA,4044381-4,6254930,31.921570000000,35.203290000000,A,Palestinian Territory,MED
 'Odessa',fr,Ukraine,#78b2f0,#78b2f0,1,0.433537696654,EUROPE,4043115-0,698740,46.485720000000,30.743830000000,P,Ukraine,WCE
 'Asie',fr,China,#9f56ec,#9f56ec,3,0.433035205388,ASIA,4003217-6,6255147,29.840640000000,89.296880000000,L,China,TIB
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Suisse',fr,Switzerland,#79e0f0,#79e0f0,2,0.262053411221,EUROPE,7544501-3,2658434,47.000160000000,8.014270000000,A,Switzerland,WCE
 'Nuuk',fr,Greenland,#9cf4a8,#9cf4a8,2,0.261488787882,POLAR,671310-5,3421319,64.183470000000,-51.721570000000,P,Groenland,GIC
 'Montserrat',fr,Montserrat,#42e93b,#42e93b,1,0.259927064173,CENTRAL-AMERICA,4274693-0,3578097,16.750000000000,-62.200000000000,A,Montserrat,CAR
-'République démocratique du Congo',fr,Democratic Republic of the Congo,#1892e0,#1892e0,2,0.256595267191,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
+'République démocratique du Congo',fr,Democratic Republic of the Congo,#1892e0,#1892e0,2,0.258746863497,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
 'Territoire britannique de l'océan Indien',fr,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.256121562753,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Territoire britannique de l'océan Indien,EIO
 'Groenland',fr,Greenland,#acf5c4,#acf5c4,3,0.254419613927,POLAR,4022113-1,3425505,72.000000000000,-40.000000000000,A,Greenland,GIC
 'Virgin Islands',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,1,0.253724935019,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
