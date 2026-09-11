@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Ain',fr,United Arab Emirates,#4a56ea,#4a56ea,3,0.491495859536,ASIA,4079657-7,292913,24.191670000000,55.760560000000,P,United Arab Emirates,ARP
 'Gaza',fr,Palestinian Territory,#5998ec,#5998ec,3,0.489904157719,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Washington',fr,United States,#8eee68,#8eee68,3,0.489417188513,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
 'Kiev',fr,Ukraine,#80b7f0,#80b7f0,3,0.489370844938,EUROPE,4030522-3,703448,50.454660000000,30.523800000000,P,Ukraine,WCE
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.429043443032,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.428698202607,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Belgique',fr,Belgium,#81e8f1,#81e8f1,3,0.421820256468,EUROPE,4005406-8,2802361,50.750000000000,4.500000000000,A,Belgium,WCE
+'Ain',fr,United Arab Emirates,#4a56ea,#4a56ea,2,0.417772050606,ASIA,4079657-7,292913,24.191670000000,55.760560000000,P,United Arab Emirates,ARP
 'Caraïbes',fr,Guadeloupe,#3ee93a,#3ee93a,3,0.411892318022,CENTRAL-AMERICA,4073241-1,11571757,16.241160000000,-61.319000000000,L,Guadeloupe,CAR
 'New York',fr,United States,#8aee6c,#8aee6c,3,0.411262520644,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
 'Téhéran',fr,Iran,#6276ed,#6276ed,3,0.407329218066,ASIA,4059304-6,112931,35.694390000000,51.421510000000,P,Iran,WCA
