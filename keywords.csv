@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Thonon-les-Bains',fr,France,#78e3f0,#78e3f0,3,0.488896874607,EUROPE,4125495-8,2972742,46.370490000000,6.479850000000,P,France,WCE
 'Centre',fr,Cameroon,#21c0e6,#21c0e6,3,0.487796689436,AFRICA,4119193-6,2220957,3.866670000000,11.516670000000,P,Cameroon,CAF
 'Miami',fr,United States,#83eb4e,#83eb4e,3,0.487325994275,NORTH-AMERICA,4039108-5,4164138,25.774270000000,-80.193660000000,P,United States,ENA
 'L'Iran',fr,Iran,#5a6bec,#5a6bec,3,0.486471456701,ASIA,4027653-3,130758,32.000000000000,53.000000000000,A,Iran,WCA
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.429043443032,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Évian-les-Bains',fr,France,#78e2f0,#78e2f0,1,0.424725326306,EUROPE,4091975-4,3019280,46.401110000000,6.587930000000,P,France,WCE
 'Ain',fr,United Arab Emirates,#4a56ea,#4a56ea,2,0.418570530868,ASIA,4079657-7,292913,24.191670000000,55.760560000000,P,United Arab Emirates,ARP
+'Thonon-les-Bains',fr,France,#78e3f0,#78e3f0,2,0.415562643416,EUROPE,4125495-8,2972742,46.370490000000,6.479850000000,P,France,WCE
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,2,0.415447927772,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.414780339033,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Caraïbes',fr,Guadeloupe,#3ee93a,#3ee93a,3,0.411892318022,CENTRAL-AMERICA,4073241-1,11571757,16.241160000000,-61.319000000000,L,Guadeloupe,CAR
