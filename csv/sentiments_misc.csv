@@ -1,659 +1,582 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Donald Trump,Donald Trump,MISC,,,fr,122
-Guerre en Ukraine ,Guerre en Ukraine ,MISC,,,fr,100
-États-Unis,États-Unis,MISC,0.2678734130948416,0.9323735391592535,fr,74
-Trump,Trump,MISC,,,fr,74
-Tour de France,Tour de France,MISC,,,fr,70
-20 Minutes,20 Minutes,MISC,,,fr,66
-Etats-Unis,Etats-Unis,MISC,0.8196150331150331,3.8804073889073893,fr,58
-Tour de France 2026,Tour de France 2026,MISC,,,fr,51
-Guerre en Ukraine,Guerre en Ukraine,MISC,,,fr,45
-Coupe du monde,Coupe du monde,MISC,,,fr,42
-DIRECT Guerre,DIRECT Guerre,MISC,,,fr,41
+Donald Trump,Donald Trump,MISC,,,fr,130
+Guerre en Ukraine ,Guerre en Ukraine ,MISC,,,fr,94
+Trump,Trump,MISC,,,fr,79
+États-Unis,États-Unis,MISC,0.26807612985305285,0.921356485394947,fr,71
+Tour de France,Tour de France,MISC,,,fr,64
+20 Minutes,20 Minutes,MISC,,,fr,61
+Etats-Unis,Etats-Unis,MISC,0.9487578902578903,3.5897195582195582,fr,55
+Guerre en Ukraine,Guerre en Ukraine,MISC,,,fr,46
+Tour de France 2026,Tour de France 2026,MISC,,,fr,42
+DIRECT Guerre,DIRECT Guerre,MISC,,,fr,36
 C,C,MISC,0.3152151424963925,1.0130118145743146,fr,34
-Coupe du monde 2026,Coupe du monde 2026,MISC,,,fr,34
-Guerre au Moyen,Guerre au Moyen,MISC,,,fr,32
-Orient,Orient,MISC,,,fr,29
+Guerre au Moyen,Guerre au Moyen,MISC,,,fr,28
+Orient,Orient,MISC,,,fr,27
 lUkraine,lUkraine,MISC,,,fr,25
-Ligue 1,Ligue 1,MISC,,,fr,19
+Ligue 1,Ligue 1,MISC,,,fr,20
+Premier ministre,Premier ministre,MISC,,,fr,18
 Ebola,Ebola,MISC,-0.16614826839826843,1.33853354978355,fr,18
-Vous avez raté les derniers événements sur la guerre en Ukraine ,Vous avez raté les derniers événements sur la guerre en Ukraine ,MISC,,,fr,18
-Premier ministre,Premier ministre,MISC,,,fr,17
 Palestiniens,Palestiniens,MISC,0.758538961038961,3.603755411255411,fr,17
+Moyen-Orient,Moyen-Orient,MISC,,,fr,17
 Incendies ,Incendies ,MISC,,,fr,16
-Moyen-Orient,Moyen-Orient,MISC,,,fr,16
-HuffPost,HuffPost,MISC,-0.06499999999999997,3.4433333333333325,fr,16
-Moyen,Moyen,MISC,,,fr,16
-Ça,Ça,MISC,,,fr,14
+Vous avez raté les derniers événements sur la guerre en Ukraine ,Vous avez raté les derniers événements sur la guerre en Ukraine ,MISC,,,fr,15
+HuffPost,HuffPost,MISC,-0.165,3.0808333333333326,fr,14
 Ligue 1 2026,Ligue 1 2026,MISC,,,fr,14
-lAngleterre,lAngleterre,MISC,,,fr,13
 Russes,Russes,MISC,0.07788555194805197,1.1660064935064935,fr,13
+Ça,Ça,MISC,,,fr,13
+Moyen,Moyen,MISC,,,fr,12
+prix Nobel de la paix,prix Nobel de la paix,MISC,,,fr,11
+Coupe du monde,Coupe du monde,MISC,,,fr,11
 â€,â€,MISC,,,fr,11
-Mondial,Mondial,MISC,-0.02797973962312198,0.09605837789661319,fr,11
+A412,A412,MISC,0.5261904761904762,0.49988095238095237,fr,10
 Premier ministre israélien,Premier ministre israélien,MISC,,,fr,10
+Ligue des champions,Ligue des champions,MISC,,,fr,10
 Meta,Meta,MISC,,,fr,10
+Ligue Europa,Ligue Europa,MISC,,,fr,9
 Seconde Guerre mondiale,Seconde Guerre mondiale,MISC,,,fr,9
-administration Trump,administration Trump,MISC,,,fr,9
-Tour,Tour,MISC,0.11216703869047619,0.43590277777777775,fr,9
-Météo,Météo,MISC,0.01055715565796211,0.04159146185355863,fr,9
 Ligue 2,Ligue 2,MISC,,,fr,9
-OnePlus,OnePlus,MISC,,,fr,8
-Le Premier ministre israélien,Le Premier ministre israélien,MISC,,,fr,8
+administration Trump,administration Trump,MISC,,,fr,9
+Tour,Tour,MISC,0.13460044642857144,0.5230833333333333,fr,9
 dArcachon,dArcachon,MISC,,,fr,8
+Brief de Jeune Afrique,Brief de Jeune Afrique,MISC,,,fr,8
 Le Premier ministre,Le Premier ministre,MISC,,,fr,8
 Naruto,Naruto,MISC,,,fr,8
-prix Nobel de la paix,prix Nobel de la paix,MISC,,,fr,8
-Guerre en Ukraine :,Guerre en Ukraine :,MISC,,,fr,7
-la Grande Boucle,la Grande Boucle,MISC,,,fr,7
-lArgentine,lArgentine,MISC,,,fr,7
-Les Bleus,Les Bleus,MISC,,,fr,7
-Extrême-Orient,Extrême-Orient,MISC,,,fr,7
 Premier,Premier,MISC,,,fr,7
-Bleus,Bleus,MISC,-0.012087353123067397,0.16551020408163267,fr,6
-Facebook,Facebook,MISC,,,fr,6
-X,X,MISC,,,fr,6
-Ã,Ã,MISC,,,fr,6
-Google Earth,Google Earth,MISC,,,fr,6
-Ligue Europa,Ligue Europa,MISC,,,fr,6
-Ligue des champions,Ligue des champions,MISC,,,fr,6
-lAssemblée,lAssemblée,MISC,0.3311818181818182,0.8304545454545453,fr,6
-Noël,Noël,MISC,,,fr,6
+Extrême-Orient,Extrême-Orient,MISC,,,fr,7
+Facebook,Facebook,MISC,,,fr,7
+Le Premier ministre israélien,Le Premier ministre israélien,MISC,,,fr,7
+Guerre en Ukraine :,Guerre en Ukraine :,MISC,,,fr,7
 LUkraine,LUkraine,MISC,,,fr,6
+prix Nobel de la paix 2026,prix Nobel de la paix 2026,MISC,,,fr,6
+lAssemblée,lAssemblée,MISC,0.3311818181818182,0.8304545454545453,fr,6
+Ã,Ã,MISC,,,fr,6
+la Grande Boucle,la Grande Boucle,MISC,,,fr,6
+Noël,Noël,MISC,,,fr,6
+X,X,MISC,,,fr,6
 DÃ,DÃ,MISC,,,fr,6
-Brief de Jeune Afrique,Brief de Jeune Afrique,MISC,,,fr,6
+Google Earth,Google Earth,MISC,,,fr,6
+Google Maps,Google Maps,MISC,,,fr,5
+Tour de France Femmes,Tour de France Femmes,MISC,,,fr,5
+RD82,RD82,MISC,,,fr,5
+Amazon,Amazon,MISC,,,fr,5
+lOM,lOM,MISC,,,fr,5
+c,c,MISC,,,fr,5
+Seleçao,Seleçao,MISC,,,fr,5
+Cyclisme,Cyclisme,MISC,,,fr,5
+vi,vi,MISC,,,fr,5
+Météo,Météo,MISC,0.008816964285714286,0.03164859693877551,fr,5
+lAllemagne,lAllemagne,MISC,,,fr,5
+Les Bleues,Les Bleues,MISC,,,fr,5
+Un Ukrainien,Un Ukrainien,MISC,,,fr,5
 Dauphiné Libéré,Dauphiné Libéré,MISC,,,fr,5
 Décryptage,Décryptage,MISC,,,fr,5
-Google Maps,Google Maps,MISC,,,fr,5
-prix Nobel de la paix 2026,prix Nobel de la paix 2026,MISC,,,fr,5
-lOM,lOM,MISC,,,fr,5
-Jeux olympiques,Jeux olympiques,MISC,,,fr,5
 GTA,GTA,MISC,,,fr,5
-RD82,RD82,MISC,,,fr,5
-Cyclisme,Cyclisme,MISC,,,fr,5
-Grande Boucle,Grande Boucle,MISC,,,fr,5
-Tour de France Femmes,Tour de France Femmes,MISC,,,fr,5
-Amazon,Amazon,MISC,,,fr,5
-Dun,Dun,MISC,,,fr,5
-Un Ukrainien,Un Ukrainien,MISC,,,fr,5
-lEspagne,lEspagne,MISC,0.23380471380471377,0.4471380471380471,fr,5
-lAllemagne,lAllemagne,MISC,,,fr,5
-c,c,MISC,,,fr,5
-de Leipzig,de Leipzig,MISC,,,fr,5
 Eurovision Junior,Eurovision Junior,MISC,,,fr,5
-Porsche 911 GT3,Porsche 911 GT3,MISC,,,fr,4
-OpenAI,OpenAI,MISC,,,fr,4
-Quantum,Quantum,MISC,,,fr,4
-dune,dune,MISC,,,fr,4
-Albiceleste,Albiceleste,MISC,,,fr,4
-vi,vi,MISC,,,fr,4
-»,»,MISC,0.04453703703703704,0.13055555555555554,fr,4
-Mistral,Mistral,MISC,0.41714285714285715,0.7885714285714285,fr,4
-Bison Futé,Bison Futé,MISC,,,fr,4
-Houthis,Houthis,MISC,-0.09233333333333334,0.16373333333333334,fr,4
-dIsraël,dIsraël,MISC,,,fr,4
+de Leipzig,de Leipzig,MISC,,,fr,5
 Nano Banana,Nano Banana,MISC,,,fr,4
-La Nuit des temps,La Nuit des temps,MISC,,,fr,4
-Donald Trump Jr,Donald Trump Jr,MISC,,,fr,4
-curitÃ,curitÃ,MISC,,,fr,4
-TGV,TGV,MISC,,,fr,4
-Français,Français,MISC,0.013943932411674348,0.022286226318484387,fr,4
-CAN,CAN,MISC,,,fr,4
-Haute-Vienne,Haute-Vienne,MISC,,,fr,4
-Tour de France femmes 2026,Tour de France femmes 2026,MISC,,,fr,4
 Pierre,Pierre,MISC,0.8700000000000001,1.4444444444444446,fr,4
-Georges,Georges,MISC,,,fr,4
-Internet,Internet,MISC,,,fr,4
+La Nuit des temps,La Nuit des temps,MISC,,,fr,4
+OpenAI,OpenAI,MISC,,,fr,4
+Porsche 911 GT3,Porsche 911 GT3,MISC,,,fr,4
+Dun,Dun,MISC,,,fr,4
+Mistral,Mistral,MISC,0.41714285714285715,0.7885714285714285,fr,4
+»,»,MISC,0.04453703703703704,0.13055555555555554,fr,4
+Time,Time,MISC,,,fr,4
+Grande Boucle,Grande Boucle,MISC,,,fr,4
+Donald Trump Jr,Donald Trump Jr,MISC,,,fr,4
+CAN,CAN,MISC,,,fr,4
+Houthis,Houthis,MISC,-0.06595238095238096,0.11695238095238095,fr,4
+TGV,TGV,MISC,,,fr,4
+Jeux olympiques,Jeux olympiques,MISC,,,fr,4
+Français,Français,MISC,0.015437925170068029,0.024674036281179142,fr,4
+Tour de France femmes 2026,Tour de France femmes 2026,MISC,,,fr,4
+Quantum,Quantum,MISC,,,fr,4
 Proche-Orient,Proche-Orient,MISC,,,fr,4
-A400,A400,MISC,,,fr,3
-SMS,SMS,MISC,,,fr,3
-lEurope,lEurope,MISC,,,fr,3
-Annie,Annie,MISC,,,fr,3
+Tel-Aviv,Tel-Aviv,MISC,,,fr,4
+dIsraël,dIsraël,MISC,,,fr,4
+curitÃ,curitÃ,MISC,,,fr,4
 Redmi Watch 6 Lite,Redmi Watch 6 Lite,MISC,,,fr,3
-Polymarket,Polymarket,MISC,-0.125,1.0416666666666667,fr,3
-Constitution,Constitution,MISC,,,fr,3
-dEtat,dEtat,MISC,,,fr,3
+A400,A400,MISC,,,fr,3
+Gaza,Gaza,MISC,0.004165666266506603,0.006002400960384155,fr,3
+sy,sy,MISC,,,fr,3
+Le Jour,Le Jour,MISC,,,fr,3
+lOlympique,lOlympique,MISC,,,fr,3
+La guerre en Ukraine,La guerre en Ukraine,MISC,,,fr,3
 plan Trump,plan Trump,MISC,,,fr,3
+CNews,CNews,MISC,,,fr,3
+Safine,Safine,MISC,,,fr,3
+Source : Responsible Statecraft,Source : Responsible Statecraft,MISC,,,fr,3
+Station spatiale internationale,Station spatiale internationale,MISC,,,fr,3
+Françaises,Françaises,MISC,,,fr,3
+ex,ex,MISC,,,fr,3
+Tour d,Tour d,MISC,,,fr,3
+iAddict,iAddict,MISC,,,fr,3
 Championnat d'Europe de volleyball,Championnat d'Europe de volleyball,MISC,,,fr,3
+Matriochka,Matriochka,MISC,,,fr,3
+Grands Prix,Grands Prix,MISC,,,fr,3
+FlyDubai,FlyDubai,MISC,,,fr,3
+Tour de France femmes,Tour de France femmes,MISC,,,fr,3
+championnat d'Europe,championnat d'Europe,MISC,,,fr,3
+lHexagone,lHexagone,MISC,,,fr,3
+Alert,Alert,MISC,,,fr,3
+Juventus,Juventus,MISC,,,fr,3
+Bison Futé,Bison Futé,MISC,,,fr,3
+Chikungunya,Chikungunya,MISC,,,fr,3
+Premier ministre canadien,Premier ministre canadien,MISC,,,fr,3
+Coupe du golfe arabe,Coupe du golfe arabe,MISC,,,fr,3
+The White Lotus,The White Lotus,MISC,,,fr,3
+CR7,CR7,MISC,0.05666666666666667,0.5916666666666667,fr,3
+Elon Musk,Elon Musk,MISC,,,fr,3
+Constitution,Constitution,MISC,,,fr,3
+ChatGPT,ChatGPT,MISC,,,fr,3
+Motocross des Nations,Motocross des Nations,MISC,,,fr,3
+LAllemagne,LAllemagne,MISC,,,fr,3
+André,André,MISC,,,fr,3
+Apple One,Apple One,MISC,,,fr,3
+Dragon Ball,Dragon Ball,MISC,0.0,0.0,fr,3
+marathon de Nouvelle-Calédonie,marathon de Nouvelle-Calédonie,MISC,,,fr,3
+Daryl Dixon,Daryl Dixon,MISC,,,fr,3
+Alpecin,Alpecin,MISC,,,fr,3
+Maduro,Maduro,MISC,,,fr,3
+Armées,Armées,MISC,,,fr,3
+/L,/L,MISC,,,fr,3
+The Walking Dead,The Walking Dead,MISC,,,fr,3
+dune,dune,MISC,,,fr,3
+2G,2G,MISC,,,fr,3
+lEspagne,lEspagne,MISC,0.19333333333333333,0.33333333333333337,fr,3
+Une marche blanche,Une marche blanche,MISC,,,fr,3
+Annie,Annie,MISC,,,fr,3
+200 Go,200 Go,MISC,,,fr,3
+SMS,SMS,MISC,,,fr,3
+Prix Nobel de la paix,Prix Nobel de la paix,MISC,,,fr,3
+ICE,ICE,MISC,,,fr,3
+Libération,Libération,MISC,,,fr,3
+Coupe du monde 2026,Coupe du monde 2026,MISC,,,fr,3
+VoLTE,VoLTE,MISC,,,fr,3
+ING Arena,ING Arena,MISC,0.17099999999999996,0.46,fr,3
+Nationalmannschaft,Nationalmannschaft,MISC,,,fr,3
+Drones,Drones,MISC,,,fr,3
+lEurope,lEurope,MISC,,,fr,3
+Samedi soir,Samedi soir,MISC,,,fr,3
+Saint-Etienne,Saint-Etienne,MISC,,,fr,3
+États-Unis à la Chine,États-Unis à la Chine,MISC,,,fr,3
 indiquÃ,indiquÃ,MISC,,,fr,3
 missiles Patriot,missiles Patriot,MISC,,,fr,3
-marathon de Nouvelle-Calédonie,marathon de Nouvelle-Calédonie,MISC,,,fr,3
-sy,sy,MISC,,,fr,3
-The Walking Dead,The Walking Dead,MISC,,,fr,3
-ING Arena,ING Arena,MISC,0.17099999999999996,0.46,fr,3
-La guerre en Ukraine,La guerre en Ukraine,MISC,,,fr,3
-ChatGPT,ChatGPT,MISC,,,fr,3
-États-Unis à la Chine,États-Unis à la Chine,MISC,,,fr,3
-championnat d'Europe,championnat d'Europe,MISC,,,fr,3
 Congrès américain,Congrès américain,MISC,,,fr,3
-Gaza,Gaza,MISC,0.004130952380952382,0.005952380952380954,fr,3
-LAllemagne,LAllemagne,MISC,,,fr,3
-CNews,CNews,MISC,,,fr,3
-Le Jour,Le Jour,MISC,,,fr,3
-Saint-Etienne,Saint-Etienne,MISC,,,fr,3
-Nationalmannschaft,Nationalmannschaft,MISC,,,fr,3
-Armées,Armées,MISC,,,fr,3
-Delivery Hero,Delivery Hero,MISC,,,fr,3
-2G,2G,MISC,,,fr,3
-Three Lions,Three Lions,MISC,,,fr,3
-Alpecin,Alpecin,MISC,,,fr,3
-CR7,CR7,MISC,0.05666666666666667,0.5916666666666667,fr,3
-Seleçao,Seleçao,MISC,,,fr,3
-lHexagone,lHexagone,MISC,,,fr,3
-Safine,Safine,MISC,,,fr,3
-VoLTE,VoLTE,MISC,,,fr,3
-ex,ex,MISC,,,fr,3
-André,André,MISC,,,fr,3
-Chikungunya,Chikungunya,MISC,,,fr,3
-Tour d,Tour d,MISC,,,fr,3
-Matriochka,Matriochka,MISC,,,fr,3
-Tour de France femmes,Tour de France femmes,MISC,,,fr,3
-200 Go,200 Go,MISC,,,fr,3
-/L,/L,MISC,,,fr,3
-Drones,Drones,MISC,,,fr,3
-Ladministration Trump,Ladministration Trump,MISC,,,fr,3
-Netflix,Netflix,MISC,,,fr,3
-Dragon Ball,Dragon Ball,MISC,0.0,0.0,fr,3
-Alert,Alert,MISC,,,fr,3
-Libération,Libération,MISC,,,fr,3
-Une marche blanche,Une marche blanche,MISC,,,fr,3
-Coupe du golfe arabe,Coupe du golfe arabe,MISC,,,fr,3
-Juventus,Juventus,MISC,,,fr,3
-Samedi soir,Samedi soir,MISC,,,fr,3
-Horaires,Horaires,MISC,,,fr,3
-FlyDubai,FlyDubai,MISC,,,fr,3
-Premier ministre canadien,Premier ministre canadien,MISC,,,fr,3
-Daryl Dixon,Daryl Dixon,MISC,,,fr,3
-R,R,MISC,,,fr,3
-The White Lotus,The White Lotus,MISC,,,fr,3
+Halloween,Halloween,MISC,,,fr,3
+Vendredi 4 septembre 2026,Vendredi 4 septembre 2026,MISC,,,fr,2
+Kick,Kick,MISC,,,fr,2
+Netflix,Netflix,MISC,,,fr,2
+Android,Android,MISC,,,fr,2
+Xbox,Xbox,MISC,,,fr,2
+Snapdragon Summit,Snapdragon Summit,MISC,,,fr,2
+Haute-Savoie,Haute-Savoie,MISC,,,fr,2
+Daprès Auto Plus,Daprès Auto Plus,MISC,,,fr,2
+La Grande Librairie »,La Grande Librairie »,MISC,,,fr,2
+Pro,Pro,MISC,,,fr,2
+Parc Dragon,Parc Dragon,MISC,,,fr,2
+ClÃ,ClÃ,MISC,,,fr,2
+Envoyé Spécial,Envoyé Spécial,MISC,,,fr,2
+Pro Max,Pro Max,MISC,,,fr,2
+PV,PV,MISC,,,fr,2
+4V,4V,MISC,,,fr,2
+Ninja,Ninja,MISC,,,fr,2
+lItalie,lItalie,MISC,,,fr,2
+Medicare,Medicare,MISC,,,fr,2
+NOUAKCHOTT,NOUAKCHOTT,MISC,,,fr,2
+Nano Banana 2,Nano Banana 2,MISC,,,fr,2
+Guerre en Iran,Guerre en Iran,MISC,,,fr,2
+accords de Schengen,accords de Schengen,MISC,,,fr,2
+Ladministration Trump,Ladministration Trump,MISC,,,fr,2
+C la nuit,C la nuit,MISC,,,fr,2
+incendie du Gros Bessillon,incendie du Gros Bessillon,MISC,,,fr,2
+Coupe de France,Coupe de France,MISC,,,fr,2
+CRRC,CRRC,MISC,,,fr,2
+Câ€™,Câ€™,MISC,,,fr,2
+lAcropole,lAcropole,MISC,,,fr,2
+North American Blue Energy Partners,North American Blue Energy Partners,MISC,,,fr,2
+Gets,Gets,MISC,,,fr,2
+Renault Zoé,Renault Zoé,MISC,,,fr,2
 immédiatedu,immédiatedu,MISC,,,fr,2
-Le Dauphiné Libéré vous,Le Dauphiné Libéré vous,MISC,,,fr,2
-Waze,Waze,MISC,,,fr,2
-Explications,Explications,MISC,,,fr,2
-Vive Eagle de HTC,Vive Eagle de HTC,MISC,,,fr,2
-Le Progrès,Le Progrès,MISC,,,fr,2
-Wired,Wired,MISC,,,fr,2
-dAllemagne,dAllemagne,MISC,,,fr,2
-Anciens combattants,Anciens combattants,MISC,,,fr,2
-Jean,Jean,MISC,,,fr,2
-Gaza ,Gaza ,MISC,,,fr,2
-Fête de l'agriculture,Fête de l'agriculture,MISC,,,fr,2
-I,I,MISC,,,fr,2
-The Guardian,The Guardian,MISC,,,fr,2
-Medef,Medef,MISC,0.27,0.475,fr,2
-États-Unis et le Danemark,États-Unis et le Danemark,MISC,,,fr,2
-Place Rouge,Place Rouge,MISC,,,fr,2
-Kalevala,Kalevala,MISC,,,fr,2
-Mondiaux de running ,Mondiaux de running ,MISC,,,fr,2
-Ligue 1 ,Ligue 1 ,MISC,,,fr,2
-Premier Belge deuxième du Tour,Premier Belge deuxième du Tour,MISC,,,fr,2
-Source : Mat Nashed,Source : Mat Nashed,MISC,,,fr,2
-Racines Festival,Racines Festival,MISC,,,fr,2
-lArmée,lArmée,MISC,,,fr,2
-Une attaque de drones,Une attaque de drones,MISC,,,fr,2
+Les Bulles d’O,Les Bulles d’O,MISC,,,fr,2
+Ras-le-bol,Ras-le-bol,MISC,,,fr,2
+Classique,Classique,MISC,,,fr,2
+nâ€™,nâ€™,MISC,,,fr,2
 NAZA,NAZA,MISC,,,fr,2
-Conflit israélo,Conflit israélo,MISC,,,fr,2
+sommet de l'Otan,sommet de l'Otan,MISC,,,fr,2
+Donald Trump ,Donald Trump ,MISC,,,fr,2
+LArabie,LArabie,MISC,,,fr,2
+KN-23,KN-23,MISC,,,fr,2
+Kalevala,Kalevala,MISC,,,fr,2
+Challenges vous,Challenges vous,MISC,,,fr,2
+Lundi 10,Lundi 10,MISC,,,fr,2
+XIXe siècle,XIXe siècle,MISC,,,fr,2
+BSL-3,BSL-3,MISC,,,fr,2
+États-Unis et le Danemark,États-Unis et le Danemark,MISC,,,fr,2
+Anciens combattants,Anciens combattants,MISC,,,fr,2
+Coupe d'Afrique des nations,Coupe d'Afrique des nations,MISC,,,fr,2
+Coupe du monde de VTT,Coupe du monde de VTT,MISC,,,fr,2
+Bettina Trump,Bettina Trump,MISC,,,fr,2
+Fête de l'agriculture,Fête de l'agriculture,MISC,,,fr,2
+Medef,Medef,MISC,0.27,0.475,fr,2
+Place Rouge,Place Rouge,MISC,,,fr,2
+l’Holocauste,l’Holocauste,MISC,,,fr,2
+Wired,Wired,MISC,,,fr,2
+lArmée,lArmée,MISC,,,fr,2
 Basilic & Co,Basilic & Co,MISC,,,fr,2
-Jeunes agriculteurs de l'Ardèche,Jeunes agriculteurs de l'Ardèche,MISC,,,fr,2
-Abandon de McNulty,Abandon de McNulty,MISC,,,fr,2
+Première,Première,MISC,,,fr,2
+Ligue,Ligue,MISC,,,fr,2
+Gaza ,Gaza ,MISC,,,fr,2
+Héros de la Russie,Héros de la Russie,MISC,,,fr,2
+lÉcole,lÉcole,MISC,,,fr,2
+Vendredi,Vendredi,MISC,0.362,0.36,fr,2
+Explications,Explications,MISC,,,fr,2
+Le Progrès,Le Progrès,MISC,,,fr,2
+dOdessa,dOdessa,MISC,,,fr,2
+Les Bleus,Les Bleus,MISC,,,fr,2
+Mondiaux de running ,Mondiaux de running ,MISC,,,fr,2
 Le Malmédien,Le Malmédien,MISC,,,fr,2
-Fr,Fr,MISC,,,fr,2
-Millionnaire au bureau de tabac,Millionnaire au bureau de tabac,MISC,,,fr,2
+Service départemental,Service départemental,MISC,,,fr,2
+Hansi Flick,Hansi Flick,MISC,,,fr,2
+typhon Dujuan,typhon Dujuan,MISC,,,fr,2
+Top 8,Top 8,MISC,,,fr,2
+Top 8 du tournoi,Top 8 du tournoi,MISC,,,fr,2
+En Haute-Savoie,En Haute-Savoie,MISC,,,fr,2
+NamuroiseUne expérience bienvenue,NamuroiseUne expérience bienvenue,MISC,,,fr,2
+Planches,Planches,MISC,,,fr,2
+Progrès,Progrès,MISC,,,fr,2
+Economie,Economie,MISC,,,fr,2
+Le Tour de France femmes,Le Tour de France femmes,MISC,,,fr,2
+Hexatrek,Hexatrek,MISC,0.04928571428571429,0.06785714285714285,fr,2
 People,People,MISC,,,fr,2
+JP,JP,MISC,,,fr,2
+Vuelta,Vuelta,MISC,,,fr,2
+WebGirondins,WebGirondins,MISC,,,fr,2
+pylÃ´ne Ã,pylÃ´ne Ã,MISC,,,fr,2
+Dieu,Dieu,MISC,,,fr,2
+EA Sports FC 27,EA Sports FC 27,MISC,,,fr,2
+Cartes,Cartes,MISC,,,fr,2
+Wallet,Wallet,MISC,,,fr,2
 VINCENT,VINCENT,MISC,,,fr,2
+Yastremska,Yastremska,MISC,,,fr,2
+Conflit israélo,Conflit israélo,MISC,,,fr,2
+France,France,MISC,-0.00035875160875160873,0.0004263191763191763,fr,2
+Tour de France 2027,Tour de France 2027,MISC,,,fr,2
+F-16,F-16,MISC,,,fr,2
+sabotage de Nord Stream,sabotage de Nord Stream,MISC,,,fr,2
+QuietComfort,QuietComfort,MISC,,,fr,2
+"Loisirs, la campagne","Loisirs, la campagne",MISC,,,fr,2
+La Grande Librairie,La Grande Librairie,MISC,,,fr,2
+caméras LAPI,caméras LAPI,MISC,,,fr,2
+Ligue 3,Ligue 3,MISC,,,fr,2
 Complément d’enquête,Complément d’enquête,MISC,,,fr,2
 Le Premier ministre suédois sortant,Le Premier ministre suédois sortant,MISC,,,fr,2
-caméras LAPI,caméras LAPI,MISC,,,fr,2
-La Grande Librairie,La Grande Librairie,MISC,,,fr,2
-Progrès,Progrès,MISC,,,fr,2
-Le Tour de France femmes,Le Tour de France femmes,MISC,,,fr,2
-JP,JP,MISC,,,fr,2
-Maison-Blanche,Maison-Blanche,MISC,,,fr,2
-rÃªt,rÃªt,MISC,,,fr,2
-Kick,Kick,MISC,,,fr,2
-Juifs,Juifs,MISC,,,fr,2
-BSL-3,BSL-3,MISC,,,fr,2
-XIXe siècle,XIXe siècle,MISC,,,fr,2
-C la nuit,C la nuit,MISC,,,fr,2
-Yastremska,Yastremska,MISC,,,fr,2
-Service départemental,Service départemental,MISC,,,fr,2
-Envoyé Spécial,Envoyé Spécial,MISC,,,fr,2
-Dieu,Dieu,MISC,,,fr,2
-iAddict,iAddict,MISC,,,fr,2
-QuietComfort,QuietComfort,MISC,,,fr,2
-Câ€™,Câ€™,MISC,,,fr,2
-ClÃ,ClÃ,MISC,,,fr,2
-Tour de France 2027,Tour de France 2027,MISC,,,fr,2
-Vendredi 4 septembre 2026,Vendredi 4 septembre 2026,MISC,,,fr,2
-NOUAKCHOTT,NOUAKCHOTT,MISC,,,fr,2
-Ligue 3,Ligue 3,MISC,,,fr,2
-Championnats nationaux,Championnats nationaux,MISC,,,fr,2
-La Grande Librairie »,La Grande Librairie »,MISC,,,fr,2
-pylÃ´ne Ã,pylÃ´ne Ã,MISC,,,fr,2
-France,France,MISC,-0.00032375145180023226,0.0003847270615563298,fr,2
 MacRumors,MacRumors,MISC,,,fr,2
-Wallet,Wallet,MISC,,,fr,2
-Cartes,Cartes,MISC,,,fr,2
-EA Sports FC 27,EA Sports FC 27,MISC,,,fr,2
-Lundi 10,Lundi 10,MISC,,,fr,2
-Civilization VI,Civilization VI,MISC,,,fr,2
-KN-23,KN-23,MISC,,,fr,2
-Nano Banana 2,Nano Banana 2,MISC,,,fr,2
-orange canicule,orange canicule,MISC,,,fr,2
-Coupe d'Afrique des nations,Coupe d'Afrique des nations,MISC,,,fr,2
-dOdessa,dOdessa,MISC,,,fr,2
-l’Holocauste,l’Holocauste,MISC,,,fr,2
-Vendredi,Vendredi,MISC,0.362,0.36,fr,2
-lÉcole,lÉcole,MISC,,,fr,2
-Superchargeurs,Superchargeurs,MISC,-0.005439999999999996,0.2272,fr,2
-com,com,MISC,,,fr,2
-Héros de la Russie,Héros de la Russie,MISC,,,fr,2
-lOuest,lOuest,MISC,,,fr,2
-coup d'État,coup d'État,MISC,,,fr,2
-Cauchemar,Cauchemar,MISC,,,fr,2
-Vikings,Vikings,MISC,,,fr,2
-Maison-,Maison-,MISC,,,fr,2
-Ligue,Ligue,MISC,,,fr,2
+Championnats nationaux,Championnats nationaux,MISC,,,fr,2
 "AFP
 ","AFP
 ",MISC,,,fr,2
-Tel-Aviv,Tel-Aviv,MISC,,,fr,2
-incendie du Gros Bessillon,incendie du Gros Bessillon,MISC,,,fr,2
-Bettina Trump,Bettina Trump,MISC,,,fr,2
-Jurassique,Jurassique,MISC,,,fr,2
-Xbox,Xbox,MISC,,,fr,2
-Renault Zoé,Renault Zoé,MISC,,,fr,2
-Mpox,Mpox,MISC,0.2333333333333333,0.39999999999999997,fr,2
-sommet de l'Otan,sommet de l'Otan,MISC,,,fr,2
-accords de Schengen,accords de Schengen,MISC,,,fr,2
-lItalie,lItalie,MISC,,,fr,2
-LArabie,LArabie,MISC,,,fr,2
+orange canicule,orange canicule,MISC,,,fr,2
+Le Dauphiné Libéré vous,Le Dauphiné Libéré vous,MISC,,,fr,2
+COP17,COP17,MISC,,,fr,2
+I,I,MISC,,,fr,2
+Great Sea Interconnector,Great Sea Interconnector,MISC,,,fr,2
+Grok,Grok,MISC,-0.08666666666666667,0.11666666666666665,fr,2
+Active,Active,MISC,,,fr,2
+AMOLED,AMOLED,MISC,,,fr,2
+Waze,Waze,MISC,,,fr,2
+Une attaque de drones,Une attaque de drones,MISC,,,fr,2
+MX2,MX2,MISC,,,fr,2
+Open,Open,MISC,,,fr,2
+Press Release,Press Release,MISC,,,fr,2
+Jean,Jean,MISC,,,fr,2
+Villa Maïa,Villa Maïa,MISC,,,fr,2
+Celestia by KuCoin,Celestia by KuCoin,MISC,,,fr,2
+Abandon de McNulty,Abandon de McNulty,MISC,,,fr,2
+Saga Cristiano Ronaldo ,Saga Cristiano Ronaldo ,MISC,,,fr,2
 GPON,GPON,MISC,,,fr,2
-Wi-Fi 7 tri-bande,Wi-Fi 7 tri-bande,MISC,,,fr,2
+dansâ€,dansâ€,MISC,,,fr,2
+Premier Belge deuxième du Tour,Premier Belge deuxième du Tour,MISC,,,fr,2
+D142,D142,MISC,,,fr,2
 Fiber,Fiber,MISC,,,fr,2
 DSL,DSL,MISC,,,fr,2
-Les Bulles d’O,Les Bulles d’O,MISC,,,fr,2
-Daprès Auto Plus,Daprès Auto Plus,MISC,,,fr,2
-PV,PV,MISC,,,fr,2
-Manière de Voir,Manière de Voir,MISC,,,fr,2
-"Loisirs, la campagne","Loisirs, la campagne",MISC,,,fr,2
-Station spatiale internationale,Station spatiale internationale,MISC,,,fr,2
-F-16,F-16,MISC,,,fr,2
-GP de Bahreïn 2026,GP de Bahreïn 2026,MISC,,,fr,2
-Challenges,Challenges,MISC,,,fr,2
-Angèle,Angèle,MISC,0.15849999999999997,0.3225,fr,2
-Free,Free,MISC,,,fr,2
-Free Max,Free Max,MISC,,,fr,2
-Saga Cristiano Ronaldo ,Saga Cristiano Ronaldo ,MISC,,,fr,2
-COP17,COP17,MISC,,,fr,2
-D142,D142,MISC,,,fr,2
-Coupe du monde 2026 contre l'Angleterre,Coupe du monde 2026 contre l'Angleterre,MISC,,,fr,2
-Medicare,Medicare,MISC,,,fr,2
-sabotage de Nord Stream,sabotage de Nord Stream,MISC,,,fr,2
-Pixel 11 Pro XL,Pixel 11 Pro XL,MISC,,,fr,2
-Great Sea Interconnector,Great Sea Interconnector,MISC,,,fr,2
-Grands Prix,Grands Prix,MISC,,,fr,2
-4V,4V,MISC,,,fr,2
-Equipe de France,Equipe de France,MISC,,,fr,2
-dragon ,dragon ,MISC,,,fr,2
-mÃªme,mÃªme,MISC,,,fr,2
-Le Dauphiné Libéré,Le Dauphiné Libéré,MISC,,,fr,2
-IPTV,IPTV,MISC,,,fr,2
-Trois ans,Trois ans,MISC,,,fr,2
-Guerre en Iran,Guerre en Iran,MISC,,,fr,2
-&gt,&gt,MISC,,,fr,2
-Lyon People,Lyon People,MISC,,,fr,2
-lArdèche,lArdèche,MISC,,,fr,2
-CRRC,CRRC,MISC,,,fr,2
-week-end,week-end,MISC,,,fr,2
-GP de Bahreïn,GP de Bahreïn,MISC,,,fr,2
-Recyclage et Valorisation,Recyclage et Valorisation,MISC,,,fr,2
-Hexatrek,Hexatrek,MISC,0.04928571428571429,0.06785714285714285,fr,2
-Ballon d’or,Ballon d’or,MISC,,,fr,2
-AMOLED,AMOLED,MISC,,,fr,2
-sacre de l'Espagne,sacre de l'Espagne,MISC,,,fr,2
-Supernova Hawking,Supernova Hawking,MISC,,,fr,2
-Coupe du monde de la,Coupe du monde de la,MISC,,,fr,2
-Coupe du Monde,Coupe du Monde,MISC,,,fr,2
-Gets,Gets,MISC,,,fr,2
-Coupe du monde de VTT,Coupe du monde de VTT,MISC,,,fr,2
-Coupe du monde 2026 samedi,Coupe du monde 2026 samedi,MISC,,,fr,2
-mÃ¨ne,mÃ¨ne,MISC,,,fr,2
-Up and down,Up and down,MISC,,,fr,2
-Vuelta,Vuelta,MISC,,,fr,2
-Elon Musk,Elon Musk,MISC,,,fr,2
-Top 8,Top 8,MISC,,,fr,2
-Francis,Francis,MISC,,,fr,2
-Villa Maïa,Villa Maïa,MISC,,,fr,2
-naufrage des Bleus,naufrage des Bleus,MISC,,,fr,2
-LadurÃ,LadurÃ,MISC,,,fr,2
 TGV Inoui,TGV Inoui,MISC,,,fr,2
-lIsère,lIsère,MISC,,,fr,2
-dansâ€,dansâ€,MISC,,,fr,2
 Coupe LFFP,Coupe LFFP,MISC,,,fr,2
-ANJ,ANJ,MISC,,,fr,2
 vol Flydubai,vol Flydubai,MISC,,,fr,2
-NamuroiseUne expérience bienvenue,NamuroiseUne expérience bienvenue,MISC,,,fr,2
-Top 8 du tournoi,Top 8 du tournoi,MISC,,,fr,2
-Economie,Economie,MISC,,,fr,2
-Parc Dragon,Parc Dragon,MISC,,,fr,2
-Transitions Pro Auvergne Rhône,Transitions Pro Auvergne Rhône,MISC,,,fr,2
-Planches,Planches,MISC,,,fr,2
-MacBook,MacBook,MISC,,,fr,2
-Coupe,Coupe,MISC,,,fr,2
-lAlbiceleste,lAlbiceleste,MISC,,,fr,2
-WebGirondins,WebGirondins,MISC,,,fr,2
-Donald Trump ,Donald Trump ,MISC,,,fr,2
-Prix Nobel de la paix,Prix Nobel de la paix,MISC,,,fr,2
-Premier ministre suédois,Premier ministre suédois,MISC,,,fr,2
-Anglais,Anglais,MISC,-0.03397222222222222,0.02402777777777778,fr,2
-YouTube,YouTube,MISC,,,fr,2
-Oppo,Oppo,MISC,,,fr,2
-Coupe du monde 2026,Coupe du monde 2026,MISC,,,fr,2
-Apple TV,Apple TV,MISC,,,fr,2
-États-unis,États-unis,MISC,,,fr,2
-mosellan FM Logistic,mosellan FM Logistic,MISC,,,fr,2
-En Haute-Savoie,En Haute-Savoie,MISC,,,fr,2
-prix Nobel de la,prix Nobel de la,MISC,,,fr,2
-nâ€™,nâ€™,MISC,,,fr,2
-typhon Dujuan,typhon Dujuan,MISC,,,fr,2
+Va-t,Va-t,MISC,,,fr,2
+GP de Bahreïn,GP de Bahreïn,MISC,,,fr,2
+week-end,week-end,MISC,,,fr,2
+Georges,Georges,MISC,,,fr,2
+GP de Bahreïn 2026,GP de Bahreïn 2026,MISC,,,fr,2
+The Guardian,The Guardian,MISC,,,fr,2
+Francis,Francis,MISC,,,fr,2
 Le premier week,Le premier week,MISC,,,fr,2
-Celestia by KuCoin,Celestia by KuCoin,MISC,,,fr,2
-Hansi Flick,Hansi Flick,MISC,,,fr,2
-Gen 2,Gen 2,MISC,,,fr,2
-Vol Flydubai,Vol Flydubai,MISC,,,fr,2
-championnats d'Europe de Birmingham,championnats d'Europe de Birmingham,MISC,,,fr,2
-Coupe du monde de football,Coupe du monde de football,MISC,,,fr,2
-The Walking Dead ,The Walking Dead ,MISC,,,fr,2
-Sporting,Sporting,MISC,,,fr,2
-Active,Active,MISC,,,fr,2
-Cabaret frappé,Cabaret frappé,MISC,,,fr,2
-Rencontre des Entrepreneurs de France,Rencontre des Entrepreneurs de France,MISC,,,fr,2
-Coupe de France,Coupe de France,MISC,,,fr,2
-Vincent,Vincent,MISC,,,fr,2
-Twitter,Twitter,MISC,,,fr,2
-Lego,Lego,MISC,,,fr,2
-Les Loups-garous de Décines,Les Loups-garous de Décines,MISC,,,fr,2
-Ninja,Ninja,MISC,,,fr,2
-Web,Web,MISC,,,fr,2
-Lettre ouverte,Lettre ouverte,MISC,,,fr,2
-Android,Android,MISC,,,fr,2
+The Voice of Polonia,The Voice of Polonia,MISC,,,fr,2
+Angèle,Angèle,MISC,0.15849999999999997,0.3225,fr,2
+ouragan Simon,ouragan Simon,MISC,,,fr,2
 dOrmuz,dOrmuz,MISC,,,fr,2
-The Lancet,The Lancet,MISC,,,fr,1
-Brest Ã  Francis,Brest Ã  Francis,MISC,,,fr,1
-The Lancet consultée,The Lancet consultée,MISC,,,fr,1
-lUnion,lUnion,MISC,,,fr,1
-Prem,Prem,MISC,,,fr,1
-Sommet international,Sommet international,MISC,,,fr,1
-Ã  Toulouse,Ã  Toulouse,MISC,,,fr,1
-MusBA,MusBA,MISC,,,fr,1
-C1,C1,MISC,,,fr,1
-sommet spatial de,sommet spatial de,MISC,,,fr,1
-Brent,Brent,MISC,,,fr,1
-Sommet spatial : l'Europe,Sommet spatial : l'Europe,MISC,,,fr,1
-attentats du World Trade Center Ã  New York,attentats du World Trade Center Ã  New York,MISC,,,fr,1
-Wompou,Wompou,MISC,0.025,0.0,fr,1
-Championnats,Championnats,MISC,,,fr,1
-Les favoris,Les favoris,MISC,,,fr,1
-Rita,Rita,MISC,,,fr,1
-Mostra 2026,Mostra 2026,MISC,,,fr,1
-Cameroun Ã  Bruxelles,Cameroun Ã  Bruxelles,MISC,,,fr,1
-Bigflo & Oli,Bigflo & Oli,MISC,,,fr,1
-Bigflo & Oli ,Bigflo & Oli ,MISC,,,fr,1
-Championnats du monde de course,Championnats du monde de course,MISC,,,fr,1
-Distributeur ,Distributeur ,MISC,,,fr,1
-nulâ€,nulâ€,MISC,,,fr,1
-Disney+,Disney+,MISC,0.11666666666666665,0.18333333333333335,fr,1
-Ixo Private Equity,Ixo Private Equity,MISC,,,fr,1
-dÃ,dÃ,MISC,,,fr,1
-serâ€,serâ€,MISC,,,fr,1
-2 heures d’Instagram,2 heures d’Instagram,MISC,,,fr,1
-Fermer des usines outre,Fermer des usines outre,MISC,,,fr,1
-Le gouvernement sud-coréen marche sur des œufs” ,Le gouvernement sud-coréen marche sur des œufs” ,MISC,,,fr,1
-Paris Saint,Paris Saint,MISC,0.04222222222222224,0.23888888888888887,fr,1
-dOusmane,dOusmane,MISC,,,fr,1
-Les Cerisiers de Tournon-sur-Rhône,Les Cerisiers de Tournon-sur-Rhône,MISC,,,fr,1
-LFFP,LFFP,MISC,,,fr,1
-» Muni,» Muni,MISC,,,fr,1
-Spectrum dIsar Aerospace,Spectrum dIsar Aerospace,MISC,,,fr,1
-Lengin jaune,Lengin jaune,MISC,,,fr,1
-Active ,Active ,MISC,,,fr,1
+Sporting,Sporting,MISC,0.23538461538461541,0.2692307692307692,fr,2
+Le Dauphiné Libéré,Le Dauphiné Libéré,MISC,,,fr,2
+Source : Mat Nashed,Source : Mat Nashed,MISC,,,fr,2
+Les-Crises,Les-Crises,MISC,,,fr,2
+Racines Festival,Racines Festival,MISC,,,fr,2
+Le Diable rouge,Le Diable rouge,MISC,,,fr,2
+Trois ans,Trois ans,MISC,,,fr,2
+Religion,Religion,MISC,,,fr,2
+Manière de Voir,Manière de Voir,MISC,,,fr,2
+dAllemagne,dAllemagne,MISC,,,fr,2
+Vive Eagle de HTC,Vive Eagle de HTC,MISC,,,fr,2
+Free Max,Free Max,MISC,,,fr,2
+Free,Free,MISC,,,fr,2
+Crew-12,Crew-12,MISC,,,fr,2
+Les Loups-garous de Décines,Les Loups-garous de Décines,MISC,,,fr,2
+Vol Flydubai,Vol Flydubai,MISC,,,fr,2
+Recyclage et Valorisation,Recyclage et Valorisation,MISC,,,fr,2
+Transitions Pro Auvergne Rhône,Transitions Pro Auvergne Rhône,MISC,,,fr,2
+Web,Web,MISC,,,fr,2
+Ligue 1 ,Ligue 1 ,MISC,,,fr,2
+Internet,Internet,MISC,,,fr,2
+prix Nobel de la,prix Nobel de la,MISC,,,fr,2
+Cabaret frappé,Cabaret frappé,MISC,,,fr,2
+mÃªme,mÃªme,MISC,,,fr,2
+Lettre ouverte,Lettre ouverte,MISC,,,fr,2
+Pixel 11 Pro XL,Pixel 11 Pro XL,MISC,,,fr,2
+Millionnaire au bureau de tabac,Millionnaire au bureau de tabac,MISC,,,fr,2
+Lego,Lego,MISC,,,fr,2
+Vikings,Vikings,MISC,,,fr,2
+YouTube,YouTube,MISC,,,fr,2
+Wi-Fi 7 tri-bande,Wi-Fi 7 tri-bande,MISC,,,fr,2
+Jeunes agriculteurs de l'Ardèche,Jeunes agriculteurs de l'Ardèche,MISC,,,fr,2
+Cauchemar,Cauchemar,MISC,,,fr,2
+Superchargeurs,Superchargeurs,MISC,-0.005439999999999996,0.2272,fr,2
+États-unis,États-unis,MISC,,,fr,2
+MacBook,MacBook,MISC,,,fr,2
+The Walking Dead ,The Walking Dead ,MISC,,,fr,2
+LadurÃ,LadurÃ,MISC,,,fr,2
+Maison-Blanche,Maison-Blanche,MISC,,,fr,2
+Juifs,Juifs,MISC,,,fr,2
+Mpox,Mpox,MISC,0.2333333333333333,0.39999999999999997,fr,2
+Vincent,Vincent,MISC,,,fr,2
+Maison-,Maison-,MISC,,,fr,2
+Apple TV,Apple TV,MISC,,,fr,2
+mÃ¨ne,mÃ¨ne,MISC,,,fr,2
+Twitter,Twitter,MISC,,,fr,2
+lOuest,lOuest,MISC,,,fr,2
+rÃªt,rÃªt,MISC,,,fr,2
+Civilization VI,Civilization VI,MISC,,,fr,2
+coup d'État,coup d'État,MISC,,,fr,2
+Jurassique,Jurassique,MISC,,,fr,2
+com,com,MISC,,,fr,2
+Rencontre des Entrepreneurs de France,Rencontre des Entrepreneurs de France,MISC,,,fr,2
+Premier ministre suédois,Premier ministre suédois,MISC,,,fr,2
+dEtat,dEtat,MISC,,,fr,2
+Trophée des Champions,Trophée des Champions,MISC,,,fr,1
+Magyar Hang”,Magyar Hang”,MISC,,,fr,1
+Crise au Niger,Crise au Niger,MISC,,,fr,1
 touchÃ,touchÃ,MISC,,,fr,1
-Sommet international de l’espace,Sommet international de l’espace,MISC,,,fr,1
-Traintracker24,Traintracker24,MISC,,,fr,1
-Mystère d'escale »,Mystère d'escale »,MISC,,,fr,1
+Irish Open de Dublin,Irish Open de Dublin,MISC,,,fr,1
+South China Morning Post,South China Morning Post,MISC,,,fr,1
+Lancet Countdown,Lancet Countdown,MISC,,,fr,1
+Au Parc des Princes,Au Parc des Princes,MISC,,,fr,1
+&gt,&gt,MISC,,,fr,1
+Championnat,Championnat,MISC,,,fr,1
+Faire peur »,Faire peur »,MISC,,,fr,1
+retentissanâ€,retentissanâ€,MISC,,,fr,1
+NAZA na,NAZA na,MISC,,,fr,1
+HANDOUT,HANDOUT,MISC,,,fr,1
+lUnion,lUnion,MISC,,,fr,1
+Lyon People,Lyon People,MISC,,,fr,1
+ner,ner,MISC,,,fr,1
+Wompou,Wompou,MISC,0.025,0.0,fr,1
+Ligue 1 : Brest s’,Ligue 1 : Brest s’,MISC,,,fr,1
+Sommet international sur l’espace,Sommet international sur l’espace,MISC,,,fr,1
+KENDRIS,KENDRIS,MISC,,,fr,1
+The Exploration Company,The Exploration Company,MISC,,,fr,1
+The Kyiv Independent,The Kyiv Independent,MISC,,,fr,1
+montreâ€,montreâ€,MISC,,,fr,1
+Lâ€™,Lâ€™,MISC,,,fr,1
+dentraÃ,dentraÃ,MISC,,,fr,1
+pÃ´t,pÃ´t,MISC,,,fr,1
+Homme à celle des forêts spontanées en Chine,Homme à celle des forêts spontanées en Chine,MISC,,,fr,1
+Guerre en Ukraine : Attaques de drones russes,Guerre en Ukraine : Attaques de drones russes,MISC,,,fr,1
+ronâ€,ronâ€,MISC,,,fr,1
+britanniqâ€,britanniqâ€,MISC,,,fr,1
+Mondial féminin de basket ,Mondial féminin de basket ,MISC,,,fr,1
+chasse Ã  ,chasse Ã  ,MISC,,,fr,1
+eurosâ€,eurosâ€,MISC,,,fr,1
+Lâ€™Ã‰glise,Lâ€™Ã‰glise,MISC,,,fr,1
+cessaires Ã  ,cessaires Ã  ,MISC,,,fr,1
+vÃªques,vÃªques,MISC,,,fr,1
+marmotteÂ ,marmotteÂ ,MISC,,,fr,1
+dHénin,dHénin,MISC,,,fr,1
+A Saint,A Saint,MISC,,,fr,1
+Toulouse !,Toulouse !,MISC,,,fr,1
+US Open 2026,US Open 2026,MISC,,,fr,1
+Vendredi 4,Vendredi 4,MISC,,,fr,1
+dirigé(e,dirigé(e,MISC,,,fr,1
+la Chouette d'or relaxé,la Chouette d'or relaxé,MISC,,,fr,1
+la Chouette d'or,la Chouette d'or,MISC,,,fr,1
+dOusmane,dOusmane,MISC,,,fr,1
 lensemble des Juifs,lensemble des Juifs,MISC,,,fr,1
-La Fardèle,La Fardèle,MISC,,,fr,1
-Disne,Disne,MISC,,,fr,1
-Â»,Â»,MISC,-0.1,0.1,fr,1
+États membres,États membres,MISC,,,fr,1
+Bel,Bel,MISC,,,fr,1
+Kiev,Kiev,MISC,0.0021825396825396826,0.0025396825396825397,fr,1
 Haute-Garonne,Haute-Garonne,MISC,0.05,0.0875,fr,1
+» Habillé dun jean impeccable,» Habillé dun jean impeccable,MISC,,,fr,1
+Action irresponsable,Action irresponsable,MISC,,,fr,1
+"Ah, ah, ah","Ah, ah, ah",MISC,,,fr,1
+Paris Saint,Paris Saint,MISC,0.04222222222222224,0.23888888888888887,fr,1
+Trump ,Trump ,MISC,,,fr,1
+Techno Parade de retour,Techno Parade de retour,MISC,,,fr,1
+Â»,Â»,MISC,-0.1,0.1,fr,1
+Marche des fiertés,Marche des fiertés,MISC,,,fr,1
+The Lancet,The Lancet,MISC,,,fr,1
+The Lancet consultée,The Lancet consultée,MISC,,,fr,1
+Lundi,Lundi,MISC,0.08,0.1,fr,1
+Hongroises,Hongroises,MISC,,,fr,1
+Sommet international de l’espace,Sommet international de l’espace,MISC,,,fr,1
+Fashion Week,Fashion Week,MISC,,,fr,1
+Météo-,Météo-,MISC,,,fr,1
+Grand Chelem,Grand Chelem,MISC,,,fr,1
+lOpéra na,lOpéra na,MISC,,,fr,1
+Svia,Svia,MISC,,,fr,1
+Des silhouettes longilignes,Des silhouettes longilignes,MISC,,,fr,1
+LOrient-le-Jourau,LOrient-le-Jourau,MISC,,,fr,1
+attentats du World Trade Center Ã  New York,attentats du World Trade Center Ã  New York,MISC,,,fr,1
+Abdouraman,Abdouraman,MISC,,,fr,1
+Alliance,Alliance,MISC,,,fr,1
+Supermarchés ,Supermarchés ,MISC,,,fr,1
+Apple Arcade,Apple Arcade,MISC,,,fr,1
+lAlliance,lAlliance,MISC,,,fr,1
+Bélarus,Bélarus,MISC,,,fr,1
 New Space : The Exploration Company,New Space : The Exploration Company,MISC,,,fr,1
-Premier ministre français,Premier ministre français,MISC,,,fr,1
-Mayotte ,Mayotte ,MISC,,,fr,1
-Ford ,Ford ,MISC,,,fr,1
-Ã  Nice,Ã  Nice,MISC,,,fr,1
+Spectrum dIsar Aerospace,Spectrum dIsar Aerospace,MISC,,,fr,1
+SabenaÂ ,SabenaÂ ,MISC,,,fr,1
+Dembélé,Dembélé,MISC,,,fr,1
+Un drone,Un drone,MISC,,,fr,1
+guerre Crédité,guerre Crédité,MISC,,,fr,1
+Les-,Les-,MISC,,,fr,1
+alert,alert,MISC,,,fr,1
+Cold Case,Cold Case,MISC,,,fr,1
+lUS Open,lUS Open,MISC,,,fr,1
+Do,Do,MISC,,,fr,1
+Antoine,Antoine,MISC,-0.292,0.23000000000000004,fr,1
+Ne touchez pas,Ne touchez pas,MISC,,,fr,1
+Zappée,Zappée,MISC,,,fr,1
+bataille de Kulikovo,bataille de Kulikovo,MISC,,,fr,1
+Angelina Jolie,Angelina Jolie,MISC,,,fr,1
+Nice-Matin,Nice-Matin,MISC,,,fr,1
+Pâques,Pâques,MISC,,,fr,1
+Dr Hanan H. Balkhy,Dr Hanan H. Balkhy,MISC,,,fr,1
+Prem,Prem,MISC,,,fr,1
+The Echo Chamber,The Echo Chamber,MISC,,,fr,1
+AfD,AfD,MISC,-0.003571428571428571,0.01904761904761905,fr,1
+The Echo Chamber”,The Echo Chamber”,MISC,,,fr,1
+Connaissez,Connaissez,MISC,,,fr,1
+Ensemble Correspondances,Ensemble Correspondances,MISC,,,fr,1
+Les Nuits de septembre s’,Les Nuits de septembre s’,MISC,,,fr,1
+Richardot,Richardot,MISC,,,fr,1
+Éditions Actes Sud,Éditions Actes Sud,MISC,,,fr,1
+OL ,OL ,MISC,,,fr,1
+Le Progrès ,Le Progrès ,MISC,,,fr,1
+Le Premier ministre suédois,Le Premier ministre suédois,MISC,,,fr,1
+lAlternative,lAlternative,MISC,,,fr,1
+Ne partez pas sans moi,Ne partez pas sans moi,MISC,,,fr,1
+Mostra 2026,Mostra 2026,MISC,,,fr,1
+Office,Office,MISC,,,fr,1
+dÃ,dÃ,MISC,,,fr,1
+PylÃ´ne,PylÃ´ne,MISC,,,fr,1
+La Grande Librairi,La Grande Librairi,MISC,,,fr,1
+s Ã  ,s Ã  ,MISC,,,fr,1
+Sommet spatial : l'Europe,Sommet spatial : l'Europe,MISC,,,fr,1
+Ligue des Champions,Ligue des Champions,MISC,,,fr,1
+infrastructuresâ€,infrastructuresâ€,MISC,,,fr,1
+sommet spatial de,sommet spatial de,MISC,,,fr,1
+Cameroun Ã  Bruxelles,Cameroun Ã  Bruxelles,MISC,,,fr,1
+JEAN,JEAN,MISC,,,fr,1
+™Eurovision,™Eurovision,MISC,,,fr,1
+Chaos,Chaos,MISC,,,fr,1
+Sommet international,Sommet international,MISC,,,fr,1
+États-Unis et l'Iran,États-Unis et l'Iran,MISC,,,fr,1
+dAngelina Jolie,dAngelina Jolie,MISC,,,fr,1
+Un père de famille,Un père de famille,MISC,,,fr,1
+lInternational Institute for Strategic StudiesÂ ,lInternational Institute for Strategic StudiesÂ ,MISC,,,fr,1
+IISS,IISS,MISC,,,fr,1
+GCSP,GCSP,MISC,,,fr,1
+infidÃ,infidÃ,MISC,,,fr,1
+Naza,Naza,MISC,0.0025000000000000022,0.1,fr,1
+Championnats,Championnats,MISC,,,fr,1
+KENDRIS Ã,KENDRIS Ã,MISC,,,fr,1
+République,République,MISC,,,fr,1
+SCO // Frankowski,SCO // Frankowski,MISC,,,fr,1
+supplÃ,supplÃ,MISC,,,fr,1
+"Puis nous avons été encerclés""Il","Puis nous avons été encerclés""Il",MISC,,,fr,1
+Arcus,Arcus,MISC,,,fr,1
+US Open ,US Open ,MISC,,,fr,1
+Angers 1,Angers 1,MISC,,,fr,1
+Ligue 1 :,Ligue 1 :,MISC,,,fr,1
+DIRECT OM,DIRECT OM,MISC,,,fr,1
+US Open,US Open,MISC,,,fr,1
+Le gouvernement sud-coréen marche sur des œufs” ,Le gouvernement sud-coréen marche sur des œufs” ,MISC,,,fr,1
+ALLIANCE VIA,ALLIANCE VIA,MISC,,,fr,1
+mÃ¨re,mÃ¨re,MISC,,,fr,1
+Tribunal de Nanterre,Tribunal de Nanterre,MISC,,,fr,1
 Sanctions,Sanctions,MISC,,,fr,1
 JO d’hiver 2030,JO d’hiver 2030,MISC,,,fr,1
-Dembélé,Dembélé,MISC,,,fr,1
-retentissanâ€,retentissanâ€,MISC,,,fr,1
-KENDRIS Ã,KENDRIS Ã,MISC,,,fr,1
-Ford V8,Ford V8,MISC,,,fr,1
-Météo-,Météo-,MISC,,,fr,1
-SabenaÂ ,SabenaÂ ,MISC,,,fr,1
-KENDRIS,KENDRIS,MISC,,,fr,1
-South China Morning Post,South China Morning Post,MISC,,,fr,1
-A Saint,A Saint,MISC,,,fr,1
-Christ,Christ,MISC,,,fr,1
-Il fait payer des marques,Il fait payer des marques,MISC,,,fr,1
-Toulouse !,Toulouse !,MISC,,,fr,1
-Ensemble Correspondances,Ensemble Correspondances,MISC,,,fr,1
-Office,Office,MISC,,,fr,1
-Trophée des Champions,Trophée des Champions,MISC,,,fr,1
-guerre Crédité,guerre Crédité,MISC,,,fr,1
-Gallet F1 XF,Gallet F1 XF,MISC,,,fr,1
-Strava,Strava,MISC,,,fr,1
-Supermarchés ,Supermarchés ,MISC,,,fr,1
-Fashion Week,Fashion Week,MISC,,,fr,1
-lOlympique,lOlympique,MISC,,,fr,1
-Des silhouettes longilignes,Des silhouettes longilignes,MISC,,,fr,1
-Lyo,Lyo,MISC,,,fr,1
-Des cartables neufs,Des cartables neufs,MISC,,,fr,1
-lOpéra na,lOpéra na,MISC,,,fr,1
-britannâ€,britannâ€,MISC,,,fr,1
-LHumanité,LHumanité,MISC,,,fr,1
-Championnat,Championnat,MISC,,,fr,1
-JEAN,JEAN,MISC,,,fr,1
-Au Parc des Princes,Au Parc des Princes,MISC,,,fr,1
-Crise au Niger,Crise au Niger,MISC,,,fr,1
-Gangs,Gangs,MISC,,,fr,1
-Un livre qui ne se vend pas comme prévu,Un livre qui ne se vend pas comme prévu,MISC,,,fr,1
-La Quotidienne Société,La Quotidienne Société,MISC,,,fr,1
-ZDF,ZDF,MISC,,,fr,1
-Magyar Hang”,Magyar Hang”,MISC,,,fr,1
-marmotteÂ ,marmotteÂ ,MISC,,,fr,1
-chasse Ã  ,chasse Ã  ,MISC,,,fr,1
-britanniqâ€,britanniqâ€,MISC,,,fr,1
-fÃ,fÃ,MISC,,,fr,1
-Whatsupdoc,Whatsupdoc,MISC,,,fr,1
-Les-,Les-,MISC,,,fr,1
-Hongroises,Hongroises,MISC,,,fr,1
-Donald Trump « heureux,Donald Trump « heureux,MISC,,,fr,1
-Les Bleues,Les Bleues,MISC,,,fr,1
-sil,sil,MISC,,,fr,1
-Fascisme en France,Fascisme en France,MISC,,,fr,1
-Le Parisien,Le Parisien,MISC,,,fr,1
-Dr Hanan H. Balkhy,Dr Hanan H. Balkhy,MISC,,,fr,1
-GUR,GUR,MISC,,,fr,1
-Bistrot Poète,Bistrot Poète,MISC,,,fr,1
-"qu'""environ","qu'""environ",MISC,,,fr,1
-IKEA Open House,IKEA Open House,MISC,,,fr,1
-MALMÖ,MALMÖ,MISC,,,fr,1
-Un tribunal russe,Un tribunal russe,MISC,,,fr,1
-Vive Eagle ,Vive Eagle ,MISC,,,fr,1
-HTC,HTC,MISC,,,fr,1
-Syma Le Douze,Syma Le Douze,MISC,,,fr,1
-"Ah, ah, ah","Ah, ah, ah",MISC,,,fr,1
-» Habillé dun jean impeccable,» Habillé dun jean impeccable,MISC,,,fr,1
-Le Douze de Syma,Le Douze de Syma,MISC,,,fr,1
-Bel,Bel,MISC,,,fr,1
-dirigé(e,dirigé(e,MISC,,,fr,1
-Vendredi 4,Vendredi 4,MISC,,,fr,1
-Les-Crises,Les-Crises,MISC,,,fr,1
-Les-Crises,Les-Crises,MISC,,,fr,1
-organisatiâ€,organisatiâ€,MISC,,,fr,1
-République islami,République islami,MISC,,,fr,1
-US Open 2026,US Open 2026,MISC,,,fr,1
-Le retour de Harry et Meghan outre,Le retour de Harry et Meghan outre,MISC,,,fr,1
-ronâ€,ronâ€,MISC,,,fr,1
-LOL,LOL,MISC,,,fr,1
-TGV Velvet,TGV Velvet,MISC,,,fr,1
-Boeing 767,Boeing 767,MISC,,,fr,1
-Chute des températures,Chute des températures,MISC,,,fr,1
-Première Guerre mondiale,Première Guerre mondiale,MISC,,,fr,1
-La célèbre Cour des Loges,La célèbre Cour des Loges,MISC,,,fr,1
-Arménien·nes,Arménien·nes,MISC,,,fr,1
-lEmpire,lEmpire,MISC,,,fr,1
-Bocuse,Bocuse,MISC,0.4222222222222222,0.5444444444444445,fr,1
-Sofitel,Sofitel,MISC,,,fr,1
-Authentiques,Authentiques,MISC,,,fr,1
-Marathon de Nouméa,Marathon de Nouméa,MISC,,,fr,1
-Richardot,Richardot,MISC,,,fr,1
-Les Nuits de septembre s’,Les Nuits de septembre s’,MISC,,,fr,1
-Religion,Religion,MISC,,,fr,1
-The Echo Chamber”,The Echo Chamber”,MISC,,,fr,1
-J-30,J-30,MISC,,,fr,1
-FO 84,FO 84,MISC,,,fr,1
-The Echo Chamber,The Echo Chamber,MISC,,,fr,1
-Do,Do,MISC,,,fr,1
-SNUDI,SNUDI,MISC,,,fr,1
-Nice-Matin,Nice-Matin,MISC,,,fr,1
-EMC,EMC,MISC,,,fr,1
-Angelina Jolie,Angelina Jolie,MISC,,,fr,1
-Principale dissidence,Principale dissidence,MISC,,,fr,1
-Coupe du monde 2027,Coupe du monde 2027,MISC,,,fr,1
-dAngelina Jolie,dAngelina Jolie,MISC,,,fr,1
-États-Unis et l'Iran,États-Unis et l'Iran,MISC,,,fr,1
-lOccident,lOccident,MISC,,,fr,1
-dAmazon,dAmazon,MISC,,,fr,1
-montreâ€,montreâ€,MISC,,,fr,1
-ALLIANCE VIA,ALLIANCE VIA,MISC,,,fr,1
-Vingt-sept,Vingt-sept,MISC,,,fr,1
-Pure Illusion,Pure Illusion,MISC,,,fr,1
-britanniquesâ€,britanniquesâ€,MISC,,,fr,1
-dAnnecy,dAnnecy,MISC,,,fr,1
-Luger dÃ,Luger dÃ,MISC,,,fr,1
-Quatorze ans aprÃ¨s,Quatorze ans aprÃ¨s,MISC,0.045000000000000005,0.125,fr,1
-Ligue 1 : Brest s’,Ligue 1 : Brest s’,MISC,,,fr,1
-quEmmanue,quEmmanue,MISC,,,fr,1
-La Libre les,La Libre les,MISC,,,fr,1
+serâ€,serâ€,MISC,,,fr,1
 "choix""Car","choix""Car",MISC,,,fr,1
-Cold Case,Cold Case,MISC,,,fr,1
-Tribunal de Nanterre,Tribunal de Nanterre,MISC,,,fr,1
-Loto du Patrimoine 2026,Loto du Patrimoine 2026,MISC,,,fr,1
-mÃ¨re,mÃ¨re,MISC,,,fr,1
-République,République,MISC,,,fr,1
-"Milles
-","Milles
+Open d’Australie,Open d’Australie,MISC,,,fr,1
+La Libre les,La Libre les,MISC,,,fr,1
+Jeu,Jeu,MISC,,,fr,1
+REYNOLDS,REYNOLDS,MISC,,,fr,1
+dAmazon,dAmazon,MISC,,,fr,1
+Brent,Brent,MISC,,,fr,1
+Première Guerre mondiale,Première Guerre mondiale,MISC,,,fr,1
+Championnats du monde de course,Championnats du monde de course,MISC,,,fr,1
+Marathon de Nouméa,Marathon de Nouméa,MISC,,,fr,1
+Le Sénat,Le Sénat,MISC,,,fr,1
+nationalitÃ,nationalitÃ,MISC,,,fr,1
+lEmpire,lEmpire,MISC,,,fr,1
+Sanctions britanniques :,Sanctions britanniques :,MISC,,,fr,1
+"Puis nous avons été encerclés""En visite","Puis nous avons été encerclés""En visite",MISC,,,fr,1
+Arménien·nes,Arménien·nes,MISC,,,fr,1
+C1,C1,MISC,,,fr,1
+disparaÃ,disparaÃ,MISC,,,fr,1
+CABALLERO,CABALLERO,MISC,,,fr,1
+Chute des températures,Chute des températures,MISC,,,fr,1
+Der Standard,Der Standard,MISC,,,fr,1
+US Open –,US Open –,MISC,,,fr,1
+Boeing 767,Boeing 767,MISC,,,fr,1
+Un ptit tour,Un ptit tour,MISC,,,fr,1
+Ligue 2 BKT,Ligue 2 BKT,MISC,,,fr,1
+G20 ,G20 ,MISC,,,fr,1
+MANDEL NGAN,MANDEL NGAN,MISC,,,fr,1
+ANDREW,ANDREW,MISC,,,fr,1
+"SRFC
+","SRFC
 ",MISC,,,fr,1
-RUSH Action,RUSH Action,MISC,,,fr,1
-DIRECT OM,DIRECT OM,MISC,,,fr,1
-À Saint-Étienne,À Saint-Étienne,MISC,,,fr,1
-Ligue 1 :,Ligue 1 :,MISC,,,fr,1
-Angers 1,Angers 1,MISC,,,fr,1
-Arcus,Arcus,MISC,,,fr,1
-SCO // Frankowski,SCO // Frankowski,MISC,,,fr,1
-Tshis,Tshis,MISC,,,fr,1
-lON,lON,MISC,,,fr,1
-Naza,Naza,MISC,0.0025000000000000022,0.1,fr,1
-Lundi,Lundi,MISC,0.04,0.05,fr,1
-Pâques,Pâques,MISC,,,fr,1
-lEtat héb,lEtat héb,MISC,,,fr,1
-Dans la nuit de mardi,Dans la nuit de mardi,MISC,,,fr,1
-SELCUK ACAR,SELCUK ACAR,MISC,,,fr,1
-dEmmanuel,dEmmanuel,MISC,,,fr,1
-Lettre de l’éduc,Lettre de l’éduc,MISC,,,fr,1
-SKL,SKL,MISC,,,fr,1
-Multi,Multi,MISC,,,fr,1
-Qui veut être mon,Qui veut être mon,MISC,,,fr,1
-PRNewswire/,PRNewswire/,MISC,,,fr,1
-Petal,Petal,MISC,,,fr,1
-WindEnergy Hamburg 2026,WindEnergy Hamburg 2026,MISC,,,fr,1
-WindEnergy,WindEnergy,MISC,,,fr,1
-MG,MG,MISC,,,fr,1
-SUV,SUV,MISC,,,fr,1
-Zidane,Zidane,MISC,0.10083333333333333,0.07500000000000001,fr,1
-Trump optimiste,Trump optimiste,MISC,,,fr,1
-The p,The p,MISC,,,fr,1
-My Fierce Ignorant Step,My Fierce Ignorant Step,MISC,,,fr,1
-Mongolie,Mongolie,MISC,0.024999999999999998,0.06666666666666667,fr,1
-Asse,Asse,MISC,,,fr,1
-LAfghanistan,LAfghanistan,MISC,,,fr,1
-couâ€,couâ€,MISC,,,fr,1
-Attaques des Houthis,Attaques des Houthis,MISC,,,fr,1
-Xi-Trump,Xi-Trump,MISC,,,fr,1
-Rupture,Rupture,MISC,,,fr,1
-Une enquête a été ouverte,Une enquête a été ouverte,MISC,,,fr,1
-A8,A8,MISC,-0.07250000000000001,0.18750000000000003,fr,1
-fonctionnemeâ€,fonctionnemeâ€,MISC,,,fr,1
-A412,A412,MISC,,,fr,1
-sommet Trump,sommet Trump,MISC,,,fr,1
-Ass,Ass,MISC,,,fr,1
-Nigloland,Nigloland,MISC,0.15687500000000001,0.16875,fr,1
-Hamas na,Hamas na,MISC,,,fr,1
-Comment tu vas,Comment tu vas,MISC,,,fr,1
-Billard,Billard,MISC,,,fr,1
-Macklemore na,Macklemore na,MISC,,,fr,1
-Auto,Auto,MISC,,,fr,1
-Detect 1200W,Detect 1200W,MISC,,,fr,1
-Classique,Classique,MISC,,,fr,1
-Nouakchott,Nouakchott,MISC,,,fr,1
-Mon,Mon,MISC,,,fr,1
-États-Unis Donald Trump,États-Unis Donald Trump,MISC,,,fr,1
-Première ministre,Première ministre,MISC,,,fr,1
-Premier ministre groenlandais,Premier ministre groenlandais,MISC,,,fr,1
-Olivier,Olivier,MISC,,,fr,1
-ISS,ISS,MISC,,,fr,1
-Régional 2,Régional 2,MISC,,,fr,1
-endommagÃ,endommagÃ,MISC,,,fr,1
-Ninja Detect 1200W,Ninja Detect 1200W,MISC,,,fr,1
-A vaincre sans péril,A vaincre sans péril,MISC,,,fr,1
-so,so,MISC,,,fr,1
-lEsport,lEsport,MISC,,,fr,1
-Esport mondial,Esport mondial,MISC,,,fr,1
-Esport mondial »,Esport mondial »,MISC,,,fr,1
-Le Premier ministre israélien Be,Le Premier ministre israélien Be,MISC,,,fr,1
-Lauteur présumé dune,Lauteur présumé dune,MISC,,,fr,1
-Tour du Mont-Blanc,Tour du Mont-Blanc,MISC,,,fr,1
-Manifestations,Manifestations,MISC,,,fr,1
-» : Marion Borras,» : Marion Borras,MISC,,,fr,1
-Euro : les Bleus,Euro : les Bleus,MISC,,,fr,1
-ChromeOS,ChromeOS,MISC,,,fr,1
-Googlebook,Googlebook,MISC,0.10791666666666667,0.06041666666666667,fr,1
-Seconde G,Seconde G,MISC,,,fr,1
-lHôtel,lHôtel,MISC,,,fr,1
-Dans le cadre des journées du Patrimoine,Dans le cadre des journées du Patrimoine,MISC,,,fr,1
-Patrimoine,Patrimoine,MISC,,,fr,1
-Br,Br,MISC,,,fr,1
-Transmusicales,Transmusicales,MISC,,,fr,1
-MV Maasvliet,MV Maasvliet,MISC,,,fr,1
-dInternet,dInternet,MISC,,,fr,1
-TAT-8,TAT-8,MISC,,,fr,1
-Le Soir,Le Soir,MISC,,,fr,1
-organisationâ€,organisationâ€,MISC,,,fr,1
-socialeÂ Â» rÃ,socialeÂ Â» rÃ,MISC,,,fr,1
-cherâ€,cherâ€,MISC,,,fr,1
-grande qualitÃ,grande qualitÃ,MISC,,,fr,1
-neutralitÃ,neutralitÃ,MISC,,,fr,1
-partisaâ€,partisaâ€,MISC,,,fr,1
-Sommet d,Sommet d,MISC,,,fr,1
-festival Nova,festival Nova,MISC,,,fr,1
-Proche-,Proche-,MISC,,,fr,1
-DUNE,DUNE,MISC,,,fr,1
-Le Premier ministre bulgare,Le Premier ministre bulgare,MISC,,,fr,1
-En Argentine,En Argentine,MISC,,,fr,1
-Burkinabè,Burkinabè,MISC,,,fr,1
-Business News ,Business News ,MISC,,,fr,1
-17ᵉ Conférence des Parties,17ᵉ Conférence des Parties,MISC,,,fr,1
-20 Minutes a rencontrÃ,20 Minutes a rencontrÃ,MISC,,,fr,1
+AZF,AZF,MISC,,,fr,1
+Russ,Russ,MISC,,,fr,1
+Luiz Inácio,Luiz Inácio,MISC,,,fr,1
+lArvre,lArvre,MISC,,,fr,1
+conduiâ€,conduiâ€,MISC,,,fr,1
+FranceÂ ,FranceÂ ,MISC,,,fr,1
+contrÃ´lÃ,contrÃ´lÃ,MISC,,,fr,1
+Fashion Week fÃ,Fashion Week fÃ,MISC,,,fr,1
+Scènes de liesse,Scènes de liesse,MISC,,,fr,1
+Taxi 2,Taxi 2,MISC,,,fr,1
+Â«Â Chef,Â«Â Chef,MISC,,,fr,1
+mesurÃ,mesurÃ,MISC,,,fr,1
+Peugeot 406,Peugeot 406,MISC,,,fr,1
+Taxi,Taxi,MISC,,,fr,1
+MÃªme,MÃªme,MISC,,,fr,1
+Haute-SavoieÂ !,Haute-SavoieÂ !,MISC,,,fr,1
+arrivÃ,arrivÃ,MISC,,,fr,1
+Infos Ã  ,Infos Ã  ,MISC,,,fr,1
+Projet d'attaque présumé,Projet d'attaque présumé,MISC,,,fr,1
+dAmérique,dAmérique,MISC,,,fr,1
+20 Heures,20 Heures,MISC,,,fr,1
+Deal,Deal,MISC,,,fr,1
 Une idole d’enfance” ,Une idole d’enfance” ,MISC,,,fr,1
 Dubaï,Dubaï,MISC,0.030952380952380953,0.014285714285714289,fr,1
 The Jerusalem Post”,The Jerusalem Post”,MISC,,,fr,1
@@ -661,331 +584,280 @@ Football,Football,MISC,,,fr,1
 Terreur coloniale,Terreur coloniale,MISC,,,fr,1
 Je vois un grand,Je vois un grand,MISC,,,fr,1
 Vol FlyDubai,Vol FlyDubai,MISC,,,fr,1
-La Longue Nuit Syrien,La Longue Nuit Syrien,MISC,,,fr,1
-Grèce ,Grèce ,MISC,,,fr,1
-dIslande,dIslande,MISC,,,fr,1
-Histoire A.-L.B.,Histoire A.-L.B.,MISC,,,fr,1
-Ma crainte,Ma crainte,MISC,,,fr,1
-Source : Responsible Statecraft,Source : Responsible Statecraft,MISC,,,fr,1
-vol de FlyDuba,vol de FlyDuba,MISC,,,fr,1
-vol FlyDubai,vol FlyDubai,MISC,,,fr,1
-Prix nobel de le,Prix nobel de le,MISC,,,fr,1
-Comité Nobel norvégien,Comité Nobel norvégien,MISC,,,fr,1
-Le Nobel de la paix décerné,Le Nobel de la paix décerné,MISC,,,fr,1
-dÉtat,dÉtat,MISC,-0.074,0.08,fr,1
-lAcropole,lAcropole,MISC,,,fr,1
-dEtat »,dEtat »,MISC,,,fr,1
-Sermons sous les décombres,Sermons sous les décombres,MISC,,,fr,1
-Proche-Ori,Proche-Ori,MISC,,,fr,1
-Ha’Aretz,Ha’Aretz,MISC,,,fr,1
-Fauda,Fauda,MISC,,,fr,1
-Défense belge,Défense belge,MISC,,,fr,1
 lArabie,lArabie,MISC,,,fr,1
 Langue de Barbarie,Langue de Barbarie,MISC,,,fr,1
 Diaspora,Diaspora,MISC,,,fr,1
-Infos Ã  ,Infos Ã  ,MISC,,,fr,1
+Ouigo,Ouigo,MISC,0.03333333333333333,0.0625,fr,1
+Nouvel-An,Nouvel-An,MISC,,,fr,1
+lEFC,lEFC,MISC,,,fr,1
+Judo ,Judo ,MISC,,,fr,1
+La Nobel de la paix 2025 ,La Nobel de la paix 2025 ,MISC,,,fr,1
+Moyen-,Moyen-,MISC,,,fr,1
 Guerre,Guerre,MISC,,,fr,1
 messageâ€,messageâ€,MISC,,,fr,1
 Préparation d'un acte terroriste,Préparation d'un acte terroriste,MISC,,,fr,1
+Attaques des Houthis,Attaques des Houthis,MISC,,,fr,1
+Xi-Trump,Xi-Trump,MISC,,,fr,1
+Rupture,Rupture,MISC,,,fr,1
+Une enquête a été ouverte,Une enquête a été ouverte,MISC,,,fr,1
+A8,A8,MISC,-0.07250000000000001,0.18750000000000003,fr,1
+lEuro,lEuro,MISC,,,fr,1
+Euro 2027,Euro 2027,MISC,,,fr,1
+fonctionnemeâ€,fonctionnemeâ€,MISC,,,fr,1
+sommet Trump,sommet Trump,MISC,,,fr,1
+Ass,Ass,MISC,,,fr,1
+Nigloland,Nigloland,MISC,0.15687500000000001,0.16875,fr,1
+Hamas na,Hamas na,MISC,,,fr,1
+Comment tu vas,Comment tu vas,MISC,,,fr,1
+dAthènes,dAthènes,MISC,,,fr,1
+Billard,Billard,MISC,,,fr,1
+couâ€,couâ€,MISC,,,fr,1
+grande qualitÃ,grande qualitÃ,MISC,,,fr,1
+neutralitÃ,neutralitÃ,MISC,,,fr,1
+La guerre des macarons,La guerre des macarons,MISC,,,fr,1
+Ligue A.,Ligue A.,MISC,,,fr,1
 crit Ã  Mark Carney,crit Ã  Mark Carney,MISC,,,fr,1
 Premier ministre norvÃ,Premier ministre norvÃ,MISC,,,fr,1
 Gr,Gr,MISC,,,fr,1
 Dun cÃ´tÃ,Dun cÃ´tÃ,MISC,,,fr,1
 tÃªtes,tÃªtes,MISC,,,fr,1
-La guerre des macarons,La guerre des macarons,MISC,,,fr,1
 PierreÂ HermÃ,PierreÂ HermÃ,MISC,,,fr,1
+partisaâ€,partisaâ€,MISC,,,fr,1
 Notre,Notre,MISC,0.3,0.55,fr,1
 Pape LÃ,Pape LÃ,MISC,,,fr,1
 septÂ,septÂ,MISC,,,fr,1
 regrâ€,regrâ€,MISC,,,fr,1
 Journée,Journée,MISC,,,fr,1
-Moyen-,Moyen-,MISC,,,fr,1
-arrivÃ,arrivÃ,MISC,,,fr,1
-Ouigo,Ouigo,MISC,0.03333333333333333,0.0625,fr,1
-Haute-SavoieÂ !,Haute-SavoieÂ !,MISC,,,fr,1
-Nouvel-An,Nouvel-An,MISC,,,fr,1
-Judo ,Judo ,MISC,,,fr,1
-Deal,Deal,MISC,,,fr,1
-Projet d'attaque présumé,Projet d'attaque présumé,MISC,,,fr,1
-lArvre,lArvre,MISC,,,fr,1
-conduiâ€,conduiâ€,MISC,,,fr,1
-FranceÂ ,FranceÂ ,MISC,,,fr,1
-contrÃ´lÃ,contrÃ´lÃ,MISC,,,fr,1
-Fashion Week fÃ,Fashion Week fÃ,MISC,,,fr,1
-Taxi 2,Taxi 2,MISC,,,fr,1
-Â«Â Chef,Â«Â Chef,MISC,,,fr,1
-mesurÃ,mesurÃ,MISC,,,fr,1
-Peugeot 406,Peugeot 406,MISC,,,fr,1
-Taxi,Taxi,MISC,,,fr,1
-MÃªme,MÃªme,MISC,,,fr,1
-pop Ed Sheeran,pop Ed Sheeran,MISC,,,fr,1
-GETTY,GETTY,MISC,,,fr,1
-Ne touchez pas,Ne touchez pas,MISC,,,fr,1
-Sommet international sur l’espace,Sommet international sur l’espace,MISC,,,fr,1
-Guerre en Ukraine : Attaques de drones russes,Guerre en Ukraine : Attaques de drones russes,MISC,,,fr,1
-pÃ´t,pÃ´t,MISC,,,fr,1
-ner,ner,MISC,,,fr,1
-dentraÃ,dentraÃ,MISC,,,fr,1
-Lâ€™,Lâ€™,MISC,,,fr,1
-The Kyiv Independent,The Kyiv Independent,MISC,-0.09999999999999999,0.16666666666666666,fr,1
-The Exploration Company,The Exploration Company,MISC,,,fr,1
-alert,alert,MISC,,,fr,1
-REYNOLDS,REYNOLDS,MISC,,,fr,1
-Grand Chelem,Grand Chelem,MISC,,,fr,1
-lUS Open,lUS Open,MISC,,,fr,1
-Jeu,Jeu,MISC,,,fr,1
-Open d’Australie,Open d’Australie,MISC,,,fr,1
-US Open,US Open,MISC,,,fr,1
-US Open ,US Open ,MISC,,,fr,1
-"Puis nous avons été encerclés""Il","Puis nous avons été encerclés""Il",MISC,,,fr,1
-Mondial féminin de basket ,Mondial féminin de basket ,MISC,,,fr,1
-eurosâ€,eurosâ€,MISC,,,fr,1
-Lâ€™Ã‰glise,Lâ€™Ã‰glise,MISC,,,fr,1
-cessaires Ã  ,cessaires Ã  ,MISC,,,fr,1
-Un drone,Un drone,MISC,,,fr,1
-Bélarus,Bélarus,MISC,,,fr,1
-lAlliance,lAlliance,MISC,,,fr,1
-Alliance,Alliance,MISC,,,fr,1
-Abdouraman,Abdouraman,MISC,,,fr,1
-LOrient-le-Jourau,LOrient-le-Jourau,MISC,,,fr,1
-Svia,Svia,MISC,,,fr,1
-dHénin,dHénin,MISC,,,fr,1
-Irish Open de Dublin,Irish Open de Dublin,MISC,,,fr,1
-NAZA na,NAZA na,MISC,,,fr,1
-Lancet Countdown,Lancet Countdown,MISC,,,fr,1
-HANDOUT,HANDOUT,MISC,,,fr,1
-Faire peur »,Faire peur »,MISC,,,fr,1
-Homme à celle des forêts spontanées en Chine,Homme à celle des forêts spontanées en Chine,MISC,,,fr,1
-vÃªques,vÃªques,MISC,,,fr,1
-supplÃ,supplÃ,MISC,,,fr,1
-CABALLERO,CABALLERO,MISC,,,fr,1
-iHeartRadio,iHeartRadio,MISC,,,fr,1
-PylÃ´ne,PylÃ´ne,MISC,,,fr,1
-Antoine,Antoine,MISC,-0.292,0.23000000000000004,fr,1
-Ne partez pas sans moi,Ne partez pas sans moi,MISC,,,fr,1
-™Eurovision,™Eurovision,MISC,,,fr,1
-GCSP,GCSP,MISC,,,fr,1
-IISS,IISS,MISC,,,fr,1
-lInternational Institute for Strategic StudiesÂ ,lInternational Institute for Strategic StudiesÂ ,MISC,,,fr,1
-infrastructuresâ€,infrastructuresâ€,MISC,,,fr,1
-La Grande Librairi,La Grande Librairi,MISC,,,fr,1
-ANDREW,ANDREW,MISC,,,fr,1
-s Ã  ,s Ã  ,MISC,,,fr,1
-Ligue des Champions,Ligue des Champions,MISC,,,fr,1
-Chaos,Chaos,MISC,,,fr,1
-Un père de famille,Un père de famille,MISC,,,fr,1
-infidÃ,infidÃ,MISC,,,fr,1
-AfD,AfD,MISC,-0.003571428571428571,0.01904761904761905,fr,1
-lAlternative,lAlternative,MISC,,,fr,1
-Zappée,Zappée,MISC,,,fr,1
-bataille de Kulikovo,bataille de Kulikovo,MISC,,,fr,1
-Connaissez,Connaissez,MISC,,,fr,1
-Éditions Actes Sud,Éditions Actes Sud,MISC,,,fr,1
-MANDEL NGAN,MANDEL NGAN,MISC,,,fr,1
-G20 ,G20 ,MISC,,,fr,1
-Ligue 2 BKT,Ligue 2 BKT,MISC,,,fr,1
-Un ptit tour,Un ptit tour,MISC,,,fr,1
-US Open –,US Open –,MISC,,,fr,1
-Der Standard,Der Standard,MISC,,,fr,1
-disparaÃ,disparaÃ,MISC,,,fr,1
-"SRFC
-","SRFC
+20 Minutes a rencontrÃ,20 Minutes a rencontrÃ,MISC,,,fr,1
+17ᵉ Conférence des Parties,17ᵉ Conférence des Parties,MISC,,,fr,1
+Sommet d,Sommet d,MISC,,,fr,1
+LGBT+ Security,LGBT+ Security,MISC,,,fr,1
+dEtat »,dEtat »,MISC,,,fr,1
+Prix Nobel de la,Prix Nobel de la,MISC,,,fr,1
+dA412,dA412,MISC,,,fr,1
+Tour de Lombardie,Tour de Lombardie,MISC,,,fr,1
+géa,géa,MISC,,,fr,1
+russophones,russophones,MISC,,,fr,1
+mur de séparation de Gaza,mur de séparation de Gaza,MISC,,,fr,1
+Ma crainte,Ma crainte,MISC,,,fr,1
+vol de FlyDuba,vol de FlyDuba,MISC,,,fr,1
+vol FlyDubai,vol FlyDubai,MISC,,,fr,1
+ZAD de l'A412,ZAD de l'A412,MISC,,,fr,1
+Comité Nobel,Comité Nobel,MISC,,,fr,1
+Prix nobel de le,Prix nobel de le,MISC,,,fr,1
+Comité Nobel norvégien,Comité Nobel norvégien,MISC,,,fr,1
+Le Nobel de la paix décerné,Le Nobel de la paix décerné,MISC,,,fr,1
+Exécution publique aux États,Exécution publique aux États,MISC,,,fr,1
+Etats,Etats,MISC,0.009333333333333332,0.004000000000000001,fr,1
+UNis,UNis,MISC,,,fr,1
+Amical F,Amical F,MISC,,,fr,1
+guerre du Golfe,guerre du Golfe,MISC,,,fr,1
+Gaumais,Gaumais,MISC,,,fr,1
+acte V,acte V,MISC,,,fr,1
+JeanLa,JeanLa,MISC,,,fr,1
+Saint,Saint,MISC,-0.000119047619047619,0.0005952380952380952,fr,1
+Molenbeek,Molenbeek,MISC,,,fr,1
+Diable rouge,Diable rouge,MISC,,,fr,1
+LGBT,LGBT,MISC,,,fr,1
+Letto,Letto,MISC,,,fr,1
+Ma famille,Ma famille,MISC,,,fr,1
+F1 Singapour 2026,F1 Singapour 2026,MISC,,,fr,1
+La jeune femme,La jeune femme,MISC,,,fr,1
+"Wikimedia Commons
+","Wikimedia Commons
 ",MISC,,,fr,1
-"Puis nous avons été encerclés""En visite","Puis nous avons été encerclés""En visite",MISC,,,fr,1
-Sanctions britanniques :,Sanctions britanniques :,MISC,,,fr,1
-nationalitÃ,nationalitÃ,MISC,,,fr,1
-Le Sénat,Le Sénat,MISC,,,fr,1
-Le Premier ministre suédois,Le Premier ministre suédois,MISC,,,fr,1
-Le Progrès ,Le Progrès ,MISC,,,fr,1
-OL ,OL ,MISC,,,fr,1
-Apple Arcade,Apple Arcade,MISC,,,fr,1
-Première,Première,MISC,,,fr,1
-la Chouette d'or relaxé,la Chouette d'or relaxé,MISC,,,fr,1
-Jusquà la naissance,Jusquà la naissance,MISC,,,fr,1
-États,États,MISC,0.012232142857142858,0.005,fr,1
-Kids Act,Kids Act,MISC,,,fr,1
-L’Histoire de Kullervo,L’Histoire de Kullervo,MISC,,,fr,1
-L'Histoire de Kullervo,L'Histoire de Kullervo,MISC,,,fr,1
+The post Découverte,The post Découverte,MISC,,,fr,1
+OFI Crête,OFI Crête,MISC,,,fr,1
+dÉtat,dÉtat,MISC,-0.074,0.08,fr,1
+Deuxième mort suspect,Deuxième mort suspect,MISC,,,fr,1
+While the first concerns almost everyone amid an increasingly fragile geopolitical,While the first concerns almost everyone amid an increasingly fragile geopolitical,MISC,,,fr,1
+Sermons sous les décombres,Sermons sous les décombres,MISC,,,fr,1
+lArgentine,lArgentine,MISC,,,fr,1
+En Argentine,En Argentine,MISC,,,fr,1
+Albiceleste,Albiceleste,MISC,,,fr,1
+Burkinabè,Burkinabè,MISC,,,fr,1
+Business News ,Business News ,MISC,,,fr,1
+IMM26,IMM26,MISC,,,fr,1
+lAgence spatiale européenne,lAgence spatiale européenne,MISC,,,fr,1
+Session ministérielle intermédiaire de l',Session ministérielle intermédiaire de l',MISC,,,fr,1
+Le Motocross des Nations,Le Motocross des Nations,MISC,,,fr,1
+Le Premier ministre letton,Le Premier ministre letton,MISC,,,fr,1
+Grands Prix de la saison,Grands Prix de la saison,MISC,,,fr,1
+Grands Prix de F1,Grands Prix de F1,MISC,,,fr,1
+LAngleterre,LAngleterre,MISC,,,fr,1
+GRISE,GRISE,MISC,,,fr,1
+Ni,Ni,MISC,,,fr,1
+Infos,Infos,MISC,,,fr,1
+Le Premier ministre bulgare,Le Premier ministre bulgare,MISC,,,fr,1
+Vectus Global,Vectus Global,MISC,,,fr,1
+Histoire A.-L.B.,Histoire A.-L.B.,MISC,,,fr,1
+Challenges,Challenges,MISC,,,fr,1
+Proche-Ori,Proche-Ori,MISC,,,fr,1
+Ha’Aretz,Ha’Aretz,MISC,,,fr,1
+Fauda,Fauda,MISC,,,fr,1
+Défense belge,Défense belge,MISC,,,fr,1
+Amical F : Les Bleues,Amical F : Les Bleues,MISC,,,fr,1
+dIslande,dIslande,MISC,,,fr,1
+DUNE,DUNE,MISC,,,fr,1
+Grèce ,Grèce ,MISC,,,fr,1
+La Longue Nuit Syrien,La Longue Nuit Syrien,MISC,,,fr,1
+festival Nova,festival Nova,MISC,,,fr,1
+Proche-,Proche-,MISC,,,fr,1
+acte III,acte III,MISC,,,fr,1
+Le prix d’Apple One,Le prix d’Apple One,MISC,,,fr,1
+Macklemore na,Macklemore na,MISC,,,fr,1
+LAfghanistan,LAfghanistan,MISC,,,fr,1
+Prise en main des Xiaomi 18 Pro,Prise en main des Xiaomi 18 Pro,MISC,,,fr,1
+GPB,GPB,MISC,,,fr,1
+dAnderle,dAnderle,MISC,,,fr,1
+La Plénitude Arena de la Défense,La Plénitude Arena de la Défense,MISC,,,fr,1
 F-35,F-35,MISC,,,fr,1
+Etats riverains de lArctique,Etats riverains de lArctique,MISC,,,fr,1
 Premier ministre polonais,Premier ministre polonais,MISC,,,fr,1
 Etats-Unis braquent le Kremlin et la Pologne,Etats-Unis braquent le Kremlin et la Pologne,MISC,,,fr,1
+Jusquà la naissance,Jusquà la naissance,MISC,,,fr,1
 Premier ministre bulgare,Premier ministre bulgare,MISC,,,fr,1
-la Chouette d'or,la Chouette d'or,MISC,,,fr,1
+Léon,Léon,MISC,,,fr,1
+lÉglise,lÉglise,MISC,,,fr,1
+Coupe dEurope,Coupe dEurope,MISC,,,fr,1
+LUEFA,LUEFA,MISC,,,fr,1
+UEFA,UEFA,MISC,0.033428571428571426,0.037142857142857144,fr,1
 BREFComme,BREFComme,MISC,,,fr,1
 BREFAprès,BREFAprès,MISC,,,fr,1
-GPB,GPB,MISC,,,fr,1
-Position de pr....,Position de pr....,MISC,,,fr,1
-BUI,BUI,MISC,,,fr,1
-MOTO À MBOCKEVU,MOTO À MBOCKEVU,MISC,,,fr,1
-CONDUCTEUR,CONDUCTEUR,MISC,,,fr,1
-LAustralie,LAustralie,MISC,,,fr,1
-mur dune,mur dune,MISC,,,fr,1
-dAbou Bilal,dAbou Bilal,MISC,,,fr,1
-Loccasion,Loccasion,MISC,,,fr,1
-KISS108 ,KISS108 ,MISC,,,fr,1
-Jingle Ball,Jingle Ball,MISC,,,fr,1
-AZF,AZF,MISC,,,fr,1
-Troisième Guerre mondiale,Troisième Guerre mondiale,MISC,,,fr,1
-Mondiaux de running : Chloé Herbiet première Européenne,Mondiaux de running : Chloé Herbiet première Européenne,MISC,,,fr,1
+L'Histoire de Kullervo,L'Histoire de Kullervo,MISC,,,fr,1
+L’Histoire de Kullervo,L’Histoire de Kullervo,MISC,,,fr,1
+Kids Act,Kids Act,MISC,,,fr,1
+Bretons,Bretons,MISC,,,fr,1
 Sept un désastre,Sept un désastre,MISC,,,fr,1
 OL marche sur,OL marche sur,MISC,,,fr,1
 Légitime Défense,Légitime Défense,MISC,,,fr,1
 20e: Pouuuuuuuuh,20e: Pouuuuuuuuh,MISC,,,fr,1
 lOL,lOL,MISC,0.2588888888888889,0.3055555555555556,fr,1
 Salut tout le monde,Salut tout le monde,MISC,,,fr,1
-Bretons,Bretons,MISC,,,fr,1
 Tour du Langkawi,Tour du Langkawi,MISC,,,fr,1
+États,États,MISC,0.012232142857142858,0.005,fr,1
 prix Pulitzer,prix Pulitzer,MISC,,,fr,1
 Estéban,Estéban,MISC,,,fr,1
-Marseille sy,Marseille sy,MISC,,,fr,1
-Sénat et so,Sénat et so,MISC,,,fr,1
-Ligue Europa :,Ligue Europa :,MISC,,,fr,1
+Loccasion,Loccasion,MISC,,,fr,1
+dAbou Bilal,dAbou Bilal,MISC,,,fr,1
+mur dune,mur dune,MISC,,,fr,1
+LAustralie,LAustralie,MISC,,,fr,1
+Ligue 1 : Le CUP,Ligue 1 : Le CUP,MISC,,,fr,1
+Position de pr....,Position de pr....,MISC,,,fr,1
+Troisième Guerre mondiale,Troisième Guerre mondiale,MISC,,,fr,1
+BUI,BUI,MISC,,,fr,1
+Le Projet d’un État juif et les Grandes Puissances,Le Projet d’un État juif et les Grandes Puissances,MISC,,,fr,1
+Le Projet d’un État juif,Le Projet d’un État juif,MISC,,,fr,1
+SP98,SP98,MISC,,,fr,1
+coup d'État manqué,coup d'État manqué,MISC,,,fr,1
+"Groenland""Alors","Groenland""Alors",MISC,,,fr,1
 State of the European Union,State of the European Union,MISC,,,fr,1
+Kremlin,Kremlin,MISC,0.002276867030965392,0.0026411657559198545,fr,1
 Recruter pour commettre des meurtres,Recruter pour commettre des meurtres,MISC,,,fr,1
 Média,Média,MISC,,,fr,1
 CESD,CESD,MISC,,,fr,1
 Coupe dEurope na,Coupe dEurope na,MISC,,,fr,1
 C3 !,C3 !,MISC,,,fr,1
 Coupe d’Europe,Coupe d’Europe,MISC,,,fr,1
+dIstanbul,dIstanbul,MISC,,,fr,1
 Affaires étra,Affaires étra,MISC,,,fr,1
-20 Heures,20 Heures,MISC,,,fr,1
-Russ,Russ,MISC,,,fr,1
-Marche des fiertés,Marche des fiertés,MISC,,,fr,1
-Techno Parade de retour,Techno Parade de retour,MISC,,,fr,1
-Trump ,Trump ,MISC,,,fr,1
-Action irresponsable,Action irresponsable,MISC,,,fr,1
-Kiev,Kiev,MISC,0.0021153846153846158,0.0024615384615384616,fr,1
-États membres,États membres,MISC,,,fr,1
-Kremlin,Kremlin,MISC,0.0023946360153256708,0.002777777777777778,fr,1
-"Groenland""Alors","Groenland""Alors",MISC,,,fr,1
-XI de départ,XI de départ,MISC,,,fr,1
-coup d'État manqué,coup d'État manqué,MISC,,,fr,1
+Le Projet dun État juif,Le Projet dun État juif,MISC,,,fr,1
+GP de Belgique,GP de Belgique,MISC,,,fr,1
+Grand Prix de Monaco,Grand Prix de Monaco,MISC,,,fr,1
 State of the Union,State of the Union,MISC,,,fr,1
+MOTO À MBOCKEVU,MOTO À MBOCKEVU,MISC,,,fr,1
+CONDUCTEUR,CONDUCTEUR,MISC,,,fr,1
+Marseille sy,Marseille sy,MISC,,,fr,1
+Sénat et so,Sénat et so,MISC,,,fr,1
+Ligue Europa :,Ligue Europa :,MISC,,,fr,1
+XI de départ,XI de départ,MISC,,,fr,1
 MI-5 ,MI-5 ,MISC,,,fr,1
+Grands Prix du Portugal,Grands Prix du Portugal,MISC,,,fr,1
 Slow Horses,Slow Horses,MISC,,,fr,1
 dAaron Rowe,dAaron Rowe,MISC,,,fr,1
 quIrlandais,quIrlandais,MISC,,,fr,1
 Beoga,Beoga,MISC,,,fr,1
 États-Unis ,États-Unis ,MISC,,,fr,1
 Le Premier ministre canadien,Le Premier ministre canadien,MISC,,,fr,1
-Grands Prix du Portugal,Grands Prix du Portugal,MISC,,,fr,1
-Grand Prix de Monaco,Grand Prix de Monaco,MISC,,,fr,1
-GP de Belgique,GP de Belgique,MISC,,,fr,1
-Le Projet dun État juif,Le Projet dun État juif,MISC,,,fr,1
-Le Projet d’un État juif et les Grandes Puissances,Le Projet d’un État juif et les Grandes Puissances,MISC,,,fr,1
-Le Projet d’un État juif,Le Projet d’un État juif,MISC,,,fr,1
-SP98,SP98,MISC,,,fr,1
-« Stop Smart Glasses,« Stop Smart Glasses,MISC,,,fr,1
-"ADOBESTOCK
-Publié","ADOBESTOCK
-Publié",MISC,,,fr,1
-Bernard,Bernard,MISC,,,fr,1
-Suivez,Suivez,MISC,0.03444444444444445,0.09444444444444446,fr,1
-Sur la rocade de Bordeaux,Sur la rocade de Bordeaux,MISC,,,fr,1
-En pleine saison touristique,En pleine saison touristique,MISC,,,fr,1
-lOlympia,lOlympia,MISC,,,fr,1
-Gap...,Gap...,MISC,,,fr,1
-Aborigènes,Aborigènes,MISC,,,fr,1
-Etats-Unis dune,Etats-Unis dune,MISC,,,fr,1
-Mondiaux d'Oklahoma City,Mondiaux d'Oklahoma City,MISC,,,fr,1
-attaques de Kiev,attaques de Kiev,MISC,,,fr,1
-Françaises,Françaises,MISC,,,fr,1
-Sunset Live,Sunset Live,MISC,,,fr,1
-Tadej,Tadej,MISC,,,fr,1
-Rubio,Rubio,MISC,,,fr,1
-» pa,» pa,MISC,,,fr,1
-Pokémon,Pokémon,MISC,,,fr,1
-dInterpol,dInterpol,MISC,,,fr,1
-La Quotidi,La Quotidi,MISC,,,fr,1
-À 21 heures,À 21 heures,MISC,,,fr,1
-MR Georges,MR Georges,MISC,,,fr,1
-Model Y,Model Y,MISC,,,fr,1
-FRANCE,FRANCE,MISC,-0.0175,0.025,fr,1
-"Caroline Politi
-Publié","Caroline Politi
-Publié",MISC,,,fr,1
-Rares,Rares,MISC,,,fr,1
-Chant,Chant,MISC,,,fr,1
-Le Dauphiné Libéré vous,Le Dauphiné Libéré vous,MISC,,,fr,1
-hymne des Savoie,hymne des Savoie,MISC,,,fr,1
-Odeur de brûlé,Odeur de brûlé,MISC,,,fr,1
-Il sagirait dune,Il sagirait dune,MISC,,,fr,1
-EngineAI,EngineAI,MISC,,,fr,1
-Protoxyde,Protoxyde,MISC,,,fr,1
-IQT N,IQT N,MISC,,,fr,1
-Select Actualités quantiques de juin,Select Actualités quantiques de juin,MISC,,,fr,1
-Cap-Ferret,Cap-Ferret,MISC,0.02285714285714286,0.023015873015873014,fr,1
-Afrikaners,Afrikaners,MISC,,,fr,1
-Génocide blanc »,Génocide blanc »,MISC,,,fr,1
-XIXᵉ,XIXᵉ,MISC,,,fr,1
-"Quotidienne Sport
-Recevez","Quotidienne Sport
-Recevez",MISC,,,fr,1
-Team Visma | Lease,Team Visma | Lease,MISC,,,fr,1
-Team Jayco AIUla,Team Jayco AIUla,MISC,,,fr,1
-QI vélo hors-norme,QI vélo hors-norme,MISC,,,fr,1
-"argent""La","argent""La",MISC,,,fr,1
-tournoi des internationaux de France,tournoi des internationaux de France,MISC,,,fr,1
-Gotham,Gotham,MISC,,,fr,1
-Zorro,Zorro,MISC,,,fr,1
-Tour de France ,Tour de France ,MISC,,,fr,1
-Ac,Ac,MISC,,,fr,1
-Loffice,Loffice,MISC,,,fr,1
-SKATE IN CAMBODIA,SKATE IN CAMBODIA,MISC,,,fr,1
-ROMUALD,ROMUALD,MISC,,,fr,1
-Algérie ,Algérie ,MISC,,,fr,1
-Sans P,Sans P,MISC,,,fr,1
-SP95-E10,SP95-E10,MISC,-0.1175,0.25,fr,1
-Cloud,Cloud,MISC,,,fr,1
-Roja,Roja,MISC,0.12833333333333333,0.13333333333333333,fr,1
-Real,Real,MISC,,,fr,1
-KuCoin,KuCoin,MISC,,,fr,1
-StepOmniprésent,StepOmniprésent,MISC,,,fr,1
-EF Education,EF Education,MISC,,,fr,1
-Affaire Epstein ,Affaire Epstein ,MISC,,,fr,1
-"Nicolas Camus
-Publié","Nicolas Camus
-Publié",MISC,,,fr,1
-DIRECT Tour de France 2026,DIRECT Tour de France 2026,MISC,,,fr,1
-Suivez la redoutable,Suivez la redoutable,MISC,,,fr,1
-dApollon,dApollon,MISC,,,fr,1
-Écran de Veille,Écran de Veille,MISC,,,fr,1
-Franc,Franc,MISC,,,fr,1
-Cinq jours,Cinq jours,MISC,,,fr,1
-lAsean,lAsean,MISC,,,fr,1
-Etats-Unis....,Etats-Unis....,MISC,,,fr,1
-Tour de France Voiron,Tour de France Voiron,MISC,,,fr,1
-IIIe République,IIIe République,MISC,,,fr,1
-Ce jeudi,Ce jeudi,MISC,,,fr,1
-Tour de France 2026 : la bataille,Tour de France 2026 : la bataille,MISC,,,fr,1
-"terminé""Le","terminé""Le",MISC,,,fr,1
-» Enfants surexcités,» Enfants surexcités,MISC,,,fr,1
-Un homme stationné en voiture,Un homme stationné en voiture,MISC,,,fr,1
-Après un léger sursis,Après un léger sursis,MISC,,,fr,1
-Elles,Elles,MISC,,,fr,1
-DINUM,DINUM,MISC,,,fr,1
-Electra,Electra,MISC,,,fr,1
-GPT,GPT,MISC,,,fr,1
-massi,massi,MISC,,,fr,1
-Démographie,Démographie,MISC,,,fr,1
-Un incendie « inarrêtable »,Un incendie « inarrêtable »,MISC,,,fr,1
-IA,IA,MISC,,,fr,1
-Incendies : Satellites,Incendies : Satellites,MISC,,,fr,1
-Numérique,Numérique,MISC,,,fr,1
-RecordPy // Sour,RecordPy // Sour,MISC,,,fr,1
-protocole Matrix,protocole Matrix,MISC,,,fr,1
-messagerie Tchap,messagerie Tchap,MISC,,,fr,1
-Un triste,Un triste,MISC,,,fr,1
-La guerre,La guerre,MISC,,,fr,1
-pulvér,pulvér,MISC,,,fr,1
-chroniqueuse de CNews,chroniqueuse de CNews,MISC,,,fr,1
-Rockstar Games,Rockstar Games,MISC,,,fr,1
-"Galerie Maria Lund
-Pour les tortues géantes","Galerie Maria Lund
-Pour les tortues géantes",MISC,,,fr,1
-Neuf loups,Neuf loups,MISC,,,fr,1
-Gap,Gap,MISC,0.0028571428571428597,0.07142857142857142,fr,1
-Gemini,Gemini,MISC,0.12,0.3,fr,1
+Mondiaux de running : Chloé Herbiet première Européenne,Mondiaux de running : Chloé Herbiet première Européenne,MISC,,,fr,1
+Vive Eagle ,Vive Eagle ,MISC,,,fr,1
+Asse,Asse,MISC,,,fr,1
+MV Maasvliet,MV Maasvliet,MISC,,,fr,1
+Zidane,Zidane,MISC,0.10083333333333333,0.07500000000000001,fr,1
+Equipe de France,Equipe de France,MISC,,,fr,1
+Trump optimiste,Trump optimiste,MISC,,,fr,1
+The p,The p,MISC,,,fr,1
+Auto,Auto,MISC,,,fr,1
+Petal,Petal,MISC,,,fr,1
+Detect 1200W,Detect 1200W,MISC,,,fr,1
+Ninja Detect 1200W,Ninja Detect 1200W,MISC,,,fr,1
+ChromeOS,ChromeOS,MISC,,,fr,1
+Googlebook,Googlebook,MISC,0.10791666666666667,0.06041666666666667,fr,1
+Seconde G,Seconde G,MISC,,,fr,1
+lHôtel,lHôtel,MISC,,,fr,1
+Dans le cadre des journées du Patrimoine,Dans le cadre des journées du Patrimoine,MISC,,,fr,1
+Patrimoine,Patrimoine,MISC,,,fr,1
+Br,Br,MISC,,,fr,1
+SUV,SUV,MISC,,,fr,1
+MG,MG,MISC,,,fr,1
+WindEnergy,WindEnergy,MISC,,,fr,1
+SELCUK ACAR,SELCUK ACAR,MISC,,,fr,1
+Mongolie,Mongolie,MISC,0.024999999999999998,0.06666666666666667,fr,1
+Black Cats,Black Cats,MISC,,,fr,1
+lAngleterre,lAngleterre,MISC,,,fr,1
+Premier League,Premier League,MISC,,,fr,1
+My Fierce Ignorant Step,My Fierce Ignorant Step,MISC,,,fr,1
+Dans la nuit de mardi,Dans la nuit de mardi,MISC,,,fr,1
+dEmmanuel,dEmmanuel,MISC,,,fr,1
+WindEnergy Hamburg 2026,WindEnergy Hamburg 2026,MISC,,,fr,1
+Lettre de l’éduc,Lettre de l’éduc,MISC,,,fr,1
+SKL,SKL,MISC,,,fr,1
+Multi,Multi,MISC,,,fr,1
+Qui veut être mon,Qui veut être mon,MISC,,,fr,1
+lEtat héb,lEtat héb,MISC,,,fr,1
+PRNewswire/,PRNewswire/,MISC,,,fr,1
+Transmusicales,Transmusicales,MISC,,,fr,1
+dInternet,dInternet,MISC,,,fr,1
+Jingle Ball,Jingle Ball,MISC,,,fr,1
+TAT-8,TAT-8,MISC,,,fr,1
+Régional 2,Régional 2,MISC,,,fr,1
+Nouakchott,Nouakchott,MISC,,,fr,1
+dragon ,dragon ,MISC,,,fr,1
+endommagÃ,endommagÃ,MISC,,,fr,1
+A vaincre sans péril,A vaincre sans péril,MISC,,,fr,1
+so,so,MISC,,,fr,1
+lEsport,lEsport,MISC,,,fr,1
+Esport mondial,Esport mondial,MISC,,,fr,1
+Esport mondial »,Esport mondial »,MISC,,,fr,1
+Le Premier ministre israélien Be,Le Premier ministre israélien Be,MISC,,,fr,1
+Lauteur présumé dune,Lauteur présumé dune,MISC,,,fr,1
+pop Ed Sheeran,pop Ed Sheeran,MISC,,,fr,1
+GETTY,GETTY,MISC,,,fr,1
+iHeartRadio,iHeartRadio,MISC,,,fr,1
+KISS108 ,KISS108 ,MISC,,,fr,1
+ISS,ISS,MISC,,,fr,1
+Olivier,Olivier,MISC,,,fr,1
+Congrès,Congrès,MISC,,,fr,1
+Concorde,Concorde,MISC,,,fr,1
+Le Soir,Le Soir,MISC,,,fr,1
+organisationâ€,organisationâ€,MISC,,,fr,1
+socialeÂ Â» rÃ,socialeÂ Â» rÃ,MISC,,,fr,1
+cherâ€,cherâ€,MISC,,,fr,1
+Pas de messe,Pas de messe,MISC,,,fr,1
+lÉlysée,lÉlysée,MISC,,,fr,1
+Euro : les Bleus,Euro : les Bleus,MISC,,,fr,1
+Premier ministre groenlandais,Premier ministre groenlandais,MISC,,,fr,1
+» : Marion Borras,» : Marion Borras,MISC,,,fr,1
+Manifestations,Manifestations,MISC,,,fr,1
+Tour du Mont-Blanc,Tour du Mont-Blanc,MISC,,,fr,1
+Mon,Mon,MISC,,,fr,1
+États-Unis Donald Trump,États-Unis Donald Trump,MISC,,,fr,1
+Première ministre,Première ministre,MISC,,,fr,1
+HTC,HTC,MISC,,,fr,1
+Free Mobile,Free Mobile,MISC,,,fr,1
+Un tribunal russe,Un tribunal russe,MISC,,,fr,1
+LEurope,LEurope,MISC,,,fr,1
+A 15h20,A 15h20,MISC,,,fr,1
 Le Te… [+6056 chars],Le Te… [+6056 chars],MISC,,,fr,1
 LItalie,LItalie,MISC,,,fr,1
 Quelques jours,Quelques jours,MISC,,,fr,1
@@ -1000,30 +872,34 @@ Le gigantesque incendie en Gironde,Le gigantesque incendie en Gironde,MISC,,,fr,
 Week,Week,MISC,,,fr,1
 Le gouvernement a gelé ce vendredi pour six mois les avoirs de,Le gouvernement a gelé ce vendredi pour six mois les avoirs de,MISC,,,fr,1
 Astronomes amateurs d'Auvergne,Astronomes amateurs d'Auvergne,MISC,,,fr,1
+Crise à Ceuta ,Crise à Ceuta ,MISC,,,fr,1
+L’Administration Trump,L’Administration Trump,MISC,,,fr,1
+sab,sab,MISC,,,fr,1
+Madame Web,Madame Web,MISC,,,fr,1
+"LESSENTIEL
+<ul><li>","LESSENTIEL
+<ul><li>",MISC,,,fr,1
+Transition écologi,Transition écologi,MISC,,,fr,1
+Vagues,Vagues,MISC,,,fr,1
+lOffice,lOffice,MISC,,,fr,1
+ONDE,ONDE,MISC,,,fr,1
+Office national de la biodiversité,Office national de la biodiversité,MISC,,,fr,1
+lOural,lOural,MISC,,,fr,1
+Igor*.,Igor*.,MISC,,,fr,1
+incendie du Var,incendie du Var,MISC,,,fr,1
+Un bombardement russe,Un bombardement russe,MISC,,,fr,1
+Cap Ferret,Cap Ferret,MISC,-0.00023041474654377837,0.006566820276497696,fr,1
+Martial Z,Martial Z,MISC,,,fr,1
+ZATAZ,ZATAZ,MISC,,,fr,1
+Xbox ,Xbox ,MISC,,,fr,1
+Neuf,Neuf,MISC,,,fr,1
 lIA,lIA,MISC,,,fr,1
-Casino,Casino,MISC,,,fr,1
+Gemini,Gemini,MISC,0.12,0.3,fr,1
+Gap,Gap,MISC,0.0028571428571428597,0.07142857142857142,fr,1
+Neuf loups,Neuf loups,MISC,,,fr,1
 GTA Online,GTA Online,MISC,,,fr,1
 Premium,Premium,MISC,,,fr,1
-Bleus Zinédine Zidane,Bleus Zinédine Zidane,MISC,,,fr,1
-Aperçus IA,Aperçus IA,MISC,,,fr,1
-ICI Vaucluse,ICI Vaucluse,MISC,,,fr,1
-Mardi matin,Mardi matin,MISC,,,fr,1
-Une course contre la montre,Une course contre la montre,MISC,,,fr,1
-Maison-B,Maison-B,MISC,,,fr,1
-lIran,lIran,MISC,0.010999999999999998,0.032,fr,1
-festival de,festival de,MISC,,,fr,1
-dIllac,dIllac,MISC,,,fr,1
-DZ Mafia,DZ Mafia,MISC,,,fr,1
-dAnquetil,dAnquetil,MISC,,,fr,1
-Suivez les feux,Suivez les feux,MISC,,,fr,1
-Votr,Votr,MISC,,,fr,1
-Vendredi 24 juillet,Vendredi 24 juillet,MISC,,,fr,1
-Airbus A400M,Airbus A400M,MISC,,,fr,1
-Airbus A400,Airbus A400,MISC,,,fr,1
-Mode IA,Mode IA,MISC,,,fr,1
-Incendies : Terrains de foot,Incendies : Terrains de foot,MISC,,,fr,1
 Premium ,Premium ,MISC,,,fr,1
-La nuit,La nuit,MISC,0.19799999999999998,0.36,fr,1
 résolution 4K,résolution 4K,MISC,,,fr,1
 Les thermomètres semballent,Les thermomètres semballent,MISC,,,fr,1
 BA709 de Cognac,BA709 de Cognac,MISC,,,fr,1
@@ -1031,355 +907,35 @@ MQ9-Reaper,MQ9-Reaper,MISC,,,fr,1
 Reaper de la BA709 de Cognac,Reaper de la BA709 de Cognac,MISC,,,fr,1
 drone Reaper,drone Reaper,MISC,,,fr,1
 Sur le front des incendies géants,Sur le front des incendies géants,MISC,,,fr,1
-Instagram,Instagram,MISC,0.0010204081632653093,0.05918367346938776,fr,1
+Instagram,Instagram,MISC,0.0011904761904761943,0.06904761904761905,fr,1
 TikTok,TikTok,MISC,,,fr,1
 Frappe ukrainienne,Frappe ukrainienne,MISC,,,fr,1
 Jusquà 40°C,Jusquà 40°C,MISC,,,fr,1
 lEquipe,lEquipe,MISC,,,fr,1
-lArc de Triomphe,lArc de Triomphe,MISC,,,fr,1
+Casino,Casino,MISC,,,fr,1
+Rockstar Games,Rockstar Games,MISC,,,fr,1
+chroniqueuse de CNews,chroniqueuse de CNews,MISC,,,fr,1
+IA,IA,MISC,,,fr,1
+"Galerie Maria Lund
+Pour les tortues géantes","Galerie Maria Lund
+Pour les tortues géantes",MISC,,,fr,1
+Electra,Electra,MISC,,,fr,1
+GPT,GPT,MISC,,,fr,1
+massi,massi,MISC,,,fr,1
+Démographie,Démographie,MISC,,,fr,1
+Un incendie « inarrêtable »,Un incendie « inarrêtable »,MISC,,,fr,1
+Incendies : Satellites,Incendies : Satellites,MISC,,,fr,1
+pulvér,pulvér,MISC,,,fr,1
+DINUM,DINUM,MISC,,,fr,1
+Numérique,Numérique,MISC,,,fr,1
+protocole Matrix,protocole Matrix,MISC,,,fr,1
+messagerie Tchap,messagerie Tchap,MISC,,,fr,1
+Un triste,Un triste,MISC,,,fr,1
+La guerre,La guerre,MISC,,,fr,1
+Chasse à l’homme indigne,Chasse à l’homme indigne,MISC,,,fr,1
+Bybit.eu,Bybit.eu,MISC,,,fr,1
 Orientales,Orientales,MISC,,,fr,1
-Girondena,Girondena,MISC,,,fr,1
-La Libre,La Libre,MISC,,,fr,1
-Grenier des,Grenier des,MISC,,,fr,1
-Crise à Ceuta ,Crise à Ceuta ,MISC,,,fr,1
-Coupe du m,Coupe du m,MISC,,,fr,1
-dHamid Mahmoud,dHamid Mahmoud,MISC,,,fr,1
-Bo,Bo,MISC,-0.16666666666666666,0.09999999999999999,fr,1
-Un homme nu,Un homme nu,MISC,,,fr,1
-Mondial 2026 ?,Mondial 2026 ?,MISC,,,fr,1
-Vacances d’été ,Vacances d’été ,MISC,,,fr,1
-Vendredi soir,Vendredi soir,MISC,,,fr,1
-Mondial 2026 : Les Bleus,Mondial 2026 : Les Bleus,MISC,,,fr,1
-Meteorage,Meteorage,MISC,,,fr,1
-Moto club rumillien,Moto club rumillien,MISC,,,fr,1
-plan Wauquiez,plan Wauquiez,MISC,,,fr,1
-Harry Potter,Harry Potter,MISC,,,fr,1
-HBO Max,HBO Max,MISC,,,fr,1
-Harry Potter streaming,Harry Potter streaming,MISC,,,fr,1
-Dossier : Harry Potter streaming,Dossier : Harry Potter streaming,MISC,,,fr,1
-Mondial-2026 ,Mondial-2026 ,MISC,,,fr,1
-Chute d'arbre,Chute d'arbre,MISC,,,fr,1
-streaming ,streaming ,MISC,,,fr,1
-Coupe du monde 2026 de football,Coupe du monde 2026 de football,MISC,,,fr,1
-Visite de la ministre nord-coréenne des,Visite de la ministre nord-coréenne des,MISC,,,fr,1
-Coupe du monde et de trèèèèèèès,Coupe du monde et de trèèèèèèès,MISC,,,fr,1
-Conservatoire national,Conservatoire national,MISC,,,fr,1
-Coupe du monde 2026?,Coupe du monde 2026?,MISC,,,fr,1
-festival « Cabaret Frappé »,festival « Cabaret Frappé »,MISC,,,fr,1
-Un appel,Un appel,MISC,,,fr,1
-The Rubettes,The Rubettes,MISC,,,fr,1
-Coupe du monde 2026 malgré,Coupe du monde 2026 malgré,MISC,,,fr,1
-Circulation,Circulation,MISC,,,fr,1
-Agility Robotics,Agility Robotics,MISC,,,fr,1
-sil na,sil na,MISC,,,fr,1
-Mea culpa»,Mea culpa»,MISC,,,fr,1
-Mea culpa »,Mea culpa »,MISC,,,fr,1
-RMC Sport,RMC Sport,MISC,,,fr,1
-Mi,Mi,MISC,-0.010909090909090898,0.19999999999999998,fr,1
-Konaté,Konaté,MISC,,,fr,1
-Luis,Luis,MISC,,,fr,1
-Umtiti,Umtiti,MISC,,,fr,1
-RM,RM,MISC,,,fr,1
-À Sain,À Sain,MISC,,,fr,1
-Olé,Olé,MISC,,,fr,1
-Une attaque aérienne russe,Une attaque aérienne russe,MISC,,,fr,1
-» Voilà lune,» Voilà lune,MISC,,,fr,1
-Gordon,Gordon,MISC,,,fr,1
-journal des Bleus,journal des Bleus,MISC,,,fr,1
-Cosmic Jump,Cosmic Jump,MISC,,,fr,1
-lAngleterre 2,lAngleterre 2,MISC,,,fr,1
-Pari,Pari,MISC,,,fr,1
-guerre des Malouines,guerre des Malouines,MISC,,,fr,1
-beIN Sports 1,beIN Sports 1,MISC,,,fr,1
-Coupe du monde 2026 ,Coupe du monde 2026 ,MISC,,,fr,1
-lAT &amp,lAT &amp,MISC,,,fr,1
-Meeting de la Province de Liège,Meeting de la Province de Liège,MISC,,,fr,1
-DIRECT Canicule,DIRECT Canicule,MISC,,,fr,1
-L'âge de faire,L'âge de faire,MISC,,,fr,1
-Malouines ,Malouines ,MISC,,,fr,1
-Surprise,Surprise,MISC,,,fr,1
-Gamm vert,Gamm vert,MISC,,,fr,1
-Le grand nettoyage,Le grand nettoyage,MISC,,,fr,1
-Md de CA,Md de CA,MISC,,,fr,1
-Rafales de vent,Rafales de vent,MISC,,,fr,1
-Der Spiegel,Der Spiegel,MISC,,,fr,1
-The Insider,The Insider,MISC,,,fr,1
-Angl,Angl,MISC,,,fr,1
-Maison royale espagnole,Maison royale espagnole,MISC,,,fr,1
-Coupe du monde de football opposant,Coupe du monde de football opposant,MISC,,,fr,1
-Révolution,Révolution,MISC,,,fr,1
-IPTV ,IPTV ,MISC,,,fr,1
-lEuro,lEuro,MISC,,,fr,1
-dAuvergne,dAuvergne,MISC,,,fr,1
-Photos,Photos,MISC,,,fr,1
-RichardFerron,RichardFerron,MISC,,,fr,1
-MEDEF,MEDEF,MISC,,,fr,1
-Dune,Dune,MISC,,,fr,1
-dEspéranche,dEspéranche,MISC,,,fr,1
-Haute-Savoie,Haute-Savoie,MISC,,,fr,1
-LIMITÉE,LIMITÉE,MISC,,,fr,1
-LFI,LFI,MISC,,,fr,1
-"APOLLO FILMS
-","APOLLO FILMS
-",MISC,,,fr,1
-Lipowitz,Lipowitz,MISC,,,fr,1
-Important incendie en mer Noire,Important incendie en mer Noire,MISC,,,fr,1
-Le Tour de France,Le Tour de France,MISC,,,fr,1
-"NEW STORY
-","NEW STORY
-",MISC,,,fr,1
-"Motorola
-","Motorola
-",MISC,,,fr,1
-Edge 70 Max,Edge 70 Max,MISC,0.17,0.22142857142857145,fr,1
-Motorola Edge 70 Max,Motorola Edge 70 Max,MISC,,,fr,1
-dAhmed Hamidi,dAhmed Hamidi,MISC,,,fr,1
-Wayfind,Wayfind,MISC,,,fr,1
-Vacances de Golo &amp,Vacances de Golo &amp,MISC,,,fr,1
-Vacances de Golo,Vacances de Golo,MISC,,,fr,1
-dadaptation,dadaptation,MISC,,,fr,1
-Troisième Main »,Troisième Main »,MISC,,,fr,1
-dArthur Dreyfus,dArthur Dreyfus,MISC,,,fr,1
-Vichy,Vichy,MISC,0.31428571428571433,0.2285714285714286,fr,1
-Fête nationale,Fête nationale,MISC,,,fr,1
-Red Bull,Red Bull,MISC,,,fr,1
-BORA,BORA,MISC,,,fr,1
-Vainqueure du contre-la-montre,Vainqueure du contre-la-montre,MISC,,,fr,1
-RedBull,RedBull,MISC,,,fr,1
-Nus &amp,Nus &amp,MISC,,,fr,1
-Sans chemise,Sans chemise,MISC,,,fr,1
-DIRECT Tour de France,DIRECT Tour de France,MISC,,,fr,1
-Communication digitale,Communication digitale,MISC,,,fr,1
-Tour du mercredi 22 juillet 2026,Tour du mercredi 22 juillet 2026,MISC,,,fr,1
-Coupe du monde entre le Port,Coupe du monde entre le Port,MISC,,,fr,1
-La F,La F,MISC,,,fr,1
-auto de Paris,auto de Paris,MISC,,,fr,1
-ArcelorMittal,ArcelorMittal,MISC,,,fr,1
-Google AI Overviews,Google AI Overviews,MISC,,,fr,1
-Remco Evenepoel,Remco Evenepoel,MISC,,,fr,1
-PCR,PCR,MISC,,,fr,1
-Standard de Liège,Standard de Liège,MISC,,,fr,1
-Standard,Standard,MISC,,,fr,1
-Bora,Bora,MISC,,,fr,1
-Le Roi et la Reine,Le Roi et la Reine,MISC,,,fr,1
-Sueurs froides,Sueurs froides,MISC,,,fr,1
-Evian,Evian,MISC,,,fr,1
-Coupe du monde masculine de football entre l'Espagne,Coupe du monde masculine de football entre l'Espagne,MISC,,,fr,1
-Isère :,Isère :,MISC,,,fr,1
-in’li Aura,in’li Aura,MISC,,,fr,1
-UEFA,UEFA,MISC,,,fr,1
-L’Odyssée,L’Odyssée,MISC,,,fr,1
-L'Odyssée,L'Odyssée,MISC,,,fr,1
-Tadej Pogacar,Tadej Pogacar,MISC,,,fr,1
-Environment,Environment,MISC,,,fr,1
-lONG Transport &amp,lONG Transport &amp,MISC,,,fr,1
-Data Cente,Data Cente,MISC,,,fr,1
-Data Center,Data Center,MISC,,,fr,1
-Gia,Gia,MISC,,,fr,1
-Magistrale,Magistrale,MISC,,,fr,1
-Coupe du monde 2018,Coupe du monde 2018,MISC,,,fr,1
-RECIT,RECIT,MISC,,,fr,1
-HENLEY,HENLEY,MISC,,,fr,1
-Quatre hommes,Quatre hommes,MISC,,,fr,1
-sacre de l’Espagne,sacre de l’Espagne,MISC,,,fr,1
-Eurosport,Eurosport,MISC,,,fr,1
-sacre de lEspagne,sacre de lEspagne,MISC,,,fr,1
-Gianetti,Gianetti,MISC,,,fr,1
-McNulty,McNulty,MISC,,,fr,1
-dOpenAI,dOpenAI,MISC,,,fr,1
-IA ,IA ,MISC,,,fr,1
-Max,Max,MISC,,,fr,1
-Free Mobile,Free Mobile,MISC,,,fr,1
-"Alice*, 26 ans","Alice*, 26 ans",MISC,,,fr,1
-Une frappe contre un navire en mer Noire,Une frappe contre un navire en mer Noire,MISC,,,fr,1
-Le Nouveau Premier ministre anglais,Le Nouveau Premier ministre anglais,MISC,,,fr,1
-Mondial 2026,Mondial 2026,MISC,,,fr,1
-Sécurité,Sécurité,MISC,,,fr,1
-Défense,Défense,MISC,0.06666666666666667,0.044444444444444446,fr,1
-Burnham,Burnham,MISC,,,fr,1
-Un problème,Un problème,MISC,,,fr,1
-Bébés mort,Bébés mort,MISC,,,fr,1
-A 15h20,A 15h20,MISC,,,fr,1
-LEurope,LEurope,MISC,,,fr,1
-Petit Saint,Petit Saint,MISC,,,fr,1
-tude Ã  ,tude Ã  ,MISC,,,fr,1
-Tel-Aviv et Washington,Tel-Aviv et Washington,MISC,,,fr,1
-La M,La M,MISC,,,fr,1
-lenqâ€,lenqâ€,MISC,,,fr,1
-quun corps calcinÃ,quun corps calcinÃ,MISC,,,fr,1
-Airtel Africa,Airtel Africa,MISC,,,fr,1
-"prétexte""Ce","prétexte""Ce",MISC,,,fr,1
-Japonaise Tomoko Akane,Japonaise Tomoko Akane,MISC,,,fr,1
-incendiesÂ ,incendiesÂ ,MISC,,,fr,1
-Cisjordanie ,Cisjordanie ,MISC,,,fr,1
-Un Ukrainien condamné,Un Ukrainien condamné,MISC,,,fr,1
-Téhéran,Téhéran,MISC,-5.551115123125783e-20,0.0024,fr,1
-Une frappe aérienne israélienne,Une frappe aérienne israélienne,MISC,,,fr,1
-leFaso.net,leFaso.net,MISC,,,fr,1
-Premier ministre en Gironde,Premier ministre en Gironde,MISC,,,fr,1
-Jared,Jared,MISC,,,fr,1
-Le Premier,Le Premier,MISC,,,fr,1
-Cliquez,Cliquez,MISC,,,fr,1
-La guerre hybride,La guerre hybride,MISC,,,fr,1
-Tapis rouge,Tapis rouge,MISC,,,fr,1
-sanctionsÂ Â» europÃ©ennes,sanctionsÂ Â» europÃ©ennes,MISC,,,fr,1
-ladministration Trump ,ladministration Trump ,MISC,,,fr,1
-Première ministre japonaise,Première ministre japonaise,MISC,,,fr,1
-lUnio,lUnio,MISC,,,fr,1
-Situations d’urgence,Situations d’urgence,MISC,,,fr,1
-Cours d’histoire,Cours d’histoire,MISC,,,fr,1
-La peine,La peine,MISC,,,fr,1
-LR,LR,MISC,,,fr,1
-Envie de vous,Envie de vous,MISC,,,fr,1
-Chikungunya ,Chikungunya ,MISC,,,fr,1
-lApp Store,lApp Store,MISC,,,fr,1
-iPhone,iPhone,MISC,,,fr,1
-fÃªte,fÃªte,MISC,,,fr,1
-Courchevel,Courchevel,MISC,,,fr,1
-tÃªte,tÃªte,MISC,,,fr,1
-Russes fortunÃ,Russes fortunÃ,MISC,,,fr,1
-Feu !,Feu !,MISC,,,fr,1
-VEB,VEB,MISC,,,fr,1
-Vladimir,Vladimir,MISC,,,fr,1
-Le BIR sème la terreur,Le BIR sème la terreur,MISC,,,fr,1
-Newcleo,Newcleo,MISC,0.1375,0.128125,fr,1
-Ã‰tats-,Ã‰tats-,MISC,,,fr,1
-Guerre en Ukraine : nouvelle nuit de frappes,Guerre en Ukraine : nouvelle nuit de frappes,MISC,,,fr,1
-incendie des Landes,incendie des Landes,MISC,,,fr,1
-LOrient,LOrient,MISC,,,fr,1
-Sévi,Sévi,MISC,,,fr,1
-Ouest,Ouest,MISC,0.0017094017094017094,0.004415954415954416,fr,1
-Le routard du crime”,Le routard du crime”,MISC,,,fr,1
-Cheval,Cheval,MISC,,,fr,1
-Ici Vaucluse,Ici Vaucluse,MISC,,,fr,1
-Matic ,Matic ,MISC,,,fr,1
-crise d’Ormuz,crise d’Ormuz,MISC,,,fr,1
-Masra,Masra,MISC,,,fr,1
-Va-,Va-,MISC,,,fr,1
-Météo : la canicule,Météo : la canicule,MISC,,,fr,1
-programmeÂ ,programmeÂ ,MISC,,,fr,1
-Donald Trump e,Donald Trump e,MISC,,,fr,1
-The Tele,The Tele,MISC,,,fr,1
-Soyouz,Soyouz,MISC,,,fr,1
-France Cest,France Cest,MISC,,,fr,1
-Hex,Hex,MISC,,,fr,1
-SPA des Amandiers,SPA des Amandiers,MISC,,,fr,1
-Furieuse des drones,Furieuse des drones,MISC,,,fr,1
-offensive de,offensive de,MISC,,,fr,1
-CHRI,CHRI,MISC,,,fr,1
-place Rouge,place Rouge,MISC,,,fr,1
-Le Premier ministre a détaillé,Le Premier ministre a détaillé,MISC,,,fr,1
-Basilic &amp,Basilic &amp,MISC,,,fr,1
-Le Premier ministre s’,Le Premier ministre s’,MISC,,,fr,1
-uneâ€,uneâ€,MISC,,,fr,1
-Bonne nouvelle,Bonne nouvelle,MISC,,,fr,1
-Tesla Model 3,Tesla Model 3,MISC,,,fr,1
-Qin Max,Qin Max,MISC,,,fr,1
-festival militaire de Moscou,festival militaire de Moscou,MISC,,,fr,1
-pandémie de Covid 19,pandémie de Covid 19,MISC,,,fr,1
-Un des deux hommes,Un des deux hommes,MISC,,,fr,1
-» Installé da,» Installé da,MISC,,,fr,1
-Deauville Sport,Deauville Sport,MISC,,,fr,1
-lAéroport,lAéroport,MISC,,,fr,1
-Les grands récits de Society,Les grands récits de Society,MISC,,,fr,1
-Frappes aériennes,Frappes aériennes,MISC,,,fr,1
-Tombés des nues,Tombés des nues,MISC,,,fr,1
-dArabie,dArabie,MISC,,,fr,1
-SVR,SVR,MISC,,,fr,1
-CBS News,CBS News,MISC,,,fr,1
-lUkraine sest,lUkraine sest,MISC,,,fr,1
-prolongÃ,prolongÃ,MISC,,,fr,1
-Le détail,Le détail,MISC,,,fr,1
-champion de France,champion de France,MISC,,,fr,1
-Dylan Rocher ,Dylan Rocher ,MISC,,,fr,1
-Le Premier ministre An,Le Premier ministre An,MISC,,,fr,1
-La Haute-Corse,La Haute-Corse,MISC,,,fr,1
-M23,M23,MISC,-0.012499999999999999,0.11249999999999999,fr,1
-dUkraine,dUkraine,MISC,,,fr,1
-Russe,Russe,MISC,0.048,0.165,fr,1
-Virus Ebola : cent jours,Virus Ebola : cent jours,MISC,,,fr,1
-Coupe d'Europe,Coupe d'Europe,MISC,,,fr,1
-Salut tout le monde !,Salut tout le monde !,MISC,,,fr,1
-ARS,ARS,MISC,,,fr,1
-Gra,Gra,MISC,,,fr,1
-lAfrique,lAfrique,MISC,,,fr,1
-cyclone Chido,cyclone Chido,MISC,,,fr,1
-championnats d'Europe de volley féminin,championnats d'Europe de volley féminin,MISC,,,fr,1
-anciennâ€,anciennâ€,MISC,,,fr,1
-aujourdâ€™hui menacÃ,aujourdâ€™hui menacÃ,MISC,,,fr,1
-Copa Sudamericana :,Copa Sudamericana :,MISC,,,fr,1
-loccasion dune,loccasion dune,MISC,,,fr,1
-LOlympique,LOlympique,MISC,,,fr,1
-Trump On,Trump On,MISC,,,fr,1
-surcapaâ€,surcapaâ€,MISC,,,fr,1
-Flightradar24,Flightradar24,MISC,,,fr,1
-Ciné Festival,Ciné Festival,MISC,,,fr,1
-lOlympique Lyonnais,lOlympique Lyonnais,MISC,,,fr,1
-illimitÃ,illimitÃ,MISC,,,fr,1
-prix Ã,prix Ã,MISC,,,fr,1
-lÃ¨rent,lÃ¨rent,MISC,,,fr,1
-lUnesco,lUnesco,MISC,,,fr,1
-"OBS »
-","OBS »
-",MISC,,,fr,1
-L'Euro de volley,L'Euro de volley,MISC,,,fr,1
-La Voix des poules,La Voix des poules,MISC,,,fr,1
-Premier ministre israélie,Premier ministre israélie,MISC,,,fr,1
-Ankara,Ankara,MISC,-0.004999999999999995,0.09249999999999999,fr,1
-Mandat d’arrêt,Mandat d’arrêt,MISC,,,fr,1
-Guerre en Ukraine : Tensions en,Guerre en Ukraine : Tensions en,MISC,,,fr,1
-Masha et Michka,Masha et Michka,MISC,,,fr,1
-Cynique et ignoble,Cynique et ignoble,MISC,,,fr,1
-Boîte à bisous,Boîte à bisous,MISC,,,fr,1
-rencontrÃ,rencontrÃ,MISC,,,fr,1
-S8000 Banderol,S8000 Banderol,MISC,,,fr,1
-En Croatie,En Croatie,MISC,,,fr,1
-sabotage de Nord Stream 1,sabotage de Nord Stream 1,MISC,,,fr,1
-Neptun Deep,Neptun Deep,MISC,-0.014285714285714287,0.014285714285714287,fr,1
-la Bête,la Bête,MISC,,,fr,1
-Espagno,Espagno,MISC,,,fr,1
-LUnion,LUnion,MISC,,,fr,1
-Britt Herbots,Britt Herbots,MISC,,,fr,1
-Défense Mykhaïl,Défense Mykhaïl,MISC,,,fr,1
-États membres de la “,États membres de la “,MISC,,,fr,1
-Nord Stream,Nord Stream,MISC,0.025,0.0625,fr,1
-Junior,Junior,MISC,,,fr,1
-Operation Blue Skies »,Operation Blue Skies »,MISC,,,fr,1
-Championnat d'Europe de volleyball féminin,Championnat d'Europe de volleyball féminin,MISC,,,fr,1
-Yellow Tigers,Yellow Tigers,MISC,,,fr,1
-ennemi de Téhéran,ennemi de Téhéran,MISC,,,fr,1
-Guerre en Iran ,Guerre en Iran ,MISC,,,fr,1
-Shoah,Shoah,MISC,,,fr,1
-Les Gets » ,Les Gets » ,MISC,,,fr,1
-Tour dEspagne Tadej Pogacar,Tour dEspagne Tadej Pogacar,MISC,,,fr,1
-Cardona,Cardona,MISC,,,fr,1
-France 3 Provence,France 3 Provence,MISC,,,fr,1
-Semaine de Jeune Afrique,Semaine de Jeune Afrique,MISC,,,fr,1
-Vendredi 14,Vendredi 14,MISC,,,fr,1
-Ehpad,Ehpad,MISC,0.04846153846153846,0.11730769230769231,fr,1
-L’Administration Trump,L’Administration Trump,MISC,,,fr,1
-Jeux dhiver,Jeux dhiver,MISC,,,fr,1
-lapplication Cartes,lapplication Cartes,MISC,,,fr,1
-dEstonie,dEstonie,MISC,,,fr,1
-Apple Card,Apple Card,MISC,,,fr,1
-La carte pour,La carte pour,MISC,,,fr,1
-Al-Masirah,Al-Masirah,MISC,,,fr,1
-Daisy,Daisy,MISC,,,fr,1
-Emily In Paris,Emily In Paris,MISC,,,fr,1
-Jeux d’hiver,Jeux d’hiver,MISC,,,fr,1
-ASSE,ASSE,MISC,,,fr,1
-lAgence,lAgence,MISC,,,fr,1
-Marché dintérêt national de Châteaurenard,Marché dintérêt national de Châteaurenard,MISC,,,fr,1
-Caffa,Caffa,MISC,,,fr,1
-États-Unis Trois jours,États-Unis Trois jours,MISC,,,fr,1
-Le Porge »,Le Porge »,MISC,,,fr,1
-Nous n'avons jamais abandonné,Nous n'avons jamais abandonné,MISC,,,fr,1
-Anthony,Anthony,MISC,,,fr,1
-Filmer,Filmer,MISC,,,fr,1
-Nou,Nou,MISC,,,fr,1
-Nice ,Nice ,MISC,,,fr,1
-Le parquet de Nice,Le parquet de Nice,MISC,,,fr,1
-Jeux olympiques d’hiver,Jeux olympiques d’hiver,MISC,,,fr,1
+cinquième Grande Boucle,cinquième Grande Boucle,MISC,,,fr,1
 Invasion de physalies venimeuses,Invasion de physalies venimeuses,MISC,,,fr,1
 Incendies : les flammes,Incendies : les flammes,MISC,,,fr,1
 Talmont Media SAS,Talmont Media SAS,MISC,,,fr,1
@@ -1396,92 +952,11 @@ ving,ving,MISC,,,fr,1
 dHelsinki,dHelsinki,MISC,,,fr,1
 Hakaniemi,Hakaniemi,MISC,,,fr,1
 Seconde Guerre,Seconde Guerre,MISC,,,fr,1
-Wilfried,Wilfried,MISC,,,fr,1
-Citation à l'ordre de la Nation,Citation à l'ordre de la Nation,MISC,,,fr,1
-Renaissance,Renaissance,MISC,0.01,0.0,fr,1
-Chasse à l’homme indigne,Chasse à l’homme indigne,MISC,,,fr,1
-Transition écologi,Transition écologi,MISC,,,fr,1
-Vagues,Vagues,MISC,,,fr,1
-lOffice,lOffice,MISC,,,fr,1
-ONDE,ONDE,MISC,,,fr,1
-Office national de la biodiversité,Office national de la biodiversité,MISC,,,fr,1
-lOural,lOural,MISC,,,fr,1
-Igor*.,Igor*.,MISC,,,fr,1
-incendie du Var,incendie du Var,MISC,,,fr,1
-Un bombardement russe,Un bombardement russe,MISC,,,fr,1
-Cap Ferret,Cap Ferret,MISC,-0.00023041474654377837,0.006566820276497696,fr,1
-Martial Z,Martial Z,MISC,,,fr,1
-ZATAZ,ZATAZ,MISC,,,fr,1
-Xbox ,Xbox ,MISC,,,fr,1
-Neuf,Neuf,MISC,,,fr,1
-Madame Web,Madame Web,MISC,,,fr,1
-"LESSENTIEL
-<ul><li>","LESSENTIEL
-<ul><li>",MISC,,,fr,1
-sab,sab,MISC,,,fr,1
-NEWARK,NEWARK,MISC,,,fr,1
-Bybit.eu,Bybit.eu,MISC,,,fr,1
-Concentrix et Currys,Concentrix et Currys,MISC,,,fr,1
-Actuellemen,Actuellemen,MISC,,,fr,1
-Procès Pormanove,Procès Pormanove,MISC,,,fr,1
-Un incident,Un incident,MISC,,,fr,1
-JeanPormanove »,JeanPormanove »,MISC,,,fr,1
-SDIS,SDIS,MISC,,,fr,1
-"incarcérée""En","incarcérée""En",MISC,,,fr,1
-streameurs Naruto,streameurs Naruto,MISC,,,fr,1
-Jul,Jul,MISC,,,fr,1
-Jeux d'hiver 2030,Jeux d'hiver 2030,MISC,,,fr,1
-Nuit de violence,Nuit de violence,MISC,,,fr,1
-Fusillade à Valence,Fusillade à Valence,MISC,,,fr,1
-Thomas,Thomas,MISC,,,fr,1
-incendie de Voreppe,incendie de Voreppe,MISC,,,fr,1
+Le parquet de Nice,Le parquet de Nice,MISC,,,fr,1
+Jeux olympiques d’hiver,Jeux olympiques d’hiver,MISC,,,fr,1
+ASSE,ASSE,MISC,,,fr,1
 Byb,Byb,MISC,,,fr,1
-cinquième Grande Boucle,cinquième Grande Boucle,MISC,,,fr,1
 Anglo,Anglo,MISC,,,fr,1
-Préparation des célébrations,Préparation des célébrations,MISC,,,fr,1
-Une guerre d’usure,Une guerre d’usure,MISC,,,fr,1
-Maybe it is time,Maybe it is time,MISC,,,fr,1
-Russia is getting destroyed by Ukraine,Russia is getting destroyed by Ukraine,MISC,,,fr,1
-French,French,MISC,,,fr,1
-England is rapidly going broke,England is rapidly going broke,MISC,,,fr,1
-Forget it,Forget it,MISC,,,fr,1
-Vinted »,Vinted »,MISC,,,fr,1
-Leboncoin,Leboncoin,MISC,,,fr,1
-Bonny,Bonny,MISC,,,fr,1
-"PIPPA UNGAR
-","PIPPA UNGAR
-",MISC,,,fr,1
-duNigeria,duNigeria,MISC,,,fr,1
-Gilles,Gilles,MISC,-0.04428571428571428,0.049999999999999996,fr,1
-Ã  Saint,Ã  Saint,MISC,,,fr,1
-calcinÃ,calcinÃ,MISC,-0.062,0.06999999999999999,fr,1
-KN-24 de fabricat,KN-24 de fabricat,MISC,,,fr,1
-dAnkara,dAnkara,MISC,,,fr,1
-C-32,C-32,MISC,,,fr,1
-Un conducteur de train,Un conducteur de train,MISC,,,fr,1
-Eurovision,Eurovision,MISC,,,fr,1
-concours Eurovision de la chanson,concours Eurovision de la chanson,MISC,,,fr,1
-Attention lynx,Attention lynx,MISC,,,fr,1
-Pro D2,Pro D2,MISC,,,fr,1
-Velvet,Velvet,MISC,,,fr,1
-Championnats dEurope dathlétisme,Championnats dEurope dathlétisme,MISC,,,fr,1
-Championnats d’Europe d’athlétisme,Championnats d’Europe d’athlétisme,MISC,,,fr,1
-Championnats d’Europe d’athlétisme ,Championnats d’Europe d’athlétisme ,MISC,,,fr,1
-Monnaies et médailles,Monnaies et médailles,MISC,,,fr,1
-Marathon des Terroirs du Ventoux,Marathon des Terroirs du Ventoux,MISC,,,fr,1
-Trail,Trail,MISC,,,fr,1
-Loi,Loi,MISC,,,fr,1
-Japonais,Japonais,MISC,,,fr,1
-Itouroup,Itouroup,MISC,,,fr,1
-dEtorofu,dEtorofu,MISC,,,fr,1
-guerre du Pacifique,guerre du Pacifique,MISC,,,fr,1
-Pollution,Pollution,MISC,,,fr,1
-Mission de surveillance des droits de l'homme des Nations unies,Mission de surveillance des droits de l'homme des Nations unies,MISC,,,fr,1
-dApt,dApt,MISC,,,fr,1
-Pressions,Pressions,MISC,,,fr,1
-Léclipse,Léclipse,MISC,,,fr,1
-Mediapart,Mediapart,MISC,0.00588888888888889,0.0030555555555555557,fr,1
-Guerre froide,Guerre froide,MISC,,,fr,1
 Drôme na,Drôme na,MISC,,,fr,1
 Le feu dans la,Le feu dans la,MISC,,,fr,1
 Si,Si,MISC,,,fr,1
@@ -1496,11 +971,404 @@ Protocole de désarmement des,Protocole de désarmement des,MISC,,,fr,1
 Dans la nuit de vendredi,Dans la nuit de vendredi,MISC,,,fr,1
 En Gironde,En Gironde,MISC,,,fr,1
 Italiens,Italiens,MISC,,,fr,1
+"PIPPA UNGAR
+","PIPPA UNGAR
+",MISC,,,fr,1
+Nice ,Nice ,MISC,,,fr,1
+Nou,Nou,MISC,,,fr,1
+Filmer,Filmer,MISC,,,fr,1
+lapplication Cartes,lapplication Cartes,MISC,,,fr,1
+NEWARK,NEWARK,MISC,,,fr,1
+Concentrix et Currys,Concentrix et Currys,MISC,,,fr,1
+Actuellemen,Actuellemen,MISC,,,fr,1
+Procès Pormanove,Procès Pormanove,MISC,,,fr,1
+Un incident,Un incident,MISC,,,fr,1
+JeanPormanove »,JeanPormanove »,MISC,,,fr,1
+SDIS,SDIS,MISC,,,fr,1
+"incarcérée""En","incarcérée""En",MISC,,,fr,1
+streameurs Naruto,streameurs Naruto,MISC,,,fr,1
+Jul,Jul,MISC,,,fr,1
+Jeux d'hiver 2030,Jeux d'hiver 2030,MISC,,,fr,1
+Nuit de violence,Nuit de violence,MISC,,,fr,1
+Fusillade à Valence,Fusillade à Valence,MISC,,,fr,1
+Thomas,Thomas,MISC,,,fr,1
+incendie de Voreppe,incendie de Voreppe,MISC,,,fr,1
+Renaissance,Renaissance,MISC,0.01,0.0,fr,1
+Citation à l'ordre de la Nation,Citation à l'ordre de la Nation,MISC,,,fr,1
+Wilfried,Wilfried,MISC,,,fr,1
+Jeux dhiver,Jeux dhiver,MISC,,,fr,1
+dEstonie,dEstonie,MISC,,,fr,1
+Apple Card,Apple Card,MISC,,,fr,1
+La carte pour,La carte pour,MISC,,,fr,1
+Al-Masirah,Al-Masirah,MISC,,,fr,1
+Daisy,Daisy,MISC,,,fr,1
+Emily In Paris,Emily In Paris,MISC,,,fr,1
+Jeux d’hiver,Jeux d’hiver,MISC,,,fr,1
+Anthony,Anthony,MISC,,,fr,1
+lAgence,lAgence,MISC,,,fr,1
+Marché dintérêt national de Châteaurenard,Marché dintérêt national de Châteaurenard,MISC,,,fr,1
+Caffa,Caffa,MISC,,,fr,1
+États-Unis Trois jours,États-Unis Trois jours,MISC,,,fr,1
+Le Porge »,Le Porge »,MISC,,,fr,1
+Nous n'avons jamais abandonné,Nous n'avons jamais abandonné,MISC,,,fr,1
+lArc de Triomphe,lArc de Triomphe,MISC,,,fr,1
+Girondena,Girondena,MISC,,,fr,1
 L’École des femmes,L’École des femmes,MISC,,,fr,1
+Algérie ,Algérie ,MISC,,,fr,1
+SP95-E10,SP95-E10,MISC,-0.1175,0.25,fr,1
+Cloud,Cloud,MISC,,,fr,1
+Roja,Roja,MISC,,,fr,1
+Real,Real,MISC,,,fr,1
+La Libre,La Libre,MISC,,,fr,1
+Elles,Elles,MISC,,,fr,1
+Grenier des,Grenier des,MISC,,,fr,1
+LFI,LFI,MISC,,,fr,1
+Nus &amp,Nus &amp,MISC,,,fr,1
+Sans chemise,Sans chemise,MISC,,,fr,1
+DIRECT Tour de France,DIRECT Tour de France,MISC,,,fr,1
+Communication digitale,Communication digitale,MISC,,,fr,1
+Tour du mercredi 22 juillet 2026,Tour du mercredi 22 juillet 2026,MISC,,,fr,1
+Coupe du monde entre le Port,Coupe du monde entre le Port,MISC,,,fr,1
+La F,La F,MISC,,,fr,1
+Sans P,Sans P,MISC,,,fr,1
+ROMUALD,ROMUALD,MISC,,,fr,1
+IIIe République,IIIe République,MISC,,,fr,1
+SKATE IN CAMBODIA,SKATE IN CAMBODIA,MISC,,,fr,1
+Tour de France 2026 : la bataille,Tour de France 2026 : la bataille,MISC,,,fr,1
+"terminé""Le","terminé""Le",MISC,,,fr,1
+» Enfants surexcités,» Enfants surexcités,MISC,,,fr,1
+Affaire Epstein ,Affaire Epstein ,MISC,,,fr,1
+StepOmniprésent,StepOmniprésent,MISC,,,fr,1
+QI vélo hors-norme,QI vélo hors-norme,MISC,,,fr,1
+KuCoin,KuCoin,MISC,,,fr,1
+"argent""La","argent""La",MISC,,,fr,1
+tournoi des internationaux de France,tournoi des internationaux de France,MISC,,,fr,1
+Gotham,Gotham,MISC,,,fr,1
+Zorro,Zorro,MISC,,,fr,1
+Tour de France ,Tour de France ,MISC,,,fr,1
+R,R,MISC,,,fr,1
+Ac,Ac,MISC,,,fr,1
+Loffice,Loffice,MISC,,,fr,1
+auto de Paris,auto de Paris,MISC,,,fr,1
+ArcelorMittal,ArcelorMittal,MISC,,,fr,1
+Google AI Overviews,Google AI Overviews,MISC,,,fr,1
+Remco Evenepoel,Remco Evenepoel,MISC,,,fr,1
+Vacances de Golo &amp,Vacances de Golo &amp,MISC,,,fr,1
+Vacances de Golo,Vacances de Golo,MISC,,,fr,1
+dadaptation,dadaptation,MISC,,,fr,1
+Troisième Main »,Troisième Main »,MISC,,,fr,1
+dArthur Dreyfus,dArthur Dreyfus,MISC,,,fr,1
+Vichy,Vichy,MISC,0.31428571428571433,0.2285714285714286,fr,1
+Fête nationale,Fête nationale,MISC,,,fr,1
+Le Roi et la Reine,Le Roi et la Reine,MISC,,,fr,1
+Sueurs froides,Sueurs froides,MISC,,,fr,1
+Evian,Evian,MISC,,,fr,1
+Eurosport,Eurosport,MISC,,,fr,1
+Gianetti,Gianetti,MISC,,,fr,1
+McNulty,McNulty,MISC,,,fr,1
+dOpenAI,dOpenAI,MISC,,,fr,1
+IA ,IA ,MISC,,,fr,1
+dAhmed Hamidi,dAhmed Hamidi,MISC,,,fr,1
+"APOLLO FILMS
+","APOLLO FILMS
+",MISC,,,fr,1
+Motorola Edge 70 Max,Motorola Edge 70 Max,MISC,,,fr,1
+Vainqueure du contre-la-montre,Vainqueure du contre-la-montre,MISC,,,fr,1
+Horaires,Horaires,MISC,,,fr,1
+PCR,PCR,MISC,,,fr,1
+Standard de Liège,Standard de Liège,MISC,,,fr,1
+Standard,Standard,MISC,,,fr,1
+Bora,Bora,MISC,,,fr,1
+RedBull,RedBull,MISC,,,fr,1
+BORA,BORA,MISC,,,fr,1
+Edge 70 Max,Edge 70 Max,MISC,0.17,0.22142857142857145,fr,1
+Red Bull,Red Bull,MISC,,,fr,1
+Lipowitz,Lipowitz,MISC,,,fr,1
+Important incendie en mer Noire,Important incendie en mer Noire,MISC,,,fr,1
+Le Tour de France,Le Tour de France,MISC,,,fr,1
+"NEW STORY
+","NEW STORY
+",MISC,,,fr,1
+"Motorola
+","Motorola
+",MISC,,,fr,1
+Ce jeudi,Ce jeudi,MISC,,,fr,1
+Tour de France Voiron,Tour de France Voiron,MISC,,,fr,1
+La nuit,La nuit,MISC,,,fr,1
+Airbus A400M,Airbus A400M,MISC,,,fr,1
+RecordPy // Sour,RecordPy // Sour,MISC,,,fr,1
+Après un léger sursis,Après un léger sursis,MISC,,,fr,1
+Un homme stationné en voiture,Un homme stationné en voiture,MISC,,,fr,1
+"Caroline Politi
+Publié","Caroline Politi
+Publié",MISC,,,fr,1
+Rares,Rares,MISC,,,fr,1
+Chant,Chant,MISC,,,fr,1
+Le Dauphiné Libéré vous,Le Dauphiné Libéré vous,MISC,,,fr,1
+hymne des Savoie,hymne des Savoie,MISC,,,fr,1
+Odeur de brûlé,Odeur de brûlé,MISC,,,fr,1
+Il sagirait dune,Il sagirait dune,MISC,,,fr,1
+EngineAI,EngineAI,MISC,,,fr,1
+Protoxyde,Protoxyde,MISC,,,fr,1
+IQT N,IQT N,MISC,,,fr,1
+Select Actualités quantiques de juin,Select Actualités quantiques de juin,MISC,,,fr,1
+Cap-Ferret,Cap-Ferret,MISC,0.02285714285714286,0.023015873015873014,fr,1
+Airbus A400,Airbus A400,MISC,,,fr,1
+Vendredi 24 juillet,Vendredi 24 juillet,MISC,,,fr,1
+Fr,Fr,MISC,,,fr,1
+Votr,Votr,MISC,,,fr,1
+Incendies : Terrains de foot,Incendies : Terrains de foot,MISC,,,fr,1
+Bleus Zinédine Zidane,Bleus Zinédine Zidane,MISC,,,fr,1
+Mode IA,Mode IA,MISC,,,fr,1
+Aperçus IA,Aperçus IA,MISC,,,fr,1
+ICI Vaucluse,ICI Vaucluse,MISC,,,fr,1
+Mardi matin,Mardi matin,MISC,,,fr,1
+Une course contre la montre,Une course contre la montre,MISC,,,fr,1
+Maison-B,Maison-B,MISC,,,fr,1
+lIran,lIran,MISC,0.009428571428571427,0.02742857142857143,fr,1
+festival de,festival de,MISC,,,fr,1
+Bleus,Bleus,MISC,,,fr,1
+dIllac,dIllac,MISC,,,fr,1
+DZ Mafia,DZ Mafia,MISC,,,fr,1
+dAnquetil,dAnquetil,MISC,,,fr,1
+Suivez les feux,Suivez les feux,MISC,,,fr,1
+Afrikaners,Afrikaners,MISC,,,fr,1
+Génocide blanc »,Génocide blanc »,MISC,,,fr,1
+XIXᵉ,XIXᵉ,MISC,,,fr,1
+FRANCE,FRANCE,MISC,-0.0175,0.025,fr,1
+La Quotidi,La Quotidi,MISC,,,fr,1
+"Quotidienne Sport
+Recevez","Quotidienne Sport
+Recevez",MISC,,,fr,1
+Team Visma | Lease,Team Visma | Lease,MISC,,,fr,1
+Team Jayco AIUla,Team Jayco AIUla,MISC,,,fr,1
+EF Education,EF Education,MISC,,,fr,1
+"Nicolas Camus
+Publié","Nicolas Camus
+Publié",MISC,,,fr,1
+DIRECT Tour de France 2026,DIRECT Tour de France 2026,MISC,,,fr,1
+Suivez la redoutable,Suivez la redoutable,MISC,,,fr,1
+dApollon,dApollon,MISC,,,fr,1
+Écran de Veille,Écran de Veille,MISC,,,fr,1
+Franc,Franc,MISC,,,fr,1
+Cinq jours,Cinq jours,MISC,,,fr,1
+lAsean,lAsean,MISC,,,fr,1
+Etats-Unis....,Etats-Unis....,MISC,,,fr,1
+ANJ,ANJ,MISC,,,fr,1
+dInterpol,dInterpol,MISC,,,fr,1
+Pokémon,Pokémon,MISC,,,fr,1
+» pa,» pa,MISC,,,fr,1
+Gap...,Gap...,MISC,,,fr,1
+Model Y,Model Y,MISC,,,fr,1
+MR Georges,MR Georges,MISC,,,fr,1
+À 21 heures,À 21 heures,MISC,,,fr,1
+Sur la rocade de Bordeaux,Sur la rocade de Bordeaux,MISC,,,fr,1
+En pleine saison touristique,En pleine saison touristique,MISC,,,fr,1
+lOlympia,lOlympia,MISC,,,fr,1
+Aborigènes,Aborigènes,MISC,,,fr,1
+Rubio,Rubio,MISC,,,fr,1
+Etats-Unis dune,Etats-Unis dune,MISC,,,fr,1
+Mondiaux d'Oklahoma City,Mondiaux d'Oklahoma City,MISC,,,fr,1
+Suivez,Suivez,MISC,0.05166666666666667,0.1416666666666667,fr,1
+attaques de Kiev,attaques de Kiev,MISC,,,fr,1
+Sunset Live,Sunset Live,MISC,,,fr,1
+Tadej,Tadej,MISC,,,fr,1
+Guerre froide,Guerre froide,MISC,,,fr,1
+Mediapart,Mediapart,MISC,0.00603988603988604,0.003133903133903134,fr,1
+"qu'""environ","qu'""environ",MISC,,,fr,1
+loccasion dune,loccasion dune,MISC,,,fr,1
+Trump On,Trump On,MISC,,,fr,1
+surcapaâ€,surcapaâ€,MISC,,,fr,1
+Flightradar24,Flightradar24,MISC,,,fr,1
+Ciné Festival,Ciné Festival,MISC,,,fr,1
+lOlympique Lyonnais,lOlympique Lyonnais,MISC,,,fr,1
+Salut tout le monde !,Salut tout le monde !,MISC,,,fr,1
+Coupe d'Europe,Coupe d'Europe,MISC,,,fr,1
+Virus Ebola : cent jours,Virus Ebola : cent jours,MISC,,,fr,1
+Russe,Russe,MISC,0.048,0.165,fr,1
+lAéroport,lAéroport,MISC,,,fr,1
+Les grands récits de Society,Les grands récits de Society,MISC,,,fr,1
+Frappes aériennes,Frappes aériennes,MISC,,,fr,1
+Tombés des nues,Tombés des nues,MISC,,,fr,1
+dArabie,dArabie,MISC,,,fr,1
+SVR,SVR,MISC,,,fr,1
+LOlympique,LOlympique,MISC,,,fr,1
+Copa Sudamericana :,Copa Sudamericana :,MISC,,,fr,1
+Ixo Private Equity,Ixo Private Equity,MISC,,,fr,1
+aujourdâ€™hui menacÃ,aujourdâ€™hui menacÃ,MISC,,,fr,1
+» Muni,» Muni,MISC,,,fr,1
+Les Cerisiers de Tournon-sur-Rhône,Les Cerisiers de Tournon-sur-Rhône,MISC,,,fr,1
+Premier ministre français,Premier ministre français,MISC,,,fr,1
+Mayotte ,Mayotte ,MISC,,,fr,1
+2 heures d’Instagram,2 heures d’Instagram,MISC,,,fr,1
+Disney+,Disney+,MISC,0.11666666666666665,0.18333333333333335,fr,1
+« Stop Smart Glasses,« Stop Smart Glasses,MISC,,,fr,1
+Bernard,Bernard,MISC,,,fr,1
+Petit Saint,Petit Saint,MISC,,,fr,1
+ARS,ARS,MISC,,,fr,1
+Gra,Gra,MISC,,,fr,1
+lAfrique,lAfrique,MISC,,,fr,1
+cyclone Chido,cyclone Chido,MISC,,,fr,1
+Max,Max,MISC,,,fr,1
+anciennâ€,anciennâ€,MISC,,,fr,1
+CBS News,CBS News,MISC,,,fr,1
+Deauville Sport,Deauville Sport,MISC,,,fr,1
+lUkraine sest,lUkraine sest,MISC,,,fr,1
+Le détail,Le détail,MISC,,,fr,1
+Guerre en Iran ,Guerre en Iran ,MISC,,,fr,1
+Shoah,Shoah,MISC,,,fr,1
+Les Gets » ,Les Gets » ,MISC,,,fr,1
+Tour dEspagne Tadej Pogacar,Tour dEspagne Tadej Pogacar,MISC,,,fr,1
+Cardona,Cardona,MISC,,,fr,1
+France 3 Provence,France 3 Provence,MISC,,,fr,1
+Semaine de Jeune Afrique,Semaine de Jeune Afrique,MISC,,,fr,1
+Britt Herbots,Britt Herbots,MISC,,,fr,1
+Espagno,Espagno,MISC,,,fr,1
+lUnesco,lUnesco,MISC,,,fr,1
+la Bête,la Bête,MISC,,,fr,1
+"OBS »
+","OBS »
+",MISC,,,fr,1
+L'Euro de volley,L'Euro de volley,MISC,,,fr,1
+La Voix des poules,La Voix des poules,MISC,,,fr,1
+Premier ministre israélie,Premier ministre israélie,MISC,,,fr,1
+ennemi de Téhéran,ennemi de Téhéran,MISC,,,fr,1
+Yellow Tigers,Yellow Tigers,MISC,,,fr,1
+Championnat d'Europe de volleyball féminin,Championnat d'Europe de volleyball féminin,MISC,,,fr,1
+illimitÃ,illimitÃ,MISC,,,fr,1
+champion de France,champion de France,MISC,,,fr,1
+Dylan Rocher ,Dylan Rocher ,MISC,,,fr,1
+Le Premier ministre An,Le Premier ministre An,MISC,,,fr,1
+La Haute-Corse,La Haute-Corse,MISC,,,fr,1
+M23,M23,MISC,-0.012499999999999999,0.11249999999999999,fr,1
+dUkraine,dUkraine,MISC,,,fr,1
+prix Ã,prix Ã,MISC,,,fr,1
+Operation Blue Skies »,Operation Blue Skies »,MISC,,,fr,1
+lÃ¨rent,lÃ¨rent,MISC,,,fr,1
+LUnion,LUnion,MISC,,,fr,1
+Défense Mykhaïl,Défense Mykhaïl,MISC,,,fr,1
+États membres de la “,États membres de la “,MISC,,,fr,1
+Nord Stream,Nord Stream,MISC,0.025,0.0625,fr,1
+Junior,Junior,MISC,,,fr,1
+Il fait payer des marques,Il fait payer des marques,MISC,,,fr,1
+Fermer des usines outre,Fermer des usines outre,MISC,,,fr,1
+Mandat d’arrêt,Mandat d’arrêt,MISC,,,fr,1
+Des cartables neufs,Des cartables neufs,MISC,,,fr,1
+LHumanité,LHumanité,MISC,,,fr,1
+Gangs,Gangs,MISC,,,fr,1
+Un livre qui ne se vend pas comme prévu,Un livre qui ne se vend pas comme prévu,MISC,,,fr,1
+La Quotidienne Société,La Quotidienne Société,MISC,,,fr,1
+ZDF,ZDF,MISC,,,fr,1
+fÃ,fÃ,MISC,,,fr,1
+Whatsupdoc,Whatsupdoc,MISC,,,fr,1
+LOL,LOL,MISC,,,fr,1
+TGV Velvet,TGV Velvet,MISC,,,fr,1
+Vingt-sept,Vingt-sept,MISC,,,fr,1
+Pure Illusion,Pure Illusion,MISC,,,fr,1
+britanniquesâ€,britanniquesâ€,MISC,,,fr,1
+dAnnecy,dAnnecy,MISC,,,fr,1
+Luger dÃ,Luger dÃ,MISC,,,fr,1
+Quatorze ans aprÃ¨s,Quatorze ans aprÃ¨s,MISC,0.045000000000000005,0.125,fr,1
+britannâ€,britannâ€,MISC,,,fr,1
+Lyo,Lyo,MISC,,,fr,1
+MusBA,MusBA,MISC,,,fr,1
+Strava,Strava,MISC,,,fr,1
+Bistrot Poète,Bistrot Poète,MISC,,,fr,1
+Fascisme en France,Fascisme en France,MISC,,,fr,1
+sil,sil,MISC,,,fr,1
+Le Parisien,Le Parisien,MISC,,,fr,1
+GUR,GUR,MISC,,,fr,1
+IKEA Open House,IKEA Open House,MISC,,,fr,1
+MALMÖ,MALMÖ,MISC,,,fr,1
+Syma Le Douze,Syma Le Douze,MISC,,,fr,1
+Le Douze de Syma,Le Douze de Syma,MISC,,,fr,1
+Les-Crises,Les-Crises,MISC,,,fr,1
+organisatiâ€,organisatiâ€,MISC,,,fr,1
+République islami,République islami,MISC,,,fr,1
+Le retour de Harry et Meghan outre,Le retour de Harry et Meghan outre,MISC,,,fr,1
+Donald Trump « heureux,Donald Trump « heureux,MISC,,,fr,1
+Gallet F1 XF,Gallet F1 XF,MISC,,,fr,1
+quEmmanue,quEmmanue,MISC,,,fr,1
+Loto du Patrimoine 2026,Loto du Patrimoine 2026,MISC,,,fr,1
+"Milles
+","Milles
+",MISC,,,fr,1
+RUSH Action,RUSH Action,MISC,,,fr,1
+Bigflo & Oli ,Bigflo & Oli ,MISC,,,fr,1
+nulâ€,nulâ€,MISC,,,fr,1
+Ã  Toulouse,Ã  Toulouse,MISC,,,fr,1
+Brest Ã  Francis,Brest Ã  Francis,MISC,,,fr,1
+Distributeur ,Distributeur ,MISC,,,fr,1
+Ã  Nice,Ã  Nice,MISC,,,fr,1
+LFFP,LFFP,MISC,,,fr,1
+Lengin jaune,Lengin jaune,MISC,,,fr,1
+Mystère d'escale »,Mystère d'escale »,MISC,,,fr,1
+La Fardèle,La Fardèle,MISC,,,fr,1
+Disne,Disne,MISC,,,fr,1
+Traintracker24,Traintracker24,MISC,,,fr,1
+Christ,Christ,MISC,,,fr,1
+Ford V8,Ford V8,MISC,,,fr,1
+Ford ,Ford ,MISC,,,fr,1
+Bigflo & Oli,Bigflo & Oli,MISC,,,fr,1
+Rita,Rita,MISC,,,fr,1
+Les favoris,Les favoris,MISC,,,fr,1
+Sofitel,Sofitel,MISC,,,fr,1
+À Saint-Étienne,À Saint-Étienne,MISC,,,fr,1
+Tshis,Tshis,MISC,,,fr,1
+lON,lON,MISC,,,fr,1
+lOccident,lOccident,MISC,,,fr,1
+La célèbre Cour des Loges,La célèbre Cour des Loges,MISC,,,fr,1
+Bocuse,Bocuse,MISC,0.4222222222222222,0.5444444444444445,fr,1
+Authentiques,Authentiques,MISC,,,fr,1
+Active ,Active ,MISC,,,fr,1
+J-30,J-30,MISC,,,fr,1
+FO 84,FO 84,MISC,,,fr,1
+SNUDI,SNUDI,MISC,,,fr,1
+EMC,EMC,MISC,,,fr,1
+Principale dissidence,Principale dissidence,MISC,,,fr,1
+Coupe du monde 2027,Coupe du monde 2027,MISC,,,fr,1
+Ankara,Ankara,MISC,-0.004999999999999995,0.09249999999999999,fr,1
+Guerre en Ukraine : Tensions en,Guerre en Ukraine : Tensions en,MISC,,,fr,1
 Attaque « massive,Attaque « massive,MISC,,,fr,1
-Human x Car x Home,Human x Car x Home,MISC,,,fr,1
-Lundi 10 août,Lundi 10 août,MISC,,,fr,1
-Mijia 621L,Mijia 621L,MISC,,,fr,1
+Velvet,Velvet,MISC,,,fr,1
+Championnats d’Europe d’athlétisme,Championnats d’Europe d’athlétisme,MISC,,,fr,1
+Championnats d’Europe d’athlétisme ,Championnats d’Europe d’athlétisme ,MISC,,,fr,1
+Monnaies et médailles,Monnaies et médailles,MISC,,,fr,1
+Marathon des Terroirs du Ventoux,Marathon des Terroirs du Ventoux,MISC,,,fr,1
+Trail,Trail,MISC,,,fr,1
+Loi,Loi,MISC,,,fr,1
+Japonais,Japonais,MISC,,,fr,1
+Itouroup,Itouroup,MISC,,,fr,1
+dEtorofu,dEtorofu,MISC,,,fr,1
+guerre du Pacifique,guerre du Pacifique,MISC,,,fr,1
+Pollution,Pollution,MISC,,,fr,1
+Mission de surveillance des droits de l'homme des Nations unies,Mission de surveillance des droits de l'homme des Nations unies,MISC,,,fr,1
+Attention lynx,Attention lynx,MISC,,,fr,1
+concours Eurovision de la chanson,concours Eurovision de la chanson,MISC,,,fr,1
+Eurovision,Eurovision,MISC,,,fr,1
+Championnats dEurope dathlétisme,Championnats dEurope dathlétisme,MISC,,,fr,1
+Pro D2,Pro D2,MISC,,,fr,1
+Ã‰tats-,Ã‰tats-,MISC,,,fr,1
+Préparation des célébrations,Préparation des célébrations,MISC,,,fr,1
+incendie des Landes,incendie des Landes,MISC,,,fr,1
+LOrient,LOrient,MISC,,,fr,1
+Sévi,Sévi,MISC,,,fr,1
+Ouest,Ouest,MISC,0.0017543859649122807,0.004532163742690058,fr,1
+Le routard du crime”,Le routard du crime”,MISC,,,fr,1
+Cheval,Cheval,MISC,,,fr,1
+Ici Vaucluse,Ici Vaucluse,MISC,,,fr,1
+Matic ,Matic ,MISC,,,fr,1
+crise d’Ormuz,crise d’Ormuz,MISC,,,fr,1
+Masra,Masra,MISC,,,fr,1
+Va-,Va-,MISC,,,fr,1
+Météo : la canicule,Météo : la canicule,MISC,,,fr,1
+Vendredi 14,Vendredi 14,MISC,,,fr,1
+» Installé da,» Installé da,MISC,,,fr,1
+Ehpad,Ehpad,MISC,,,fr,1
+Un conducteur de train,Un conducteur de train,MISC,,,fr,1
+Maybe it is time,Maybe it is time,MISC,,,fr,1
+Russia is getting destroyed by Ukraine,Russia is getting destroyed by Ukraine,MISC,,,fr,1
+French,French,MISC,,,fr,1
 Une Zoé,Une Zoé,MISC,,,fr,1
 » Un enfant,» Un enfant,MISC,,,fr,1
 Dramatiquement,Dramatiquement,MISC,,,fr,1
@@ -1509,10 +1377,106 @@ Sota Vision,Sota Vision,MISC,,,fr,1
 Pont-de-l’Isère,Pont-de-l’Isère,MISC,,,fr,1
 Lélection,Lélection,MISC,,,fr,1
 Lopération «Paix,Lopération «Paix,MISC,,,fr,1
+Coupe du monde de football,Coupe du monde de football,MISC,,,fr,1
 Beyrouth 1982,Beyrouth 1982,MISC,,,fr,1
 Mardi 4 août,Mardi 4 août,MISC,,,fr,1
 Gaza bute,Gaza bute,MISC,,,fr,1
-Challenges vous,Challenges vous,MISC,,,fr,1
 missiles russes,missiles russes,MISC,,,fr,1
 missiles balistiques nord-coréens,missiles balistiques nord-coréens,MISC,,,fr,1
-mur de séparation de Gaza,mur de séparation de Gaza,MISC,,,fr,1
+Lundi 10 août,Lundi 10 août,MISC,,,fr,1
+Mijia 621L,Mijia 621L,MISC,,,fr,1
+Human x Car x Home,Human x Car x Home,MISC,,,fr,1
+Léclipse,Léclipse,MISC,,,fr,1
+duNigeria,duNigeria,MISC,,,fr,1
+England is rapidly going broke,England is rapidly going broke,MISC,,,fr,1
+Forget it,Forget it,MISC,,,fr,1
+Vinted »,Vinted »,MISC,,,fr,1
+Leboncoin,Leboncoin,MISC,,,fr,1
+Une guerre d’usure,Une guerre d’usure,MISC,,,fr,1
+Bonny,Bonny,MISC,,,fr,1
+Gilles,Gilles,MISC,-0.04428571428571428,0.049999999999999996,fr,1
+Pressions,Pressions,MISC,,,fr,1
+Ã  Saint,Ã  Saint,MISC,,,fr,1
+calcinÃ,calcinÃ,MISC,-0.062,0.06999999999999999,fr,1
+KN-24 de fabricat,KN-24 de fabricat,MISC,,,fr,1
+dAnkara,dAnkara,MISC,,,fr,1
+C-32,C-32,MISC,,,fr,1
+dApt,dApt,MISC,,,fr,1
+Guerre en Ukraine : nouvelle nuit de frappes,Guerre en Ukraine : nouvelle nuit de frappes,MISC,,,fr,1
+Newcleo,Newcleo,MISC,0.1375,0.128125,fr,1
+Masha et Michka,Masha et Michka,MISC,,,fr,1
+LR,LR,MISC,,,fr,1
+lIsère,lIsère,MISC,,,fr,1
+lArdèche,lArdèche,MISC,,,fr,1
+Chikungunya ,Chikungunya ,MISC,,,fr,1
+lApp Store,lApp Store,MISC,,,fr,1
+iPhone,iPhone,MISC,,,fr,1
+fÃªte,fÃªte,MISC,,,fr,1
+Courchevel,Courchevel,MISC,,,fr,1
+tÃªte,tÃªte,MISC,,,fr,1
+Russes fortunÃ,Russes fortunÃ,MISC,,,fr,1
+sanctionsÂ Â» europÃ©ennes,sanctionsÂ Â» europÃ©ennes,MISC,,,fr,1
+Tapis rouge,Tapis rouge,MISC,,,fr,1
+La guerre hybride,La guerre hybride,MISC,,,fr,1
+Cliquez,Cliquez,MISC,,,fr,1
+Tel-Aviv et Washington,Tel-Aviv et Washington,MISC,,,fr,1
+La M,La M,MISC,,,fr,1
+Envie de vous,Envie de vous,MISC,,,fr,1
+La peine,La peine,MISC,,,fr,1
+programmeÂ ,programmeÂ ,MISC,,,fr,1
+Cours d’histoire,Cours d’histoire,MISC,,,fr,1
+Cynique et ignoble,Cynique et ignoble,MISC,,,fr,1
+Boîte à bisous,Boîte à bisous,MISC,,,fr,1
+rencontrÃ,rencontrÃ,MISC,,,fr,1
+S8000 Banderol,S8000 Banderol,MISC,,,fr,1
+En Croatie,En Croatie,MISC,,,fr,1
+sabotage de Nord Stream 1,sabotage de Nord Stream 1,MISC,,,fr,1
+Neptun Deep,Neptun Deep,MISC,-0.014285714285714287,0.014285714285714287,fr,1
+prolongÃ,prolongÃ,MISC,,,fr,1
+Un des deux hommes,Un des deux hommes,MISC,,,fr,1
+Cisjordanie ,Cisjordanie ,MISC,,,fr,1
+pandémie de Covid 19,pandémie de Covid 19,MISC,,,fr,1
+ladministration Trump ,ladministration Trump ,MISC,,,fr,1
+Première ministre japonaise,Première ministre japonaise,MISC,,,fr,1
+lUnio,lUnio,MISC,,,fr,1
+Situations d’urgence,Situations d’urgence,MISC,,,fr,1
+lenqâ€,lenqâ€,MISC,,,fr,1
+quun corps calcinÃ,quun corps calcinÃ,MISC,,,fr,1
+"ADOBESTOCK
+Publié","ADOBESTOCK
+Publié",MISC,,,fr,1
+Airtel Africa,Airtel Africa,MISC,,,fr,1
+Furieuse des drones,Furieuse des drones,MISC,,,fr,1
+offensive de,offensive de,MISC,,,fr,1
+CHRI,CHRI,MISC,,,fr,1
+place Rouge,place Rouge,MISC,,,fr,1
+Le Premier ministre a détaillé,Le Premier ministre a détaillé,MISC,,,fr,1
+Basilic &amp,Basilic &amp,MISC,,,fr,1
+Le Premier ministre s’,Le Premier ministre s’,MISC,,,fr,1
+uneâ€,uneâ€,MISC,,,fr,1
+Bonne nouvelle,Bonne nouvelle,MISC,,,fr,1
+Tesla Model 3,Tesla Model 3,MISC,,,fr,1
+Qin Max,Qin Max,MISC,,,fr,1
+festival militaire de Moscou,festival militaire de Moscou,MISC,,,fr,1
+Soyouz,Soyouz,MISC,,,fr,1
+Donald Trump e,Donald Trump e,MISC,,,fr,1
+Le BIR sème la terreur,Le BIR sème la terreur,MISC,,,fr,1
+SPA des Amandiers,SPA des Amandiers,MISC,,,fr,1
+Hex,Hex,MISC,,,fr,1
+France Cest,France Cest,MISC,,,fr,1
+Une frappe aérienne israélienne,Une frappe aérienne israélienne,MISC,,,fr,1
+"prétexte""Ce","prétexte""Ce",MISC,,,fr,1
+Japonaise Tomoko Akane,Japonaise Tomoko Akane,MISC,,,fr,1
+tude Ã  ,tude Ã  ,MISC,,,fr,1
+incendiesÂ ,incendiesÂ ,MISC,,,fr,1
+Un Ukrainien condamné,Un Ukrainien condamné,MISC,,,fr,1
+Téhéran,Téhéran,MISC,-6.454785026890445e-20,0.0027906976744186047,fr,1
+leFaso.net,leFaso.net,MISC,,,fr,1
+The Tele,The Tele,MISC,,,fr,1
+Premier ministre en Gironde,Premier ministre en Gironde,MISC,,,fr,1
+Jared,Jared,MISC,,,fr,1
+Le Premier,Le Premier,MISC,,,fr,1
+Feu !,Feu !,MISC,,,fr,1
+VEB,VEB,MISC,,,fr,1
+Vladimir,Vladimir,MISC,,,fr,1
+championnats d'Europe de volley féminin,championnats d'Europe de volley féminin,MISC,,,fr,1
